@@ -1,0 +1,1 @@
+<?phpif (isset($header)) {    $this->load->view("admin/" . $header);} else {    $this->load->view("admin/general/header");}if (isset($vista)) {    $this->load->view("admin/" . $vista);} else {    $this->load->view("admin/general/vista_default");}$this->load->view("admin/general/footer_common");if (isset($footer)) {    $this->load->view("admin/" . $footer);} 

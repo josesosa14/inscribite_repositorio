@@ -1,0 +1,9 @@
+RewriteEngine on
+Options +FollowSymlinks
+
+RewriteCond %{REQUEST_URI} /admin/filepfacil*$ [OR]
+RewriteCond %{REQUEST_URI} /admin$ [OR]
+RewriteCond %{REQUEST_URI} /empresas$ [OR]
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^(.*)$ /$1.php

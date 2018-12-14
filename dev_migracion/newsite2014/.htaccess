@@ -1,0 +1,11 @@
+RewriteEngine on
+Options +FollowSymlinks
+
+AddDefaultCharset utf-8
+
+RewriteCond %{REQUEST_URI} /admin/filepfacil*$ [OR]
+RewriteCond %{REQUEST_URI} /admin$ [OR]
+RewriteCond %{REQUEST_URI} /empresas$ [OR]
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^(.*)$ newsite2014/argit/$1.php

@@ -1,0 +1,767 @@
+[03-Jun-2014 21:17:42 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: pagetitle in /home/argitcom/public_html/inscribite/admin/index.php on line 443
+[03-Jun-2014 21:17:42 America/Argentina/Buenos_Aires] PHP Notice:  Use of undefined constant url - assumed 'url' in /home/argitcom/public_html/inscribite/admin/index.php on line 450
+[03-Jun-2014 21:17:42 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_close($coneccion): no MySQL-Link resource supplied in /home/argitcom/public_html/inscribite/admin/inc.funciones.php on line 123
+[03-Jun-2014 21:18:41 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): Access denied for user 'argitcom'@'localhost' (using password: NO) in /home/argitcom/public_html/inscribite/admin/inc.funciones.php on line 82
+[03-Jun-2014 21:18:41 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): A link to the server could not be established in /home/argitcom/public_html/inscribite/admin/inc.funciones.php on line 82
+[03-Jun-2014 21:18:41 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be resource, boolean given in /home/argitcom/public_html/inscribite/admin/inc.funciones.php on line 83
+[03-Jun-2014 21:18:41 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: pagetitle in /home/argitcom/public_html/inscribite/admin/index.php on line 443
+[03-Jun-2014 21:18:41 America/Argentina/Buenos_Aires] PHP Notice:  Use of undefined constant url - assumed 'url' in /home/argitcom/public_html/inscribite/admin/index.php on line 450
+[03-Jun-2014 21:18:41 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_close($coneccion): no MySQL-Link resource supplied in /home/argitcom/public_html/inscribite/admin/inc.funciones.php on line 123
+[03-Jun-2014 21:30:18 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 91
+[03-Jun-2014 21:30:18 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 91
+[03-Jun-2014 21:30:18 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 93
+[03-Jun-2014 21:30:18 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 93
+[03-Jun-2014 21:30:18 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: tipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 4
+[03-Jun-2014 21:30:18 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: tipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 5
+[03-Jun-2014 21:30:18 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: tipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 6
+[03-Jun-2014 21:30:18 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: tipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 7
+[03-Jun-2014 21:30:18 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ver in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 9
+[03-Jun-2014 21:30:18 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): Access denied for user 'argitcom'@'localhost' (using password: NO) in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 19
+[03-Jun-2014 21:30:18 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): A link to the server could not be established in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 19
+[03-Jun-2014 21:30:18 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be resource, boolean given in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 20
+[03-Jun-2014 21:30:18 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: tipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 57
+[03-Jun-2014 21:30:18 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ver in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 59
+[03-Jun-2014 21:30:18 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: filtroportipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 60
+[03-Jun-2014 21:30:18 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): Access denied for user 'argitcom'@'localhost' (using password: NO) in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 60
+[03-Jun-2014 21:30:18 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): A link to the server could not be established in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 60
+[03-Jun-2014 21:30:18 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be resource, boolean given in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 61
+[03-Jun-2014 21:30:18 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 95
+[03-Jun-2014 21:30:18 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 95
+[03-Jun-2014 21:30:18 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 97
+[03-Jun-2014 21:30:18 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 99
+[03-Jun-2014 21:30:18 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 99
+[03-Jun-2014 21:30:18 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 101
+[03-Jun-2014 21:30:18 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 103
+[03-Jun-2014 21:30:18 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 103
+[03-Jun-2014 21:30:18 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 105
+[03-Jun-2014 21:30:18 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 107
+[03-Jun-2014 21:30:18 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 109
+[03-Jun-2014 21:30:18 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 109
+[03-Jun-2014 21:30:18 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 111
+[03-Jun-2014 21:30:18 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 111
+[03-Jun-2014 21:30:18 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 113
+[03-Jun-2014 21:30:18 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 115
+[03-Jun-2014 21:30:18 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 115
+[03-Jun-2014 21:30:18 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 117
+[03-Jun-2014 21:30:18 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 120
+[03-Jun-2014 21:30:18 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 120
+[03-Jun-2014 21:30:18 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 147
+[03-Jun-2014 21:30:18 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 167
+[03-Jun-2014 21:30:18 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 225
+[03-Jun-2014 21:30:18 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 225
+[03-Jun-2014 21:30:18 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 313
+[03-Jun-2014 21:30:18 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_close($coneccion): no MySQL-Link resource supplied in /home/argitcom/public_html/inscribite/admin/inc.funciones.php on line 123
+[03-Jun-2014 21:30:23 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: tipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 4
+[03-Jun-2014 21:30:23 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: tipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 5
+[03-Jun-2014 21:30:23 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: tipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 6
+[03-Jun-2014 21:30:23 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: tipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 7
+[03-Jun-2014 21:30:23 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ver in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 9
+[03-Jun-2014 21:30:23 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): Access denied for user 'argitcom'@'localhost' (using password: NO) in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 19
+[03-Jun-2014 21:30:23 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): A link to the server could not be established in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 19
+[03-Jun-2014 21:30:23 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be resource, boolean given in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 20
+[03-Jun-2014 21:30:23 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: tipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 57
+[03-Jun-2014 21:30:23 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ver in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 59
+[03-Jun-2014 21:30:23 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: filtroportipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 60
+[03-Jun-2014 21:30:23 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): Access denied for user 'argitcom'@'localhost' (using password: NO) in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 60
+[03-Jun-2014 21:30:23 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): A link to the server could not be established in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 60
+[03-Jun-2014 21:30:23 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be resource, boolean given in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 61
+[03-Jun-2014 21:30:23 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_close($coneccion): no MySQL-Link resource supplied in /home/argitcom/public_html/inscribite/admin/inc.funciones.php on line 123
+[03-Jun-2014 21:30:25 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: editando in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 1
+[03-Jun-2014 21:30:25 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): Access denied for user 'argitcom'@'localhost' (using password: NO) in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 1
+[03-Jun-2014 21:30:25 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): A link to the server could not be established in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 1
+[03-Jun-2014 21:30:25 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: nroid in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 10
+[03-Jun-2014 21:30:25 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 14
+[03-Jun-2014 21:30:25 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 21
+[03-Jun-2014 21:30:25 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 26
+[03-Jun-2014 21:30:25 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 30
+[03-Jun-2014 21:30:25 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 34
+[03-Jun-2014 21:30:25 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 43
+[03-Jun-2014 21:30:25 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 44
+[03-Jun-2014 21:30:25 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 45
+[03-Jun-2014 21:30:25 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 46
+[03-Jun-2014 21:30:25 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 47
+[03-Jun-2014 21:30:25 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 55
+[03-Jun-2014 21:30:25 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): Access denied for user 'argitcom'@'localhost' (using password: NO) in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 63
+[03-Jun-2014 21:30:25 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): A link to the server could not be established in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 63
+[03-Jun-2014 21:30:25 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be resource, boolean given in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 64
+[03-Jun-2014 21:30:25 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 74
+[03-Jun-2014 21:30:25 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 79
+[03-Jun-2014 21:30:25 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 81
+[03-Jun-2014 21:30:25 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 84
+[03-Jun-2014 21:30:25 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 87
+[03-Jun-2014 21:30:25 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 111
+[03-Jun-2014 21:30:25 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 186
+[03-Jun-2014 21:30:25 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 194
+[03-Jun-2014 21:30:25 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 208
+[03-Jun-2014 21:30:25 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 210
+[03-Jun-2014 21:30:25 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 212
+[03-Jun-2014 21:30:25 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 214
+[03-Jun-2014 21:30:25 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 224
+[03-Jun-2014 21:30:25 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 227
+[03-Jun-2014 21:30:25 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_close($coneccion): no MySQL-Link resource supplied in /home/argitcom/public_html/inscribite/admin/inc.funciones.php on line 123
+[03-Jun-2014 21:31:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: editando in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 1
+[03-Jun-2014 21:31:59 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): Access denied for user 'argitcom'@'localhost' (using password: NO) in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 1
+[03-Jun-2014 21:31:59 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): A link to the server could not be established in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 1
+[03-Jun-2014 21:31:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: nroid in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 10
+[03-Jun-2014 21:31:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 14
+[03-Jun-2014 21:31:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 21
+[03-Jun-2014 21:31:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 26
+[03-Jun-2014 21:31:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 30
+[03-Jun-2014 21:31:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 34
+[03-Jun-2014 21:31:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 43
+[03-Jun-2014 21:31:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 44
+[03-Jun-2014 21:31:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 45
+[03-Jun-2014 21:31:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 46
+[03-Jun-2014 21:31:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 47
+[03-Jun-2014 21:31:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 55
+[03-Jun-2014 21:31:59 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): Access denied for user 'argitcom'@'localhost' (using password: NO) in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 63
+[03-Jun-2014 21:31:59 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): A link to the server could not be established in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 63
+[03-Jun-2014 21:31:59 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be resource, boolean given in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 64
+[03-Jun-2014 21:31:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 74
+[03-Jun-2014 21:31:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 79
+[03-Jun-2014 21:31:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 81
+[03-Jun-2014 21:31:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 84
+[03-Jun-2014 21:31:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 87
+[03-Jun-2014 21:31:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 111
+[03-Jun-2014 21:31:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 186
+[03-Jun-2014 21:31:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 194
+[03-Jun-2014 21:31:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 208
+[03-Jun-2014 21:31:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 210
+[03-Jun-2014 21:31:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 212
+[03-Jun-2014 21:31:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 214
+[03-Jun-2014 21:31:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 224
+[03-Jun-2014 21:31:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 227
+[03-Jun-2014 21:31:59 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_close($coneccion): no MySQL-Link resource supplied in /home/argitcom/public_html/inscribite/admin/inc.funciones.php on line 123
+[03-Jun-2014 21:32:10 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: editando in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 1
+[03-Jun-2014 21:32:10 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): Access denied for user 'argitcom'@'localhost' (using password: NO) in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 1
+[03-Jun-2014 21:32:10 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): A link to the server could not be established in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 1
+[03-Jun-2014 21:32:10 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: nroid in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 10
+[03-Jun-2014 21:32:10 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 14
+[03-Jun-2014 21:32:10 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 21
+[03-Jun-2014 21:32:10 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 26
+[03-Jun-2014 21:32:10 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 30
+[03-Jun-2014 21:32:10 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 34
+[03-Jun-2014 21:32:10 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 43
+[03-Jun-2014 21:32:10 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 44
+[03-Jun-2014 21:32:10 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 45
+[03-Jun-2014 21:32:10 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 46
+[03-Jun-2014 21:32:10 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 47
+[03-Jun-2014 21:32:10 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 55
+[03-Jun-2014 21:32:10 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): Access denied for user 'argitcom'@'localhost' (using password: NO) in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 63
+[03-Jun-2014 21:32:10 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): A link to the server could not be established in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 63
+[03-Jun-2014 21:32:10 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be resource, boolean given in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 64
+[03-Jun-2014 21:32:10 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 74
+[03-Jun-2014 21:32:10 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 79
+[03-Jun-2014 21:32:10 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 81
+[03-Jun-2014 21:32:10 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 84
+[03-Jun-2014 21:32:10 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 87
+[03-Jun-2014 21:32:10 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 111
+[03-Jun-2014 21:32:10 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 186
+[03-Jun-2014 21:32:10 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 194
+[03-Jun-2014 21:32:10 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 208
+[03-Jun-2014 21:32:10 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 210
+[03-Jun-2014 21:32:10 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 212
+[03-Jun-2014 21:32:10 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 214
+[03-Jun-2014 21:32:10 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 224
+[03-Jun-2014 21:32:10 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 227
+[03-Jun-2014 21:32:10 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_close($coneccion): no MySQL-Link resource supplied in /home/argitcom/public_html/inscribite/admin/inc.funciones.php on line 123
+[03-Jun-2014 21:32:52 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: tipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 4
+[03-Jun-2014 21:32:52 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: tipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 5
+[03-Jun-2014 21:32:52 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: tipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 6
+[03-Jun-2014 21:32:52 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: tipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 7
+[03-Jun-2014 21:32:52 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ver in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 9
+[03-Jun-2014 21:32:52 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): Access denied for user 'argitcom'@'localhost' (using password: NO) in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 19
+[03-Jun-2014 21:32:52 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): A link to the server could not be established in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 19
+[03-Jun-2014 21:32:52 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be resource, boolean given in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 20
+[03-Jun-2014 21:32:52 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: tipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 57
+[03-Jun-2014 21:32:52 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ver in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 59
+[03-Jun-2014 21:32:52 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: filtroportipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 60
+[03-Jun-2014 21:32:52 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): Access denied for user 'argitcom'@'localhost' (using password: NO) in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 60
+[03-Jun-2014 21:32:52 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): A link to the server could not be established in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 60
+[03-Jun-2014 21:32:52 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be resource, boolean given in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 61
+[03-Jun-2014 21:32:52 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_close($coneccion): no MySQL-Link resource supplied in /home/argitcom/public_html/inscribite/admin/inc.funciones.php on line 123
+[03-Jun-2014 21:32:54 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: editando in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 1
+[03-Jun-2014 21:32:54 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): Access denied for user 'argitcom'@'localhost' (using password: NO) in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 1
+[03-Jun-2014 21:32:54 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): A link to the server could not be established in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 1
+[03-Jun-2014 21:32:54 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: nroid in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 10
+[03-Jun-2014 21:32:54 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 14
+[03-Jun-2014 21:32:54 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 21
+[03-Jun-2014 21:32:54 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 26
+[03-Jun-2014 21:32:54 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 30
+[03-Jun-2014 21:32:54 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 34
+[03-Jun-2014 21:32:54 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 43
+[03-Jun-2014 21:32:54 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 44
+[03-Jun-2014 21:32:54 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 45
+[03-Jun-2014 21:32:54 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 46
+[03-Jun-2014 21:32:54 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 47
+[03-Jun-2014 21:32:54 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 55
+[03-Jun-2014 21:32:54 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): Access denied for user 'argitcom'@'localhost' (using password: NO) in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 63
+[03-Jun-2014 21:32:54 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): A link to the server could not be established in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 63
+[03-Jun-2014 21:32:54 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be resource, boolean given in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 64
+[03-Jun-2014 21:32:54 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 74
+[03-Jun-2014 21:32:54 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 79
+[03-Jun-2014 21:32:54 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 81
+[03-Jun-2014 21:32:54 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 84
+[03-Jun-2014 21:32:54 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 87
+[03-Jun-2014 21:32:54 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 111
+[03-Jun-2014 21:32:54 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 186
+[03-Jun-2014 21:32:54 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 194
+[03-Jun-2014 21:32:54 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 208
+[03-Jun-2014 21:32:54 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 210
+[03-Jun-2014 21:32:54 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 212
+[03-Jun-2014 21:32:54 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 214
+[03-Jun-2014 21:32:54 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 224
+[03-Jun-2014 21:32:54 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 227
+[03-Jun-2014 21:32:54 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_close($coneccion): no MySQL-Link resource supplied in /home/argitcom/public_html/inscribite/admin/inc.funciones.php on line 123
+[03-Jun-2014 21:36:57 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: editando in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 1
+[03-Jun-2014 21:36:57 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): Access denied for user 'argitcom'@'localhost' (using password: NO) in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 1
+[03-Jun-2014 21:36:57 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): A link to the server could not be established in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 1
+[03-Jun-2014 21:36:57 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: nroid in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 10
+[03-Jun-2014 21:36:57 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 14
+[03-Jun-2014 21:36:57 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 21
+[03-Jun-2014 21:36:57 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 26
+[03-Jun-2014 21:36:57 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 30
+[03-Jun-2014 21:36:57 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 34
+[03-Jun-2014 21:36:57 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 43
+[03-Jun-2014 21:36:57 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 44
+[03-Jun-2014 21:36:57 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 45
+[03-Jun-2014 21:36:57 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 46
+[03-Jun-2014 21:36:57 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 47
+[03-Jun-2014 21:36:57 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 55
+[03-Jun-2014 21:36:57 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): Access denied for user 'argitcom'@'localhost' (using password: NO) in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 63
+[03-Jun-2014 21:36:57 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): A link to the server could not be established in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 63
+[03-Jun-2014 21:36:57 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be resource, boolean given in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 64
+[03-Jun-2014 21:36:57 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 74
+[03-Jun-2014 21:36:57 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 79
+[03-Jun-2014 21:36:57 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 81
+[03-Jun-2014 21:36:57 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 84
+[03-Jun-2014 21:36:57 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 87
+[03-Jun-2014 21:36:57 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 111
+[03-Jun-2014 21:36:57 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 186
+[03-Jun-2014 21:36:57 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 194
+[03-Jun-2014 21:36:57 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 208
+[03-Jun-2014 21:36:57 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 210
+[03-Jun-2014 21:36:57 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 212
+[03-Jun-2014 21:36:57 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 214
+[03-Jun-2014 21:36:57 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 224
+[03-Jun-2014 21:36:57 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 227
+[03-Jun-2014 21:36:57 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_close($coneccion): no MySQL-Link resource supplied in /home/argitcom/public_html/inscribite/admin/inc.funciones.php on line 123
+[03-Jun-2014 21:36:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: editando in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 1
+[03-Jun-2014 21:36:59 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): Access denied for user 'argitcom'@'localhost' (using password: NO) in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 1
+[03-Jun-2014 21:36:59 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): A link to the server could not be established in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 1
+[03-Jun-2014 21:36:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: nroid in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 10
+[03-Jun-2014 21:36:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 14
+[03-Jun-2014 21:36:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 21
+[03-Jun-2014 21:36:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 26
+[03-Jun-2014 21:36:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 30
+[03-Jun-2014 21:36:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 34
+[03-Jun-2014 21:36:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 43
+[03-Jun-2014 21:36:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 44
+[03-Jun-2014 21:36:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 45
+[03-Jun-2014 21:36:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 46
+[03-Jun-2014 21:36:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 47
+[03-Jun-2014 21:36:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 55
+[03-Jun-2014 21:36:59 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): Access denied for user 'argitcom'@'localhost' (using password: NO) in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 63
+[03-Jun-2014 21:36:59 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): A link to the server could not be established in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 63
+[03-Jun-2014 21:36:59 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be resource, boolean given in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 64
+[03-Jun-2014 21:36:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 74
+[03-Jun-2014 21:36:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 79
+[03-Jun-2014 21:36:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 81
+[03-Jun-2014 21:36:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 84
+[03-Jun-2014 21:36:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 87
+[03-Jun-2014 21:36:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 111
+[03-Jun-2014 21:36:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 186
+[03-Jun-2014 21:36:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 194
+[03-Jun-2014 21:36:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 208
+[03-Jun-2014 21:36:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 210
+[03-Jun-2014 21:36:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 212
+[03-Jun-2014 21:36:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 214
+[03-Jun-2014 21:36:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 224
+[03-Jun-2014 21:36:59 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 227
+[03-Jun-2014 21:36:59 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_close($coneccion): no MySQL-Link resource supplied in /home/argitcom/public_html/inscribite/admin/inc.funciones.php on line 123
+[03-Jun-2014 23:15:01 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 92
+[03-Jun-2014 23:15:01 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 92
+[03-Jun-2014 23:15:01 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 94
+[03-Jun-2014 23:15:01 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 94
+[03-Jun-2014 23:15:01 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: tipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 4
+[03-Jun-2014 23:15:01 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: tipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 5
+[03-Jun-2014 23:15:01 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: tipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 6
+[03-Jun-2014 23:15:01 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: tipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 7
+[03-Jun-2014 23:15:01 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ver in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 9
+[03-Jun-2014 23:15:01 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): Access denied for user 'argitcom'@'localhost' (using password: NO) in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 19
+[03-Jun-2014 23:15:01 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): A link to the server could not be established in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 19
+[03-Jun-2014 23:15:01 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be resource, boolean given in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 20
+[03-Jun-2014 23:15:01 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: tipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 57
+[03-Jun-2014 23:15:01 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ver in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 59
+[03-Jun-2014 23:15:01 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: filtroportipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 60
+[03-Jun-2014 23:15:01 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): Access denied for user 'argitcom'@'localhost' (using password: NO) in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 60
+[03-Jun-2014 23:15:01 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): A link to the server could not be established in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 60
+[03-Jun-2014 23:15:01 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be resource, boolean given in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 61
+[03-Jun-2014 23:15:01 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 96
+[03-Jun-2014 23:15:01 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 96
+[03-Jun-2014 23:15:01 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 98
+[03-Jun-2014 23:15:01 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 100
+[03-Jun-2014 23:15:01 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 100
+[03-Jun-2014 23:15:01 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 102
+[03-Jun-2014 23:15:01 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 104
+[03-Jun-2014 23:15:01 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 104
+[03-Jun-2014 23:15:01 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 106
+[03-Jun-2014 23:15:01 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 108
+[03-Jun-2014 23:15:01 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 110
+[03-Jun-2014 23:15:01 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 110
+[03-Jun-2014 23:15:01 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 112
+[03-Jun-2014 23:15:01 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 112
+[03-Jun-2014 23:15:01 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 114
+[03-Jun-2014 23:15:01 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 116
+[03-Jun-2014 23:15:01 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 116
+[03-Jun-2014 23:15:01 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 118
+[03-Jun-2014 23:15:01 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 121
+[03-Jun-2014 23:15:01 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 121
+[03-Jun-2014 23:15:01 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 148
+[03-Jun-2014 23:15:01 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 168
+[03-Jun-2014 23:15:01 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 226
+[03-Jun-2014 23:15:01 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 226
+[03-Jun-2014 23:15:01 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 314
+[03-Jun-2014 23:15:01 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_close($coneccion): no MySQL-Link resource supplied in /home/argitcom/public_html/inscribite/admin/inc.funciones.php on line 123
+[04-Jun-2014 18:57:49 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 92
+[04-Jun-2014 18:57:49 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 92
+[04-Jun-2014 18:57:49 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 94
+[04-Jun-2014 18:57:49 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 94
+[04-Jun-2014 18:57:49 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: tipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 4
+[04-Jun-2014 18:57:49 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: tipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 5
+[04-Jun-2014 18:57:49 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: tipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 6
+[04-Jun-2014 18:57:49 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: tipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 7
+[04-Jun-2014 18:57:49 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ver in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 9
+[04-Jun-2014 18:57:49 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): Access denied for user 'argitcom'@'localhost' (using password: NO) in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 19
+[04-Jun-2014 18:57:49 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): A link to the server could not be established in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 19
+[04-Jun-2014 18:57:49 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be resource, boolean given in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 20
+[04-Jun-2014 18:57:49 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: tipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 57
+[04-Jun-2014 18:57:49 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ver in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 59
+[04-Jun-2014 18:57:49 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: filtroportipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 60
+[04-Jun-2014 18:57:49 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): Access denied for user 'argitcom'@'localhost' (using password: NO) in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 60
+[04-Jun-2014 18:57:49 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): A link to the server could not be established in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 60
+[04-Jun-2014 18:57:49 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be resource, boolean given in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 61
+[04-Jun-2014 18:57:49 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 96
+[04-Jun-2014 18:57:49 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 96
+[04-Jun-2014 18:57:49 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 98
+[04-Jun-2014 18:57:49 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 100
+[04-Jun-2014 18:57:49 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 100
+[04-Jun-2014 18:57:49 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 102
+[04-Jun-2014 18:57:49 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 104
+[04-Jun-2014 18:57:49 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 104
+[04-Jun-2014 18:57:49 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 106
+[04-Jun-2014 18:57:49 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 108
+[04-Jun-2014 18:57:49 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 110
+[04-Jun-2014 18:57:49 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 110
+[04-Jun-2014 18:57:49 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 112
+[04-Jun-2014 18:57:49 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 112
+[04-Jun-2014 18:57:49 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 114
+[04-Jun-2014 18:57:49 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 116
+[04-Jun-2014 18:57:49 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 116
+[04-Jun-2014 18:57:49 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 118
+[04-Jun-2014 18:57:49 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 121
+[04-Jun-2014 18:57:49 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 121
+[04-Jun-2014 18:57:49 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 148
+[04-Jun-2014 18:57:49 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 168
+[04-Jun-2014 18:57:49 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 226
+[04-Jun-2014 18:57:49 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 226
+[04-Jun-2014 18:57:49 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 314
+[04-Jun-2014 18:57:49 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_close($coneccion): no MySQL-Link resource supplied in /home/argitcom/public_html/inscribite/admin/inc.funciones.php on line 123
+[05-Jun-2014 11:10:21 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 92
+[05-Jun-2014 11:10:21 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 92
+[05-Jun-2014 11:10:21 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 94
+[05-Jun-2014 11:10:21 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 94
+[05-Jun-2014 11:10:21 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: tipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 4
+[05-Jun-2014 11:10:21 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: tipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 5
+[05-Jun-2014 11:10:21 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: tipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 6
+[05-Jun-2014 11:10:21 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: tipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 7
+[05-Jun-2014 11:10:21 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ver in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 9
+[05-Jun-2014 11:10:21 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): Access denied for user 'argitcom'@'localhost' (using password: NO) in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 19
+[05-Jun-2014 11:10:21 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): A link to the server could not be established in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 19
+[05-Jun-2014 11:10:21 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be resource, boolean given in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 20
+[05-Jun-2014 11:10:21 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: tipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 57
+[05-Jun-2014 11:10:21 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ver in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 59
+[05-Jun-2014 11:10:21 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: filtroportipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 60
+[05-Jun-2014 11:10:21 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): Access denied for user 'argitcom'@'localhost' (using password: NO) in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 60
+[05-Jun-2014 11:10:21 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): A link to the server could not be established in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 60
+[05-Jun-2014 11:10:21 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be resource, boolean given in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 61
+[05-Jun-2014 11:10:21 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 96
+[05-Jun-2014 11:10:21 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 96
+[05-Jun-2014 11:10:21 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 98
+[05-Jun-2014 11:10:21 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 100
+[05-Jun-2014 11:10:21 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 100
+[05-Jun-2014 11:10:21 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 102
+[05-Jun-2014 11:10:21 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 104
+[05-Jun-2014 11:10:21 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 104
+[05-Jun-2014 11:10:21 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 106
+[05-Jun-2014 11:10:21 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 108
+[05-Jun-2014 11:10:21 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 110
+[05-Jun-2014 11:10:21 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 110
+[05-Jun-2014 11:10:21 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 112
+[05-Jun-2014 11:10:21 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 112
+[05-Jun-2014 11:10:21 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 114
+[05-Jun-2014 11:10:21 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 116
+[05-Jun-2014 11:10:21 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 116
+[05-Jun-2014 11:10:21 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 118
+[05-Jun-2014 11:10:21 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 121
+[05-Jun-2014 11:10:21 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 121
+[05-Jun-2014 11:10:21 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 148
+[05-Jun-2014 11:10:21 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 168
+[05-Jun-2014 11:10:21 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 226
+[05-Jun-2014 11:10:21 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 226
+[05-Jun-2014 11:10:21 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 314
+[05-Jun-2014 11:10:21 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_close($coneccion): no MySQL-Link resource supplied in /home/argitcom/public_html/inscribite/admin/inc.funciones.php on line 123
+[06-Jun-2014 18:07:19 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 92
+[06-Jun-2014 18:07:19 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 92
+[06-Jun-2014 18:07:19 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 94
+[06-Jun-2014 18:07:19 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 94
+[06-Jun-2014 18:07:19 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: tipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 4
+[06-Jun-2014 18:07:19 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: tipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 5
+[06-Jun-2014 18:07:19 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: tipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 6
+[06-Jun-2014 18:07:19 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: tipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 7
+[06-Jun-2014 18:07:19 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ver in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 9
+[06-Jun-2014 18:07:19 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): Access denied for user 'argitcom'@'localhost' (using password: NO) in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 19
+[06-Jun-2014 18:07:19 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): A link to the server could not be established in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 19
+[06-Jun-2014 18:07:19 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be resource, boolean given in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 20
+[06-Jun-2014 18:07:19 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: tipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 57
+[06-Jun-2014 18:07:19 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ver in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 59
+[06-Jun-2014 18:07:19 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: filtroportipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 60
+[06-Jun-2014 18:07:19 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): Access denied for user 'argitcom'@'localhost' (using password: NO) in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 60
+[06-Jun-2014 18:07:19 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): A link to the server could not be established in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 60
+[06-Jun-2014 18:07:19 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be resource, boolean given in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 61
+[06-Jun-2014 18:07:19 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 96
+[06-Jun-2014 18:07:19 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 96
+[06-Jun-2014 18:07:19 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 98
+[06-Jun-2014 18:07:19 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 100
+[06-Jun-2014 18:07:19 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 100
+[06-Jun-2014 18:07:19 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 102
+[06-Jun-2014 18:07:19 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 104
+[06-Jun-2014 18:07:19 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 104
+[06-Jun-2014 18:07:19 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 106
+[06-Jun-2014 18:07:19 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 108
+[06-Jun-2014 18:07:19 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 110
+[06-Jun-2014 18:07:19 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 110
+[06-Jun-2014 18:07:19 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 112
+[06-Jun-2014 18:07:19 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 112
+[06-Jun-2014 18:07:19 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 114
+[06-Jun-2014 18:07:19 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 116
+[06-Jun-2014 18:07:19 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 116
+[06-Jun-2014 18:07:19 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 118
+[06-Jun-2014 18:07:19 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 121
+[06-Jun-2014 18:07:19 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 121
+[06-Jun-2014 18:07:19 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 148
+[06-Jun-2014 18:07:19 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 168
+[06-Jun-2014 18:07:19 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 226
+[06-Jun-2014 18:07:19 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 226
+[06-Jun-2014 18:07:19 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 314
+[06-Jun-2014 18:07:19 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_close($coneccion): no MySQL-Link resource supplied in /home/argitcom/public_html/inscribite/admin/inc.funciones.php on line 123
+[21-Jun-2014 20:26:07 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 92
+[21-Jun-2014 20:26:07 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 92
+[21-Jun-2014 20:26:07 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 94
+[21-Jun-2014 20:26:07 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 94
+[21-Jun-2014 20:26:07 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: tipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 4
+[21-Jun-2014 20:26:07 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: tipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 5
+[21-Jun-2014 20:26:07 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: tipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 6
+[21-Jun-2014 20:26:07 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: tipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 7
+[21-Jun-2014 20:26:07 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ver in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 9
+[21-Jun-2014 20:26:07 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): Access denied for user 'argitcom'@'localhost' (using password: NO) in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 19
+[21-Jun-2014 20:26:07 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): A link to the server could not be established in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 19
+[21-Jun-2014 20:26:07 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be resource, boolean given in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 20
+[21-Jun-2014 20:26:07 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: tipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 57
+[21-Jun-2014 20:26:07 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ver in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 59
+[21-Jun-2014 20:26:07 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: filtroportipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 60
+[21-Jun-2014 20:26:07 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): Access denied for user 'argitcom'@'localhost' (using password: NO) in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 60
+[21-Jun-2014 20:26:07 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): A link to the server could not be established in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 60
+[21-Jun-2014 20:26:07 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be resource, boolean given in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 61
+[21-Jun-2014 20:26:07 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 96
+[21-Jun-2014 20:26:07 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 96
+[21-Jun-2014 20:26:07 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 98
+[21-Jun-2014 20:26:07 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 100
+[21-Jun-2014 20:26:07 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 100
+[21-Jun-2014 20:26:07 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 102
+[21-Jun-2014 20:26:07 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 104
+[21-Jun-2014 20:26:07 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 104
+[21-Jun-2014 20:26:07 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 106
+[21-Jun-2014 20:26:07 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 108
+[21-Jun-2014 20:26:07 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 110
+[21-Jun-2014 20:26:07 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 110
+[21-Jun-2014 20:26:07 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 112
+[21-Jun-2014 20:26:07 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 112
+[21-Jun-2014 20:26:07 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 114
+[21-Jun-2014 20:26:07 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 116
+[21-Jun-2014 20:26:07 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 116
+[21-Jun-2014 20:26:07 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 118
+[21-Jun-2014 20:26:07 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 121
+[21-Jun-2014 20:26:07 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 121
+[21-Jun-2014 20:26:07 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 148
+[21-Jun-2014 20:26:07 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 168
+[21-Jun-2014 20:26:07 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 226
+[21-Jun-2014 20:26:07 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 226
+[21-Jun-2014 20:26:07 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 314
+[21-Jun-2014 20:26:07 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_close($coneccion): no MySQL-Link resource supplied in /home/argitcom/public_html/inscribite/admin/inc.funciones.php on line 123
+[21-Jun-2014 17:30:02 America/Denver] PHP Warning:  include_once(/home/argitcom/public_html/inscribite/admin../inc.config.php): failed to open stream: No such file or directory in /home/argitcom/public_html/inscribite/admin/index.php on line 9
+[21-Jun-2014 17:30:02 America/Denver] PHP Warning:  include_once(): Failed opening '/home/argitcom/public_html/inscribite/admin../inc.config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/argitcom/public_html/inscribite/admin/index.php on line 9
+[21-Jun-2014 20:30:02 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 80
+[21-Jun-2014 20:30:02 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 80
+[21-Jun-2014 20:30:02 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 82
+[21-Jun-2014 20:30:02 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 82
+[21-Jun-2014 20:30:02 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: tipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 4
+[21-Jun-2014 20:30:02 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: tipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 5
+[21-Jun-2014 20:30:02 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: tipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 6
+[21-Jun-2014 20:30:02 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: tipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 7
+[21-Jun-2014 20:30:02 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ver in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 9
+[21-Jun-2014 20:30:02 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): Access denied for user 'argitcom'@'localhost' (using password: NO) in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 19
+[21-Jun-2014 20:30:02 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): A link to the server could not be established in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 19
+[21-Jun-2014 20:30:02 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be resource, boolean given in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 20
+[21-Jun-2014 20:30:02 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: tipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 57
+[21-Jun-2014 20:30:02 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ver in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 59
+[21-Jun-2014 20:30:02 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: filtroportipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 60
+[21-Jun-2014 20:30:02 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): Access denied for user 'argitcom'@'localhost' (using password: NO) in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 60
+[21-Jun-2014 20:30:02 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): A link to the server could not be established in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 60
+[21-Jun-2014 20:30:02 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be resource, boolean given in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 61
+[21-Jun-2014 20:30:02 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 84
+[21-Jun-2014 20:30:02 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 84
+[21-Jun-2014 20:30:02 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 86
+[21-Jun-2014 20:30:02 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 88
+[21-Jun-2014 20:30:02 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 88
+[21-Jun-2014 20:30:02 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 90
+[21-Jun-2014 20:30:02 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 92
+[21-Jun-2014 20:30:02 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 92
+[21-Jun-2014 20:30:02 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 94
+[21-Jun-2014 20:30:02 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 96
+[21-Jun-2014 20:30:02 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 98
+[21-Jun-2014 20:30:02 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 98
+[21-Jun-2014 20:30:02 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 100
+[21-Jun-2014 20:30:02 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 100
+[21-Jun-2014 20:30:02 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 102
+[21-Jun-2014 20:30:02 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 104
+[21-Jun-2014 20:30:02 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 104
+[21-Jun-2014 20:30:02 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 106
+[21-Jun-2014 20:30:02 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 109
+[21-Jun-2014 20:30:02 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 109
+[21-Jun-2014 20:30:02 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 136
+[21-Jun-2014 20:30:02 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 156
+[21-Jun-2014 20:30:02 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 214
+[21-Jun-2014 20:30:02 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 214
+[21-Jun-2014 20:30:02 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 302
+[21-Jun-2014 20:30:02 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_close($coneccion): no MySQL-Link resource supplied in /home/argitcom/public_html/inscribite/admin/inc.funciones.php on line 123
+[21-Jun-2014 20:30:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 80
+[21-Jun-2014 20:30:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 80
+[21-Jun-2014 20:30:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 82
+[21-Jun-2014 20:30:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 82
+[21-Jun-2014 20:30:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: tipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 4
+[21-Jun-2014 20:30:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: tipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 5
+[21-Jun-2014 20:30:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: tipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 6
+[21-Jun-2014 20:30:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: tipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 7
+[21-Jun-2014 20:30:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ver in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 9
+[21-Jun-2014 20:30:34 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): Access denied for user 'argitcom'@'localhost' (using password: NO) in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 19
+[21-Jun-2014 20:30:34 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): A link to the server could not be established in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 19
+[21-Jun-2014 20:30:34 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be resource, boolean given in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 20
+[21-Jun-2014 20:30:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: tipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 57
+[21-Jun-2014 20:30:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ver in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 59
+[21-Jun-2014 20:30:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: filtroportipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 60
+[21-Jun-2014 20:30:34 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): Access denied for user 'argitcom'@'localhost' (using password: NO) in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 60
+[21-Jun-2014 20:30:34 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): A link to the server could not be established in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 60
+[21-Jun-2014 20:30:34 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be resource, boolean given in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 61
+[21-Jun-2014 20:30:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 84
+[21-Jun-2014 20:30:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 84
+[21-Jun-2014 20:30:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 86
+[21-Jun-2014 20:30:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 88
+[21-Jun-2014 20:30:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 88
+[21-Jun-2014 20:30:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 90
+[21-Jun-2014 20:30:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 92
+[21-Jun-2014 20:30:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 92
+[21-Jun-2014 20:30:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 94
+[21-Jun-2014 20:30:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 96
+[21-Jun-2014 20:30:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 98
+[21-Jun-2014 20:30:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 98
+[21-Jun-2014 20:30:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 100
+[21-Jun-2014 20:30:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 100
+[21-Jun-2014 20:30:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 102
+[21-Jun-2014 20:30:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 104
+[21-Jun-2014 20:30:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 104
+[21-Jun-2014 20:30:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 106
+[21-Jun-2014 20:30:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 109
+[21-Jun-2014 20:30:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 109
+[21-Jun-2014 20:30:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 136
+[21-Jun-2014 20:30:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 156
+[21-Jun-2014 20:30:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 214
+[21-Jun-2014 20:30:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 214
+[21-Jun-2014 20:30:34 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 302
+[21-Jun-2014 20:30:34 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_close($coneccion): no MySQL-Link resource supplied in /home/argitcom/public_html/inscribite/admin/inc.funciones.php on line 123
+[21-Jun-2014 20:31:46 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 80
+[21-Jun-2014 20:31:46 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 80
+[21-Jun-2014 20:31:46 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 82
+[21-Jun-2014 20:31:46 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 82
+[21-Jun-2014 20:31:46 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: tipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 4
+[21-Jun-2014 20:31:46 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: tipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 5
+[21-Jun-2014 20:31:46 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: tipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 6
+[21-Jun-2014 20:31:46 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: tipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 7
+[21-Jun-2014 20:31:46 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ver in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 9
+[21-Jun-2014 20:31:46 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): Access denied for user 'argitcom'@'localhost' (using password: NO) in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 19
+[21-Jun-2014 20:31:46 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): A link to the server could not be established in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 19
+[21-Jun-2014 20:31:46 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be resource, boolean given in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 20
+[21-Jun-2014 20:31:46 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: tipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 57
+[21-Jun-2014 20:31:46 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ver in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 59
+[21-Jun-2014 20:31:46 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: filtroportipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 60
+[21-Jun-2014 20:31:46 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): Access denied for user 'argitcom'@'localhost' (using password: NO) in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 60
+[21-Jun-2014 20:31:46 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): A link to the server could not be established in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 60
+[21-Jun-2014 20:31:46 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be resource, boolean given in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 61
+[21-Jun-2014 20:31:46 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 84
+[21-Jun-2014 20:31:46 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 84
+[21-Jun-2014 20:31:46 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 86
+[21-Jun-2014 20:31:46 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 88
+[21-Jun-2014 20:31:46 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 88
+[21-Jun-2014 20:31:46 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 90
+[21-Jun-2014 20:31:46 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 92
+[21-Jun-2014 20:31:46 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 92
+[21-Jun-2014 20:31:46 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 94
+[21-Jun-2014 20:31:46 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 96
+[21-Jun-2014 20:31:46 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 98
+[21-Jun-2014 20:31:46 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 98
+[21-Jun-2014 20:31:46 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 100
+[21-Jun-2014 20:31:46 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 100
+[21-Jun-2014 20:31:46 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 102
+[21-Jun-2014 20:31:46 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 104
+[21-Jun-2014 20:31:46 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 104
+[21-Jun-2014 20:31:46 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 106
+[21-Jun-2014 20:31:46 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 109
+[21-Jun-2014 20:31:46 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 109
+[21-Jun-2014 20:31:46 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 136
+[21-Jun-2014 20:31:46 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 156
+[21-Jun-2014 20:31:46 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 214
+[21-Jun-2014 20:31:46 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 214
+[21-Jun-2014 20:31:46 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 302
+[21-Jun-2014 20:32:49 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 139
+[21-Jun-2014 20:32:49 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 159
+[21-Jun-2014 20:32:49 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 217
+[21-Jun-2014 20:32:49 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 217
+[21-Jun-2014 20:32:49 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 305
+[21-Jun-2014 20:32:52 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 139
+[21-Jun-2014 20:32:52 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 159
+[21-Jun-2014 20:32:52 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 217
+[21-Jun-2014 20:32:52 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 217
+[21-Jun-2014 20:32:52 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: sec in /home/argitcom/public_html/inscribite/admin/index.php on line 305
+[21-Jun-2014 17:36:27 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home/argitcom/public_html/inscribite/admin/index.php on line 434
+[21-Jun-2014 20:37:17 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: tipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 4
+[21-Jun-2014 20:37:17 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: tipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 5
+[21-Jun-2014 20:37:17 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: tipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 6
+[21-Jun-2014 20:37:17 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: tipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 7
+[21-Jun-2014 20:37:17 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ver in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 9
+[21-Jun-2014 20:37:17 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): Access denied for user 'argitcom'@'localhost' (using password: NO) in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 19
+[21-Jun-2014 20:37:17 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): A link to the server could not be established in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 19
+[21-Jun-2014 20:37:17 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be resource, boolean given in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 20
+[21-Jun-2014 20:37:17 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: tipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 57
+[21-Jun-2014 20:37:17 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ver in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 59
+[21-Jun-2014 20:37:17 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: filtroportipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 60
+[21-Jun-2014 20:37:17 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): Access denied for user 'argitcom'@'localhost' (using password: NO) in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 60
+[21-Jun-2014 20:37:17 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): A link to the server could not be established in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 60
+[21-Jun-2014 20:37:17 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be resource, boolean given in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 61
+[21-Jun-2014 20:37:22 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: editando in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 1
+[21-Jun-2014 20:37:22 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): Access denied for user 'argitcom'@'localhost' (using password: NO) in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 1
+[21-Jun-2014 20:37:22 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): A link to the server could not be established in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 1
+[21-Jun-2014 20:37:22 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: nroid in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 10
+[21-Jun-2014 20:37:22 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 14
+[21-Jun-2014 20:37:22 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 21
+[21-Jun-2014 20:37:22 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 26
+[21-Jun-2014 20:37:22 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 30
+[21-Jun-2014 20:37:22 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 34
+[21-Jun-2014 20:37:22 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 43
+[21-Jun-2014 20:37:22 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 44
+[21-Jun-2014 20:37:22 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 45
+[21-Jun-2014 20:37:22 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 46
+[21-Jun-2014 20:37:22 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 47
+[21-Jun-2014 20:37:22 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 55
+[21-Jun-2014 20:37:22 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): Access denied for user 'argitcom'@'localhost' (using password: NO) in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 63
+[21-Jun-2014 20:37:22 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): A link to the server could not be established in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 63
+[21-Jun-2014 20:37:22 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be resource, boolean given in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 64
+[21-Jun-2014 20:37:22 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 74
+[21-Jun-2014 20:37:22 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 79
+[21-Jun-2014 20:37:22 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 81
+[21-Jun-2014 20:37:22 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 84
+[21-Jun-2014 20:37:22 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 87
+[21-Jun-2014 20:37:22 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 111
+[21-Jun-2014 20:37:22 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 186
+[21-Jun-2014 20:37:22 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 194
+[21-Jun-2014 20:37:22 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 208
+[21-Jun-2014 20:37:22 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 210
+[21-Jun-2014 20:37:22 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 212
+[21-Jun-2014 20:37:22 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 214
+[21-Jun-2014 20:37:22 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 224
+[21-Jun-2014 20:37:22 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row1 in /home/argitcom/public_html/inscribite/admin/perfil.evento.php on line 227
+[21-Jun-2014 20:38:08 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): Access denied for user 'argitcom'@'localhost' (using password: NO) in /home/argitcom/public_html/inscribite/admin/admin.empresas.php on line 10
+[21-Jun-2014 20:38:08 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): A link to the server could not be established in /home/argitcom/public_html/inscribite/admin/admin.empresas.php on line 10
+[21-Jun-2014 20:38:08 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be resource, boolean given in /home/argitcom/public_html/inscribite/admin/admin.empresas.php on line 11
+[21-Jun-2014 20:38:51 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: tipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 4
+[21-Jun-2014 20:38:51 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: tipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 5
+[21-Jun-2014 20:38:51 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: tipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 6
+[21-Jun-2014 20:38:51 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: tipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 7
+[21-Jun-2014 20:38:51 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ver in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 9
+[21-Jun-2014 20:38:51 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): Access denied for user 'argitcom'@'localhost' (using password: NO) in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 19
+[21-Jun-2014 20:38:51 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): A link to the server could not be established in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 19
+[21-Jun-2014 20:38:51 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be resource, boolean given in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 20
+[21-Jun-2014 20:38:51 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: tipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 57
+[21-Jun-2014 20:38:51 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: ver in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 59
+[21-Jun-2014 20:38:51 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: filtroportipo in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 60
+[21-Jun-2014 20:38:51 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): Access denied for user 'argitcom'@'localhost' (using password: NO) in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 60
+[21-Jun-2014 20:38:51 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_query($coneccion,): A link to the server could not be established in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 60
+[21-Jun-2014 20:38:51 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be resource, boolean given in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 61
+[21-Jun-2014 20:47:22 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function agcnbsp() in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 111
+[21-Jun-2014 20:47:26 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function agcnbsp() in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 111
+[21-Jun-2014 20:47:31 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function agcnbsp() in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 111
+[21-Jun-2014 20:56:00 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function agcnbsp() in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 111
+[21-Jun-2014 20:58:56 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function agcnbsp() in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 111
+[23-Jun-2014 11:41:09 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function agcnbsp() in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 117
+[23-Jun-2014 11:46:47 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function agcnbsp() in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 118
+[23-Jun-2014 11:50:07 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function agcnbsp() in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 122
+[23-Jun-2014 11:50:52 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function agceros() in /home/argitcom/public_html/inscribite/admin/admin.inscripciones.php on line 41
+[23-Jun-2014 12:35:20 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function agceros() in /home/argitcom/public_html/inscribite/admin/admin.descuentos.php on line 19
+[24-Jun-2014 22:44:04 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function agcnbsp() in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 122
+[24-Jun-2014 22:44:10 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function agcnbsp() in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 122
+[24-Jun-2014 22:44:32 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function agcnbsp() in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 122
+[24-Jun-2014 22:55:03 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected ',' in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 122
+[24-Jun-2014 22:55:59 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function agcnbsp() in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 122
+[24-Jun-2014 22:56:40 America/Argentina/Buenos_Aires] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 122
+[24-Jun-2014 23:35:40 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to undefined function agceros() in /home/argitcom/public_html/inscribite/admin/admin.descuentos.php on line 19
+[25-Jun-2014 00:31:43 America/Argentina/Buenos_Aires] PHP Warning:  Illegal string offset 'nombre' in /home/argitcom/public_html/inscribite/admin/guardar.php on line 73
+[25-Jun-2014 12:02:54 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be resource, boolean given in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 72
+[30-Jun-2014 17:15:11 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home/argitcom/public_html/inscribite/admin/index.php on line 474
+[30-Jun-2014 17:15:19 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home/argitcom/public_html/inscribite/admin/index.php on line 474
+[30-Jun-2014 17:15:49 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home/argitcom/public_html/inscribite/admin/index.php on line 474
+[30-Jun-2014 17:16:05 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home/argitcom/public_html/inscribite/admin/index.php on line 474
+[30-Jun-2014 17:25:07 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home/argitcom/public_html/inscribite/admin/index.php on line 474
+[30-Jun-2014 17:25:39 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home/argitcom/public_html/inscribite/admin/index.php on line 474
+[30-Jun-2014 17:26:19 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home/argitcom/public_html/inscribite/admin/index.php on line 474
+[30-Jun-2014 17:27:25 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home/argitcom/public_html/inscribite/admin/index.php on line 474
+[30-Jun-2014 17:29:24 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home/argitcom/public_html/inscribite/admin/index.php on line 474
+[30-Jun-2014 17:30:47 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home/argitcom/public_html/inscribite/admin/index.php on line 474
+[30-Jun-2014 17:30:57 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home/argitcom/public_html/inscribite/admin/index.php on line 474
+[30-Jun-2014 17:30:58 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home/argitcom/public_html/inscribite/admin/index.php on line 474
+[30-Jun-2014 17:30:59 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home/argitcom/public_html/inscribite/admin/index.php on line 474
+[30-Jun-2014 17:31:00 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home/argitcom/public_html/inscribite/admin/index.php on line 474
+[30-Jun-2014 17:31:00 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home/argitcom/public_html/inscribite/admin/index.php on line 474
+[30-Jun-2014 17:31:01 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home/argitcom/public_html/inscribite/admin/index.php on line 474
+[30-Jun-2014 17:32:07 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home/argitcom/public_html/inscribite/admin/index.php on line 474
+[30-Jun-2014 17:35:13 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home/argitcom/public_html/inscribite/admin/index.php on line 474
+[30-Jun-2014 17:37:55 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home/argitcom/public_html/inscribite/admin/index.php on line 474
+[30-Jun-2014 17:40:34 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home/argitcom/public_html/inscribite/admin/index.php on line 474
+[30-Jun-2014 17:41:51 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home/argitcom/public_html/inscribite/admin/index.php on line 474
+[30-Jun-2014 17:43:58 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home/argitcom/public_html/inscribite/admin/index.php on line 474
+[30-Jun-2014 17:44:00 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home/argitcom/public_html/inscribite/admin/index.php on line 474
+[30-Jun-2014 17:44:00 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home/argitcom/public_html/inscribite/admin/index.php on line 474
+[30-Jun-2014 17:45:29 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home/argitcom/public_html/inscribite/admin/index.php on line 474
+[30-Jun-2014 17:46:10 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home/argitcom/public_html/inscribite/admin/index.php on line 474
+[30-Jun-2014 20:56:58 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be resource, boolean given in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 72
+[30-Jun-2014 20:57:13 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be resource, boolean given in /home/argitcom/public_html/inscribite/admin/admin.eventos.php on line 72
+[30-Jun-2014 22:41:23 America/Argentina/Buenos_Aires] PHP Warning:  require_once(/home/argitcom/public_html/inscribite/argit/admin/general/header.php): failed to open stream: No such file or directory in /home/argitcom/public_html/inscribite/argit/admin/pagoMisCuentas.php on line 3
+[30-Jun-2014 22:41:23 America/Argentina/Buenos_Aires] PHP Fatal error:  require_once(): Failed opening required '/home/argitcom/public_html/inscribite/argit/admin/general/header.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/argitcom/public_html/inscribite/argit/admin/pagoMisCuentas.php on line 3
+[30-Jun-2014 22:42:12 America/Argentina/Buenos_Aires] PHP Notice:  Constant pftables already defined in /home/argitcom/public_html/inscribite/inc.config_argit.php on line 16
+[30-Jun-2014 22:42:12 America/Argentina/Buenos_Aires] PHP Notice:  Constant localPass already defined in /home/argitcom/public_html/inscribite/inc.config_argit.php on line 17
+[30-Jun-2014 22:42:12 America/Argentina/Buenos_Aires] PHP Notice:  Constant emaildeconsulta already defined in /home/argitcom/public_html/inscribite/inc.config_argit.php on line 19
+[30-Jun-2014 22:42:12 America/Argentina/Buenos_Aires] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/argitcom/public_html/inscribite/admin/index.php:80) in /home/argitcom/public_html/inscribite/argit/general/db.php on line 4
+[30-Jun-2014 22:42:12 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: inicio in /home/argitcom/public_html/inscribite/argit/general/menu.php on line 5
+[30-Jun-2014 22:42:12 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: nosotros in /home/argitcom/public_html/inscribite/argit/general/menu.php on line 8
+[30-Jun-2014 22:42:12 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: contacto in /home/argitcom/public_html/inscribite/argit/general/menu.php on line 14
+[30-Jun-2014 22:42:12 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: miCuenta in /home/argitcom/public_html/inscribite/argit/general/menu.php on line 30
+[30-Jun-2014 22:42:12 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: empresa in /home/argitcom/public_html/inscribite/argit/general/menu.php on line 35
+[08-Jul-2014 15:07:59 America/Argentina/Buenos_Aires] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be resource, boolean given in /home/argitcom/public_html/inscribite/admin/admin.inscripciones.php on line 64

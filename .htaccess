@@ -1,0 +1,7 @@
+Options +FollowSymLinks
+RewriteEngine on
+
+RewriteBase /epsa/newsite2014/argit/
+RewriteRule ^/$ newsite2014/argit/index.php [L]
+RewriteRule ^javier/$ clientes/10/javier.php [L]
+RewriteRule ^miCuenta/$ newsite2014/argit/miCuenta.php [L]

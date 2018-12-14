@@ -1,0 +1,368 @@
+﻿html, body{
+	height:100%;
+	min-height:100%;
+	width:100%;
+	padding:0px;
+	margin:0px;
+	background-color:#FFFFFF;
+    font-family:helvetica,arial,san-serif;
+	font-size:11px;	
+    /*outline:0;*/
+}
+*{
+    outline:0;
+}
+a{
+	color:#336699;
+	text-decoration:none;
+}
+a:hover{
+	text-decoration:underline;
+}
+a img{
+	border:none;
+}
+form{
+  margin:0px;
+}
+
+h1{
+	text-align:left;
+	font-size:14px;
+	color:#336699;
+	font-weight:bold;
+}
+
+h2{
+	font-size:14px;
+	color:#336699;
+	padding:0px;
+	font-weight:normal;	
+	text-align:left;
+}
+
+h3{
+	font-size:11px;
+	color:black;
+	padding:0px;
+	font-weight:normal;	
+	text-align:justify;
+	padding:0px;
+}
+/*
+p{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#336699;
+	padding:10px;
+	text-align:justify;
+}*/
+
+.centrado{
+	width:750px;
+	margin-left:auto;
+	margin-right:auto;
+}
+.header{
+	background-image:url(../webimages/banner.jpg);
+	width:750px;
+	height:125px;
+	float:left;
+	clear:left;
+}
+.gruposolapas{
+	width:600px;
+	margin-left:auto;
+	margin-right:auto;
+}
+.separacionsolapas{
+	height:100px;
+	width:100%;
+	float:left;
+	clear:left;
+}
+.logolinkalhome{
+	background-image:url(../webimages/logolinkhome.jpg);
+	width:300px;
+	height:61px;
+	display:block;
+	margin-top:20px;
+	margin-left:20px;
+}
+.lineainicioyfinal{
+	width:750px;
+	height:3px;
+	float:left;
+	clear:left;
+	overflow:hidden;
+}
+.content{
+	width:100%;
+	float:left;
+	clear:left;
+	padding-bottom:16px;
+}
+.columnaizquierda{
+	width:175px;
+	/*height:394px;*/
+	margin-top:6px;
+	float:left;
+	background-image:url(../webimages/esquinasredond.gif);
+	background-repeat:no-repeat;
+	background-position:left top;
+    overflow:hidden;
+}
+.titu{
+	text-align:center;
+	color:#336699;
+	text-transform:uppercase;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	line-height:20px;
+	padding-top:5px;
+}
+.contenidocols{
+	border-left:1px #707070 solid;
+	border-right:1px #707070 solid;
+	background-color:#E9E9E9;
+	/*height:369px;*/
+	padding-left:7px;
+	padding-right:7px;
+    font-size:13px;
+}
+.solopadding{
+	padding-left:7px;
+	padding-right:7px;
+}
+.bordeabajo{
+	background-image:url(../webimages/bordeabajo.gif);
+	background-repeat:no-repeat;
+	background-position:top;
+	width:175px;
+	height:10px;
+	margin-top:0px;
+	overflow:hidden;
+}
+.columnacentral{
+	/*width:390px;*/
+	height:394px;
+	background-color:#FFFFFF;
+	margin-top:6px;
+	float:left;
+	clear:none;
+	overflow:auto;
+}
+.columnaderecha{
+	width:175px;
+	/*height:221px;*/
+	margin-top:6px;
+	float:right;
+	clear:none;
+	background-image:url(../webimages/esquinasredond.gif);
+	background-repeat:no-repeat;
+	background-position:left top;
+}
+.columna{
+	width:230px;
+	float:left;
+	clear:none;
+	margin-top:6px;
+	margin-right:12px;	
+}
+
+.columnadoble{
+	width:484px;
+	float:left;
+	clear:none;
+	margin-top:6px;
+}
+
+.footer{
+	margin-top:3px;
+	width:750px;
+	height:30px;
+	float:left;
+	clear:both;
+	line-height:30px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:10px;
+	color:#FFFFFF;
+	text-align:center;
+	background-image: url(../webimages/footerfondo.gif);
+}
+.footer a{
+	color:#FFFFFF;
+}
+.contenidoseccioncentral{
+	float:left;
+	clear:left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	padding:10px;
+	text-align:justify;
+	width:550px;
+}
+.solapanoseleccionada{
+	background-image:url(../webimages/solapa0.gif);
+	background-repeat:no-repeat;
+	width:100px;
+	height:23px;
+	margin-top:2px;
+	line-height:26px;
+	text-align:center;
+	float:left;
+	clear:none;
+	font-size:12px;
+	overflow:hidden;
+	text-transform:capitalize;
+	text-decoration:none;
+}
+.solapanoseleccionada:hover{
+	background-image:url(../webimages/solapa1.gif);
+	text-decoration:none;
+}
+.solapaseleccionada{
+	background-image:url(../webimages/solapa1.gif);
+	background-repeat:no-repeat;
+	width:100px;
+	height:25px;
+	line-height:26px;
+	text-align:center;
+	float:left;
+	clear:none;
+	font-size:12px;
+	overflow:hidden;
+	text-transform:capitalize;
+	text-decoration:none;
+}
+.solapaseleccionada:hover{
+	text-decoration:none;
+}
+.eventodelmes img{
+	width:160px;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+}
+.seleccionaelevento{
+	margin-top:15px;
+	width:165px;
+	overflow:hidden;
+}
+.cadaevento{
+	/*width:355px;*/
+    width:544px;
+	background-color:#E9E9E9;
+	margin-top:10px;
+
+	color:black;
+    float:left;
+    clear:left;
+
+    display:inline;
+
+    padding-bottom:10px;
+    overflow:hidden;
+}
+.titulo{
+	text-align:center;
+	font-size:14px;
+	color:black;
+	font-weight:bold;
+}
+.titulo div{
+	padding-top:6px;
+}
+.titulo a{
+	padding-top:6px;
+    display:block;
+}
+.cadaevento img{
+	width:160px;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+}
+.descripciondeevento{
+	padding-left:1em;
+	padding-right:1em;
+	width:90%;
+	text-align:center;
+}
+.botoninscripcion{
+	text-align:center;
+}
+#colformulario{
+	height:auto;
+}
+#colformulario p{
+    margin-top:0px;
+    margin-bottom:0px;
+}
+#colformulario label{
+    float:left;
+    clear:left;
+    overflow:hidden;
+    line-height:22px;
+    margin-top:4px;
+    margin-bottom:4px;
+}
+#colformulario input{
+    float:right;
+    clear:right;
+    margin-top:4px;
+    margin-bottom:4px;
+}
+#colformulario select{
+    float:right;
+    clear:right;
+}
+#colformulario hr{
+    float:left;
+    clear:both;
+    width:100%;
+    height:1px;
+    margin-top:6px;
+    margin-bottom:6px;
+    overflow:hidden;
+    border:none;
+    border-top:1px #666666 solid;
+}
+#colformulario fieldset{
+    width:362px;
+}
+#colformulario legend{
+    color:black;
+    border:none;
+}
+
+.tabladeeventos{
+ empty-cells:show;
+ border-collapse:collapse;
+ width:100%;
+ float:left;
+ clear:left;
+ margin-top:10px;
+}
+.tabladeeventos th{
+   text-align:center;
+   padding-bottom:8px;
+   text-align:left;
+   padding-left:6px;
+}
+.tabladeeventos td{
+   /*border-bottom:1px #666 solid;*/
+}
+.tabladeeventos td{
+   padding-left:6px;
+   padding-right:6px;
+   padding-top:3px;
+   padding-bottom:3px;
+   text-align:left;
+}
+.tabladeeventos .lineaspares{
+   background:#E9E9E9;
+}
+
+
+

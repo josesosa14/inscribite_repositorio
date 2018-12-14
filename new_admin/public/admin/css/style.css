@@ -1,0 +1,104 @@
+
+.btn.btn-default.margen15 {
+    margin-left:15px;
+}
+.btn.btn-danger.margen15 {
+    margin-left:15px;
+}
+.btn.btn-primary.margen15 {
+    margin-left:15px;
+}
+
+.modal-content {
+    border-radius: 5px;
+}
+
+.navbar-nav>.user-menu>.dropdown-menu>li.user-header {
+    border:1px solid black;
+}
+.navbar-nav>.user-menu>.dropdown-menu>li.user-footer {
+    border-bottom:1px solid black;
+    border-left:1px solid black;
+    border-right:1px solid black;
+}
+
+.fa.fa-times {
+    color:red;
+}
+
+
+
+/*  borrar articulo jquery css */
+#articulos span.borrarArticulo{
+    cursor: pointer;
+    border:none;
+    padding:0;
+}
+
+/**/
+
+.no-padding-costados{
+    padding-left: 0px !important;
+    padding-right:0px !important;
+}
+
+
+section.sidebar{
+    /*position: fixed;
+    width: 17%;*/
+}
+
+.lineaSeparadora {
+    display: block;
+    border: 1px solid #222d32;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+.mayus{
+    
+}
+.mayus input{
+    
+}
+
+.minus{
+    
+}
+.minus input{
+    
+}
+label.error {
+    color:red;
+    font-size:11px;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+    color: #444;
+    line-height: 28px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+li.select2-results__option {
+    text-transform: uppercase;
+}
+/*argit*/
+.table-hover>tbody>tr:hover {
+    background-color: lightblue;
+}
+
+.encuadra_foto {
+    height: 110px;
+}
+
+.large-icon{
+    font-size: 15px;
+    margin-left: 3px;
+}
+
+td span.danger{
+    color:red;
+    font-weight: bold;
+}

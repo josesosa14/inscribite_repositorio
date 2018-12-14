@@ -1,0 +1,173 @@
+[20-May-2014 14:33:53 America/Denver] PHP Warning:  include_once(includes/header.php): failed to open stream: No such file or directory in /home/argitcom/public_html/inscribite/index.php on line 1
+[20-May-2014 14:33:53 America/Denver] PHP Warning:  include_once(): Failed opening 'includes/header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/argitcom/public_html/inscribite/index.php on line 1
+[20-May-2014 14:33:53 America/Denver] PHP Warning:  include_once(includes/footer.php): failed to open stream: No such file or directory in /home/argitcom/public_html/inscribite/index.php on line 54
+[20-May-2014 14:33:53 America/Denver] PHP Warning:  include_once(): Failed opening 'includes/footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/argitcom/public_html/inscribite/index.php on line 54
+[20-May-2014 17:38:12 America/Argentina/Buenos_Aires] PHP Warning:  mysql_connect(): Access denied for user 'inscribite_user'@'localhost' (using password: YES) in /home/argitcom/public_html/inscribite/inc.config.php on line 7
+[20-May-2014 17:38:12 America/Argentina/Buenos_Aires] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/argitcom/public_html/inscribite/inc.config.php on line 8
+[20-May-2014 17:38:12 America/Argentina/Buenos_Aires] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/argitcom/public_html/inscribite/includes/footer.php on line 15
+[09-Jun-2014 13:09:51 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: usuario in /home/argitcom/public_html/inscribite/includes/header.php on line 3
+[09-Jun-2014 13:09:51 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: usuario in /home/argitcom/public_html/inscribite/includes/header.php on line 26
+[09-Jun-2014 13:09:51 America/Argentina/Buenos_Aires] PHP Notice:  Use of undefined constant url - assumed 'url' in /home/argitcom/public_html/inscribite/includes/header.php on line 34
+[09-Jun-2014 13:09:51 America/Argentina/Buenos_Aires] PHP Notice:  Use of undefined constant url - assumed 'url' in /home/argitcom/public_html/inscribite/includes/header.php on line 36
+[09-Jun-2014 13:09:51 America/Argentina/Buenos_Aires] PHP Notice:  Use of undefined constant url - assumed 'url' in /home/argitcom/public_html/inscribite/includes/header.php on line 37
+[09-Jun-2014 13:09:51 America/Argentina/Buenos_Aires] PHP Notice:  Use of undefined constant url - assumed 'url' in /home/argitcom/public_html/inscribite/includes/header.php on line 44
+[09-Jun-2014 13:09:51 America/Argentina/Buenos_Aires] PHP Notice:  Use of undefined constant url - assumed 'url' in /home/argitcom/public_html/inscribite/includes/header.php on line 48
+[09-Jun-2014 13:09:51 America/Argentina/Buenos_Aires] PHP Notice:  Use of undefined constant url - assumed 'url' in /home/argitcom/public_html/inscribite/includes/header.php on line 49
+[09-Jun-2014 13:09:51 America/Argentina/Buenos_Aires] PHP Notice:  Use of undefined constant url - assumed 'url' in /home/argitcom/public_html/inscribite/includes/header.php on line 50
+[09-Jun-2014 13:09:51 America/Argentina/Buenos_Aires] PHP Notice:  Use of undefined constant url - assumed 'url' in /home/argitcom/public_html/inscribite/includes/header.php on line 51
+[09-Jun-2014 13:09:51 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: usuario in /home/argitcom/public_html/inscribite/includes/header.php on line 54
+[09-Jun-2014 13:09:51 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: recienlogeado in /home/argitcom/public_html/inscribite/includes/header.php on line 54
+[09-Jun-2014 13:09:51 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: usuario in /home/argitcom/public_html/inscribite/includes/header.php on line 89
+[09-Jun-2014 13:09:51 America/Argentina/Buenos_Aires] PHP Notice:  Use of undefined constant url - assumed 'url' in /home/argitcom/public_html/inscribite/includes/header.php on line 102
+[09-Jun-2014 13:09:51 America/Argentina/Buenos_Aires] PHP Notice:  Use of undefined constant url - assumed 'url' in /home/argitcom/public_html/inscribite/index.php on line 3
+[09-Jun-2014 13:09:51 America/Argentina/Buenos_Aires] PHP Notice:  Use of undefined constant url - assumed 'url' in /home/argitcom/public_html/inscribite/index.php on line 5
+[09-Jun-2014 13:09:51 America/Argentina/Buenos_Aires] PHP Notice:  Use of undefined constant url - assumed 'url' in /home/argitcom/public_html/inscribite/includes/footer.php on line 2
+[09-Jun-2014 13:09:51 America/Argentina/Buenos_Aires] PHP Notice:  Use of undefined constant url - assumed 'url' in /home/argitcom/public_html/inscribite/includes/footer.php on line 2
+[09-Jun-2014 13:09:51 America/Argentina/Buenos_Aires] PHP Notice:  Use of undefined constant url - assumed 'url' in /home/argitcom/public_html/inscribite/includes/footer.php on line 2
+[09-Jun-2014 13:09:51 America/Argentina/Buenos_Aires] PHP Notice:  Use of undefined constant url - assumed 'url' in /home/argitcom/public_html/inscribite/includes/footer.php on line 2
+[09-Jun-2014 13:09:51 America/Argentina/Buenos_Aires] PHP Notice:  Use of undefined constant url - assumed 'url' in /home/argitcom/public_html/inscribite/includes/footer.php on line 2
+[09-Jun-2014 13:09:51 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: result1 in /home/argitcom/public_html/inscribite/includes/footer.php on line 12
+[09-Jun-2014 13:09:51 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: result2 in /home/argitcom/public_html/inscribite/includes/footer.php on line 13
+[09-Jun-2014 13:09:51 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: result3 in /home/argitcom/public_html/inscribite/includes/footer.php on line 14
+[09-Jun-2014 13:09:51 America/Argentina/Buenos_Aires] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/argitcom/public_html/inscribite/includes/footer.php on line 15
+[14-Jun-2014 18:17:17 America/Denver] PHP Parse error:  syntax error, unexpected '(' in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 56
+[14-Jun-2014 18:17:32 America/Denver] PHP Parse error:  syntax error, unexpected '(' in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 58
+[14-Jun-2014 18:21:19 America/Denver] PHP Parse error:  syntax error, unexpected '(' in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 56
+[14-Jun-2014 18:21:26 America/Denver] PHP Parse error:  syntax error, unexpected '(' in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 56
+[14-Jun-2014 21:22:21 America/Argentina/Buenos_Aires] PHP Deprecated:  Function split() is deprecated in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 7
+[14-Jun-2014 21:22:21 America/Argentina/Buenos_Aires] PHP Warning:  mysql_query(): Access denied for user 'argitcom'@'localhost' (using password: NO) in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 14
+[14-Jun-2014 21:22:21 America/Argentina/Buenos_Aires] PHP Warning:  mysql_query(): A link to the server could not be established in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 14
+[14-Jun-2014 21:22:21 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row3 in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 16
+[14-Jun-2014 21:22:21 America/Argentina/Buenos_Aires] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 26
+[14-Jun-2014 21:22:21 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: hayuninscripto in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 84
+[14-Jun-2014 21:22:21 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: result3 in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 86
+[14-Jun-2014 21:22:21 America/Argentina/Buenos_Aires] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 87
+[14-Jun-2014 21:22:43 America/Argentina/Buenos_Aires] PHP Deprecated:  Function split() is deprecated in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 7
+[14-Jun-2014 21:22:43 America/Argentina/Buenos_Aires] PHP Warning:  mysql_query(): Access denied for user 'argitcom'@'localhost' (using password: NO) in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 14
+[14-Jun-2014 21:22:43 America/Argentina/Buenos_Aires] PHP Warning:  mysql_query(): A link to the server could not be established in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 14
+[14-Jun-2014 21:22:43 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row3 in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 16
+[14-Jun-2014 21:22:43 America/Argentina/Buenos_Aires] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 26
+[14-Jun-2014 21:22:43 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: hayuninscripto in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 84
+[14-Jun-2014 21:22:43 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: result3 in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 86
+[14-Jun-2014 21:22:43 America/Argentina/Buenos_Aires] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 87
+[14-Jun-2014 21:25:01 America/Argentina/Buenos_Aires] PHP Deprecated:  Function split() is deprecated in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 7
+[14-Jun-2014 21:25:01 America/Argentina/Buenos_Aires] PHP Warning:  mysql_query(): Access denied for user 'argitcom'@'localhost' (using password: NO) in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 14
+[14-Jun-2014 21:25:01 America/Argentina/Buenos_Aires] PHP Warning:  mysql_query(): A link to the server could not be established in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 14
+[14-Jun-2014 21:25:01 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row3 in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 16
+[14-Jun-2014 21:25:01 America/Argentina/Buenos_Aires] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 26
+[14-Jun-2014 21:25:01 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: hayuninscripto in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 85
+[14-Jun-2014 21:25:01 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: result3 in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 87
+[14-Jun-2014 21:25:01 America/Argentina/Buenos_Aires] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 88
+[14-Jun-2014 21:28:11 America/Argentina/Buenos_Aires] PHP Deprecated:  Function split() is deprecated in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 7
+[14-Jun-2014 21:28:11 America/Argentina/Buenos_Aires] PHP Warning:  mysql_query(): Access denied for user 'argitcom'@'localhost' (using password: NO) in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 14
+[14-Jun-2014 21:28:11 America/Argentina/Buenos_Aires] PHP Warning:  mysql_query(): A link to the server could not be established in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 14
+[14-Jun-2014 21:28:11 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row3 in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 16
+[14-Jun-2014 21:28:11 America/Argentina/Buenos_Aires] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 26
+[14-Jun-2014 21:28:11 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: hayuninscripto in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 89
+[14-Jun-2014 21:28:11 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: result3 in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 91
+[14-Jun-2014 21:28:11 America/Argentina/Buenos_Aires] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 92
+[14-Jun-2014 21:30:18 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: usuario in /home/argitcom/public_html/inscribite/includes/header.php on line 3
+[14-Jun-2014 21:30:18 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: usuario in /home/argitcom/public_html/inscribite/includes/header.php on line 26
+[14-Jun-2014 21:30:18 America/Argentina/Buenos_Aires] PHP Notice:  Use of undefined constant url - assumed 'url' in /home/argitcom/public_html/inscribite/includes/header.php on line 34
+[14-Jun-2014 21:30:18 America/Argentina/Buenos_Aires] PHP Notice:  Use of undefined constant url - assumed 'url' in /home/argitcom/public_html/inscribite/includes/header.php on line 36
+[14-Jun-2014 21:30:18 America/Argentina/Buenos_Aires] PHP Notice:  Use of undefined constant url - assumed 'url' in /home/argitcom/public_html/inscribite/includes/header.php on line 37
+[14-Jun-2014 21:30:18 America/Argentina/Buenos_Aires] PHP Notice:  Use of undefined constant url - assumed 'url' in /home/argitcom/public_html/inscribite/includes/header.php on line 44
+[14-Jun-2014 21:30:18 America/Argentina/Buenos_Aires] PHP Notice:  Use of undefined constant url - assumed 'url' in /home/argitcom/public_html/inscribite/includes/header.php on line 48
+[14-Jun-2014 21:30:18 America/Argentina/Buenos_Aires] PHP Notice:  Use of undefined constant url - assumed 'url' in /home/argitcom/public_html/inscribite/includes/header.php on line 49
+[14-Jun-2014 21:30:18 America/Argentina/Buenos_Aires] PHP Notice:  Use of undefined constant url - assumed 'url' in /home/argitcom/public_html/inscribite/includes/header.php on line 50
+[14-Jun-2014 21:30:18 America/Argentina/Buenos_Aires] PHP Notice:  Use of undefined constant url - assumed 'url' in /home/argitcom/public_html/inscribite/includes/header.php on line 51
+[14-Jun-2014 21:30:18 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: usuario in /home/argitcom/public_html/inscribite/includes/header.php on line 54
+[14-Jun-2014 21:30:18 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: recienlogeado in /home/argitcom/public_html/inscribite/includes/header.php on line 54
+[14-Jun-2014 21:30:18 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: usuario in /home/argitcom/public_html/inscribite/includes/header.php on line 89
+[14-Jun-2014 21:30:18 America/Argentina/Buenos_Aires] PHP Notice:  Use of undefined constant url - assumed 'url' in /home/argitcom/public_html/inscribite/includes/header.php on line 102
+[14-Jun-2014 21:30:18 America/Argentina/Buenos_Aires] PHP Notice:  Use of undefined constant url - assumed 'url' in /home/argitcom/public_html/inscribite/index.php on line 3
+[14-Jun-2014 21:30:18 America/Argentina/Buenos_Aires] PHP Notice:  Use of undefined constant url - assumed 'url' in /home/argitcom/public_html/inscribite/index.php on line 5
+[14-Jun-2014 21:30:18 America/Argentina/Buenos_Aires] PHP Notice:  Use of undefined constant url - assumed 'url' in /home/argitcom/public_html/inscribite/includes/footer.php on line 2
+[14-Jun-2014 21:30:18 America/Argentina/Buenos_Aires] PHP Notice:  Use of undefined constant url - assumed 'url' in /home/argitcom/public_html/inscribite/includes/footer.php on line 2
+[14-Jun-2014 21:30:18 America/Argentina/Buenos_Aires] PHP Notice:  Use of undefined constant url - assumed 'url' in /home/argitcom/public_html/inscribite/includes/footer.php on line 2
+[14-Jun-2014 21:30:18 America/Argentina/Buenos_Aires] PHP Notice:  Use of undefined constant url - assumed 'url' in /home/argitcom/public_html/inscribite/includes/footer.php on line 2
+[14-Jun-2014 21:30:18 America/Argentina/Buenos_Aires] PHP Notice:  Use of undefined constant url - assumed 'url' in /home/argitcom/public_html/inscribite/includes/footer.php on line 2
+[14-Jun-2014 21:30:18 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: result1 in /home/argitcom/public_html/inscribite/includes/footer.php on line 12
+[14-Jun-2014 21:30:18 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: result2 in /home/argitcom/public_html/inscribite/includes/footer.php on line 13
+[14-Jun-2014 21:30:18 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: result3 in /home/argitcom/public_html/inscribite/includes/footer.php on line 14
+[14-Jun-2014 21:30:18 America/Argentina/Buenos_Aires] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/argitcom/public_html/inscribite/includes/footer.php on line 15
+[18-Jun-2014 00:22:05 America/Argentina/Buenos_Aires] PHP Deprecated:  Function split() is deprecated in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 7
+[18-Jun-2014 00:22:05 America/Argentina/Buenos_Aires] PHP Warning:  mysql_query(): Access denied for user 'argitcom'@'localhost' (using password: NO) in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 14
+[18-Jun-2014 00:22:05 America/Argentina/Buenos_Aires] PHP Warning:  mysql_query(): A link to the server could not be established in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 14
+[18-Jun-2014 00:22:05 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row3 in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 16
+[18-Jun-2014 00:22:05 America/Argentina/Buenos_Aires] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 26
+[18-Jun-2014 00:22:05 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: hayuninscripto in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 89
+[18-Jun-2014 00:22:05 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: result3 in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 91
+[18-Jun-2014 00:22:05 America/Argentina/Buenos_Aires] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 92
+[18-Jun-2014 00:29:23 America/Argentina/Buenos_Aires] PHP Warning:  mysql_query(): Access denied for user 'argitcom'@'localhost' (using password: NO) in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 18
+[18-Jun-2014 00:29:23 America/Argentina/Buenos_Aires] PHP Warning:  mysql_query(): A link to the server could not be established in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 18
+[18-Jun-2014 00:29:23 America/Argentina/Buenos_Aires] PHP Warning:  mysql_query(): Access denied for user 'argitcom'@'localhost' (using password: NO) in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 20
+[18-Jun-2014 00:29:23 America/Argentina/Buenos_Aires] PHP Warning:  mysql_query(): A link to the server could not be established in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 20
+[18-Jun-2014 00:29:23 America/Argentina/Buenos_Aires] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 21
+[18-Jun-2014 00:29:23 America/Argentina/Buenos_Aires] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 26
+[18-Jun-2014 00:29:23 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: hayuninscripto in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 89
+[18-Jun-2014 00:29:23 America/Argentina/Buenos_Aires] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 92
+[18-Jun-2014 00:30:17 America/Argentina/Buenos_Aires] PHP Warning:  mysql_query(): Access denied for user 'argitcom'@'localhost' (using password: NO) in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 18
+[18-Jun-2014 00:30:17 America/Argentina/Buenos_Aires] PHP Warning:  mysql_query(): A link to the server could not be established in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 18
+[18-Jun-2014 00:30:17 America/Argentina/Buenos_Aires] PHP Warning:  mysql_query(): Access denied for user 'argitcom'@'localhost' (using password: NO) in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 20
+[18-Jun-2014 00:30:17 America/Argentina/Buenos_Aires] PHP Warning:  mysql_query(): A link to the server could not be established in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 20
+[18-Jun-2014 00:30:17 America/Argentina/Buenos_Aires] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 21
+[18-Jun-2014 00:30:17 America/Argentina/Buenos_Aires] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 26
+[18-Jun-2014 00:30:17 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: hayuninscripto in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 89
+[18-Jun-2014 00:30:17 America/Argentina/Buenos_Aires] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 92
+[18-Jun-2014 00:30:24 America/Argentina/Buenos_Aires] PHP Warning:  mysql_query(): Access denied for user 'argitcom'@'localhost' (using password: NO) in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 18
+[18-Jun-2014 00:30:24 America/Argentina/Buenos_Aires] PHP Warning:  mysql_query(): A link to the server could not be established in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 18
+[18-Jun-2014 00:30:24 America/Argentina/Buenos_Aires] PHP Warning:  mysql_query(): Access denied for user 'argitcom'@'localhost' (using password: NO) in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 20
+[18-Jun-2014 00:30:24 America/Argentina/Buenos_Aires] PHP Warning:  mysql_query(): A link to the server could not be established in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 20
+[18-Jun-2014 00:30:24 America/Argentina/Buenos_Aires] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 21
+[18-Jun-2014 00:30:24 America/Argentina/Buenos_Aires] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 26
+[18-Jun-2014 00:30:24 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: hayuninscripto in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 89
+[18-Jun-2014 00:30:24 America/Argentina/Buenos_Aires] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 92
+[18-Jun-2014 00:30:30 America/Argentina/Buenos_Aires] PHP Warning:  mysql_query(): Access denied for user 'argitcom'@'localhost' (using password: NO) in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 18
+[18-Jun-2014 00:30:30 America/Argentina/Buenos_Aires] PHP Warning:  mysql_query(): A link to the server could not be established in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 18
+[18-Jun-2014 00:30:30 America/Argentina/Buenos_Aires] PHP Warning:  mysql_query(): Access denied for user 'argitcom'@'localhost' (using password: NO) in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 20
+[18-Jun-2014 00:30:30 America/Argentina/Buenos_Aires] PHP Warning:  mysql_query(): A link to the server could not be established in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 20
+[18-Jun-2014 00:30:30 America/Argentina/Buenos_Aires] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 21
+[18-Jun-2014 00:30:30 America/Argentina/Buenos_Aires] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 26
+[18-Jun-2014 00:30:30 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: hayuninscripto in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 89
+[18-Jun-2014 00:30:30 America/Argentina/Buenos_Aires] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 92
+[18-Jun-2014 00:34:14 America/Argentina/Buenos_Aires] PHP Warning:  mysql_query(): Access denied for user 'argitcom'@'localhost' (using password: NO) in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 18
+[18-Jun-2014 00:34:14 America/Argentina/Buenos_Aires] PHP Warning:  mysql_query(): A link to the server could not be established in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 18
+[18-Jun-2014 00:34:14 America/Argentina/Buenos_Aires] PHP Warning:  mysql_query(): Access denied for user 'argitcom'@'localhost' (using password: NO) in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 20
+[18-Jun-2014 00:34:14 America/Argentina/Buenos_Aires] PHP Warning:  mysql_query(): A link to the server could not be established in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 20
+[18-Jun-2014 00:34:14 America/Argentina/Buenos_Aires] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 21
+[18-Jun-2014 00:34:14 America/Argentina/Buenos_Aires] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 26
+[18-Jun-2014 00:34:14 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: hayuninscripto in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 89
+[18-Jun-2014 00:34:14 America/Argentina/Buenos_Aires] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 92
+[18-Jun-2014 00:34:21 America/Argentina/Buenos_Aires] PHP Warning:  mysql_query(): Access denied for user 'argitcom'@'localhost' (using password: NO) in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 18
+[18-Jun-2014 00:34:21 America/Argentina/Buenos_Aires] PHP Warning:  mysql_query(): A link to the server could not be established in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 18
+[18-Jun-2014 00:34:21 America/Argentina/Buenos_Aires] PHP Warning:  mysql_query(): Access denied for user 'argitcom'@'localhost' (using password: NO) in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 20
+[18-Jun-2014 00:34:21 America/Argentina/Buenos_Aires] PHP Warning:  mysql_query(): A link to the server could not be established in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 20
+[18-Jun-2014 00:34:21 America/Argentina/Buenos_Aires] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 21
+[18-Jun-2014 00:34:21 America/Argentina/Buenos_Aires] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 26
+[18-Jun-2014 00:34:21 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: hayuninscripto in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 89
+[18-Jun-2014 00:34:21 America/Argentina/Buenos_Aires] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 92
+[18-Jun-2014 00:34:25 America/Argentina/Buenos_Aires] PHP Warning:  mysql_query(): Access denied for user 'argitcom'@'localhost' (using password: NO) in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 18
+[18-Jun-2014 00:34:25 America/Argentina/Buenos_Aires] PHP Warning:  mysql_query(): A link to the server could not be established in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 18
+[18-Jun-2014 00:34:25 America/Argentina/Buenos_Aires] PHP Warning:  mysql_query(): Access denied for user 'argitcom'@'localhost' (using password: NO) in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 20
+[18-Jun-2014 00:34:25 America/Argentina/Buenos_Aires] PHP Warning:  mysql_query(): A link to the server could not be established in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 20
+[18-Jun-2014 00:34:25 America/Argentina/Buenos_Aires] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 21
+[18-Jun-2014 00:34:25 America/Argentina/Buenos_Aires] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 26
+[18-Jun-2014 00:34:25 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: hayuninscripto in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 89
+[18-Jun-2014 00:34:25 America/Argentina/Buenos_Aires] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 92
+[18-Jun-2014 00:34:51 America/Argentina/Buenos_Aires] PHP Deprecated:  Function split() is deprecated in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 7
+[18-Jun-2014 00:34:51 America/Argentina/Buenos_Aires] PHP Warning:  mysql_query(): Access denied for user 'argitcom'@'localhost' (using password: NO) in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 14
+[18-Jun-2014 00:34:51 America/Argentina/Buenos_Aires] PHP Warning:  mysql_query(): A link to the server could not be established in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 14
+[18-Jun-2014 00:34:51 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: row3 in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 16
+[18-Jun-2014 00:34:51 America/Argentina/Buenos_Aires] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 26
+[18-Jun-2014 00:34:51 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: hayuninscripto in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 89
+[18-Jun-2014 00:34:51 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: result3 in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 91
+[18-Jun-2014 00:34:51 America/Argentina/Buenos_Aires] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/argitcom/public_html/inscribite/descargarinscripciones.php on line 92
+[30-Jun-2014 19:05:40 America/Denver] PHP Parse error:  syntax error, unexpected ')' in /home/argitcom/public_html/inscribite/imprimircupon.php on line 410
+[30-Jun-2014 22:06:25 America/Argentina/Buenos_Aires] PHP Warning:  implode(): Argument must be an array in /home/argitcom/public_html/inscribite/imprimircupon.php on line 331
+[02-Jul-2014 21:46:04 America/Argentina/Buenos_Aires] PHP Warning:  implode(): Argument must be an array in /home/argitcom/public_html/inscribite/imprimircupon.php on line 386
+[02-Jul-2014 21:59:01 America/Argentina/Buenos_Aires] PHP Warning:  implode(): Argument must be an array in /home/argitcom/public_html/inscribite/imprimircupon.php on line 386
+[02-Jul-2014 22:15:03 America/Argentina/Buenos_Aires] PHP Warning:  implode(): Argument must be an array in /home/argitcom/public_html/inscribite/imprimircupon.php on line 386
+[08-Jul-2014 16:52:28 America/Argentina/Buenos_Aires] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/argitcom/public_html/inscribite/cancelarinscri.php on line 11
+[08-Jul-2014 16:52:40 America/Argentina/Buenos_Aires] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/argitcom/public_html/inscribite/cancelarinscri.php on line 11
+[08-Jul-2014 18:14:28 America/Argentina/Buenos_Aires] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/argitcom/public_html/inscribite/cancelarinscri.php on line 11

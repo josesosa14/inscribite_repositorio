@@ -1,0 +1,20 @@
+ERROR - 2016-11-26 13:24:10 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-11-26 13:24:10 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-11-26 13:24:10 --> 404 Page Not Found: /index
+ERROR - 2016-11-26 13:24:10 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-11-26 13:24:10 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-11-26 13:24:10 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-11-26 13:24:10 --> 404 Page Not Found: /index
+ERROR - 2016-11-26 13:24:10 --> 404 Page Not Found: /index
+ERROR - 2016-11-26 13:24:10 --> 404 Page Not Found: /index
+ERROR - 2016-11-26 13:24:10 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-11-26 13:24:10 --> 404 Page Not Found: /index
+ERROR - 2016-11-26 13:24:11 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-11-26 13:24:11 --> 404 Page Not Found: /index
+ERROR - 2016-11-26 13:24:16 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-11-26 13:24:17 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-11-26 13:24:18 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-11-26 13:24:36 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-11-26 13:24:37 --> Severity: Notice --> Undefined variable: pf C:\xampp\htdocs\back_inscribite\application\modules\web\models\decodificador\Decodificador_model.php 46
+ERROR - 2016-11-26 13:24:37 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-11-26 13:24:37 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.

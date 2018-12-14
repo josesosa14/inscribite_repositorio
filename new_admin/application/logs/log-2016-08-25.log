@@ -1,0 +1,2 @@
+ERROR - 2016-08-25 19:39:13 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-08-25 19:39:20 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.

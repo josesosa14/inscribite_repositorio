@@ -1,0 +1,168 @@
+[14-Jun-2014 18:04:16 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/argitcom/public_html/inscribite/empresas/index.php on line 4
+[14-Jun-2014 18:04:16 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'inscribite_user'@'localhost' (using password: YES) in /home/argitcom/public_html/inscribite/empresas/index.php on line 10
+[14-Jun-2014 18:04:16 America/Denver] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/argitcom/public_html/inscribite/empresas/index.php on line 10
+[14-Jun-2014 18:04:16 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'argitcom'@'localhost' (using password: NO) in /home/argitcom/public_html/inscribite/empresas/index.php on line 12
+[14-Jun-2014 18:04:16 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/argitcom/public_html/inscribite/empresas/index.php on line 12
+[14-Jun-2014 18:04:16 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/argitcom/public_html/inscribite/empresas/index.php on line 13
+[14-Jun-2014 18:04:16 America/Denver] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/argitcom/public_html/inscribite/empresas/index.php on line 193
+[14-Jun-2014 18:04:32 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/argitcom/public_html/inscribite/empresas/index.php on line 4
+[14-Jun-2014 18:04:32 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'inscribite_user'@'localhost' (using password: YES) in /home/argitcom/public_html/inscribite/empresas/index.php on line 10
+[14-Jun-2014 18:04:32 America/Denver] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/argitcom/public_html/inscribite/empresas/index.php on line 10
+[14-Jun-2014 18:04:32 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'argitcom'@'localhost' (using password: NO) in /home/argitcom/public_html/inscribite/empresas/index.php on line 12
+[14-Jun-2014 18:04:32 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/argitcom/public_html/inscribite/empresas/index.php on line 12
+[14-Jun-2014 18:04:32 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/argitcom/public_html/inscribite/empresas/index.php on line 13
+[14-Jun-2014 18:04:32 America/Denver] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/argitcom/public_html/inscribite/empresas/index.php on line 193
+[14-Jun-2014 18:04:39 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/argitcom/public_html/inscribite/empresas/index.php on line 4
+[14-Jun-2014 18:04:39 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'inscribite_user'@'localhost' (using password: YES) in /home/argitcom/public_html/inscribite/empresas/index.php on line 10
+[14-Jun-2014 18:04:39 America/Denver] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/argitcom/public_html/inscribite/empresas/index.php on line 10
+[14-Jun-2014 18:04:39 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'argitcom'@'localhost' (using password: NO) in /home/argitcom/public_html/inscribite/empresas/index.php on line 12
+[14-Jun-2014 18:04:39 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/argitcom/public_html/inscribite/empresas/index.php on line 12
+[14-Jun-2014 18:04:39 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/argitcom/public_html/inscribite/empresas/index.php on line 13
+[14-Jun-2014 18:04:39 America/Denver] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/argitcom/public_html/inscribite/empresas/index.php on line 193
+[14-Jun-2014 18:12:14 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/argitcom/public_html/inscribite/empresas/index.php on line 4
+[14-Jun-2014 18:12:14 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'inscribite_user'@'localhost' (using password: YES) in /home/argitcom/public_html/inscribite/empresas/index.php on line 10
+[14-Jun-2014 18:12:14 America/Denver] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/argitcom/public_html/inscribite/empresas/index.php on line 10
+[14-Jun-2014 18:12:14 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'argitcom'@'localhost' (using password: NO) in /home/argitcom/public_html/inscribite/empresas/index.php on line 12
+[14-Jun-2014 18:12:14 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/argitcom/public_html/inscribite/empresas/index.php on line 12
+[14-Jun-2014 18:12:14 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/argitcom/public_html/inscribite/empresas/index.php on line 13
+[14-Jun-2014 18:12:14 America/Denver] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/argitcom/public_html/inscribite/empresas/index.php on line 193
+[14-Jun-2014 18:12:43 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/argitcom/public_html/inscribite/empresas/index.php on line 4
+[14-Jun-2014 18:12:43 America/Denver] PHP Warning:  mysql_connect(): Access denied for user 'inscribite_user'@'localhost' (using password: YES) in /home/argitcom/public_html/inscribite/empresas/index.php on line 10
+[14-Jun-2014 18:12:43 America/Denver] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/argitcom/public_html/inscribite/empresas/index.php on line 10
+[14-Jun-2014 18:12:43 America/Denver] PHP Warning:  mysql_query(): Access denied for user 'argitcom'@'localhost' (using password: NO) in /home/argitcom/public_html/inscribite/empresas/index.php on line 12
+[14-Jun-2014 18:12:43 America/Denver] PHP Warning:  mysql_query(): A link to the server could not be established in /home/argitcom/public_html/inscribite/empresas/index.php on line 12
+[14-Jun-2014 18:12:43 America/Denver] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/argitcom/public_html/inscribite/empresas/index.php on line 13
+[14-Jun-2014 18:12:43 America/Denver] PHP Warning:  mysql_close(): no MySQL-Link resource supplied in /home/argitcom/public_html/inscribite/empresas/index.php on line 193
+[14-Jun-2014 18:15:34 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/argitcom/public_html/inscribite/empresas/index.php on line 4
+[14-Jun-2014 18:18:30 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/argitcom/public_html/inscribite/empresas/index.php on line 4
+[14-Jun-2014 18:19:39 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/argitcom/public_html/inscribite/empresas/index.php on line 4
+[14-Jun-2014 18:22:16 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/argitcom/public_html/inscribite/empresas/index.php on line 4
+[14-Jun-2014 18:24:50 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/argitcom/public_html/inscribite/empresas/index.php on line 4
+[14-Jun-2014 18:26:18 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/argitcom/public_html/inscribite/empresas/index.php on line 4
+[14-Jun-2014 18:28:03 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/argitcom/public_html/inscribite/empresas/index.php on line 4
+[14-Jun-2014 18:28:06 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/argitcom/public_html/inscribite/empresas/index.php on line 4
+[17-Jun-2014 20:55:19 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/argitcom/public_html/inscribite/empresas/index.php on line 4
+[17-Jun-2014 20:58:04 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/argitcom/public_html/inscribite/empresas/index.php on line 4
+[17-Jun-2014 21:28:57 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/argitcom/public_html/inscribite/empresas/index.php on line 7
+[17-Jun-2014 21:30:04 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/argitcom/public_html/inscribite/empresas/index.php on line 7
+[17-Jun-2014 21:34:11 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/argitcom/public_html/inscribite/empresas/index.php on line 7
+[24-Jun-2014 21:44:19 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/argitcom/public_html/inscribite/empresas/index.php on line 7
+[24-Jun-2014 21:51:02 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/argitcom/public_html/inscribite/empresas/index.php on line 7
+[25-Jun-2014 00:51:02 America/Argentina/Buenos_Aires] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/argitcom/public_html/inscribite/empresas/index.php:1) in /home/argitcom/public_html/inscribite/argit/general/db.php on line 4
+[25-Jun-2014 00:51:02 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: inicio in /home/argitcom/public_html/inscribite/argit/general/menu.php on line 7
+[25-Jun-2014 00:51:02 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: nosotros in /home/argitcom/public_html/inscribite/argit/general/menu.php on line 10
+[25-Jun-2014 00:51:02 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: pagar in /home/argitcom/public_html/inscribite/argit/general/menu.php on line 13
+[25-Jun-2014 00:51:02 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: contacto in /home/argitcom/public_html/inscribite/argit/general/menu.php on line 16
+[25-Jun-2014 00:51:02 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: unirse in /home/argitcom/public_html/inscribite/argit/general/menu.php on line 19
+[25-Jun-2014 00:51:02 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: login in /home/argitcom/public_html/inscribite/argit/general/menu.php on line 28
+[25-Jun-2014 00:51:02 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: sihay in /home/argitcom/public_html/inscribite/empresas/index.php on line 79
+[25-Jun-2014 00:51:02 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: empresa in /home/argitcom/public_html/inscribite/empresas/index.php on line 137
+[25-Jun-2014 00:51:02 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: empresa in /home/argitcom/public_html/inscribite/empresas/index.php on line 140
+[25-Jun-2014 00:51:02 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: empresa in /home/argitcom/public_html/inscribite/empresas/index.php on line 145
+[25-Jun-2014 00:51:02 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: passw in /home/argitcom/public_html/inscribite/empresas/index.php on line 146
+[25-Jun-2014 00:51:02 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: result2 in /home/argitcom/public_html/inscribite/empresas/index.php on line 168
+[24-Jun-2014 21:52:59 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/argitcom/public_html/inscribite/empresas/index.php on line 7
+[24-Jun-2014 21:54:30 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/argitcom/public_html/inscribite/empresas/index.php on line 7
+[24-Jun-2014 21:55:57 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/argitcom/public_html/inscribite/empresas/index.php on line 7
+[24-Jun-2014 21:55:57 America/Denver] PHP Warning:  include_once(/home/argitcom/public_html/inscribite/empresas/menu.php): failed to open stream: No such file or directory in /home/argitcom/public_html/inscribite/empresas/index.php on line 105
+[24-Jun-2014 21:55:57 America/Denver] PHP Warning:  include_once(): Failed opening '/home/argitcom/public_html/inscribite/empresas/menu.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/argitcom/public_html/inscribite/empresas/index.php on line 105
+[24-Jun-2014 21:56:15 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/argitcom/public_html/inscribite/empresas/index.php on line 7
+[24-Jun-2014 21:56:15 America/Denver] PHP Warning:  include_once(/home/argitcom/public_html/inscribite/empresas/menu.php): failed to open stream: No such file or directory in /home/argitcom/public_html/inscribite/empresas/index.php on line 105
+[24-Jun-2014 21:56:15 America/Denver] PHP Warning:  include_once(): Failed opening '/home/argitcom/public_html/inscribite/empresas/menu.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/argitcom/public_html/inscribite/empresas/index.php on line 105
+[24-Jun-2014 21:58:43 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/argitcom/public_html/inscribite/empresas/index.php on line 7
+[24-Jun-2014 21:59:19 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/argitcom/public_html/inscribite/empresas/index.php on line 7
+[24-Jun-2014 22:01:25 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/argitcom/public_html/inscribite/empresas/index.php on line 7
+[24-Jun-2014 22:02:39 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/argitcom/public_html/inscribite/empresas/index.php on line 7
+[24-Jun-2014 22:06:00 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/argitcom/public_html/inscribite/empresas/index.php on line 7
+[24-Jun-2014 22:06:44 America/Denver] PHP Deprecated:  Function split() is deprecated in /home/argitcom/public_html/inscribite/empresas/index.php on line 7
+[27-Jun-2014 17:02:41 America/Denver] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/argitcom/public_html/inscribite/empresas/index.php:25) in /home/argitcom/public_html/inscribite/empresas/index.php on line 25
+[27-Jun-2014 17:02:41 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/argitcom/public_html/inscribite/empresas/index.php:25) in /home/argitcom/public_html/inscribite/empresas/index.php on line 59
+[27-Jun-2014 17:03:16 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/argitcom/public_html/inscribite/empresas/index.php:29) in /home/argitcom/public_html/inscribite/empresas/index.php on line 63
+[27-Jun-2014 17:04:15 America/Denver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/argitcom/public_html/inscribite/empresas/index.php:29) in /home/argitcom/public_html/inscribite/empresas/index.php on line 65
+[27-Jun-2014 20:09:19 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: usuario in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 16
+[27-Jun-2014 20:09:19 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_info in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 29
+[27-Jun-2014 20:09:19 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_info in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 29
+[27-Jun-2014 20:09:19 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_info in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 30
+[27-Jun-2014 20:09:19 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_info in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 62
+[27-Jun-2014 20:09:19 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_info in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 62
+[27-Jun-2014 20:09:19 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_info in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 62
+[27-Jun-2014 20:09:19 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_info in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 62
+[27-Jun-2014 20:09:19 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_info in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 62
+[27-Jun-2014 20:09:19 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_info in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 62
+[27-Jun-2014 20:09:19 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_info in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 62
+[27-Jun-2014 20:09:19 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_info in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 62
+[27-Jun-2014 20:09:19 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_info in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 62
+[27-Jun-2014 20:09:19 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_info in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 62
+[27-Jun-2014 20:09:19 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_info in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 62
+[27-Jun-2014 20:09:19 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_info in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 62
+[27-Jun-2014 20:09:19 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_info in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 62
+[27-Jun-2014 20:09:19 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_info in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 62
+[27-Jun-2014 20:09:19 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_info in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 62
+[27-Jun-2014 20:09:19 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_info in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 62
+[27-Jun-2014 20:09:19 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_info in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 62
+[27-Jun-2014 20:09:19 America/Argentina/Buenos_Aires] PHP Warning:  include_once(general/footer.php): failed to open stream: No such file or directory in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 104
+[27-Jun-2014 20:09:19 America/Argentina/Buenos_Aires] PHP Warning:  include_once(): Failed opening 'general/footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 104
+[27-Jun-2014 20:09:38 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: usuario in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 16
+[27-Jun-2014 20:09:38 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_info in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 29
+[27-Jun-2014 20:09:38 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_info in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 29
+[27-Jun-2014 20:09:38 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_info in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 30
+[27-Jun-2014 20:09:38 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_info in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 62
+[27-Jun-2014 20:09:38 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_info in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 62
+[27-Jun-2014 20:09:38 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_info in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 62
+[27-Jun-2014 20:09:38 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_info in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 62
+[27-Jun-2014 20:09:38 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_info in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 62
+[27-Jun-2014 20:09:38 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_info in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 62
+[27-Jun-2014 20:09:38 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_info in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 62
+[27-Jun-2014 20:09:38 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_info in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 62
+[27-Jun-2014 20:09:38 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_info in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 62
+[27-Jun-2014 20:09:38 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_info in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 62
+[27-Jun-2014 20:09:38 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_info in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 62
+[27-Jun-2014 20:09:38 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_info in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 62
+[27-Jun-2014 20:09:38 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_info in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 62
+[27-Jun-2014 20:09:38 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_info in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 62
+[27-Jun-2014 20:09:38 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_info in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 62
+[27-Jun-2014 20:09:38 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_info in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 62
+[27-Jun-2014 20:09:38 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_info in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 62
+[27-Jun-2014 20:09:38 America/Argentina/Buenos_Aires] PHP Warning:  include_once(general/footer.php): failed to open stream: No such file or directory in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 104
+[27-Jun-2014 20:09:38 America/Argentina/Buenos_Aires] PHP Warning:  include_once(): Failed opening 'general/footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 104
+[27-Jun-2014 20:11:39 America/Argentina/Buenos_Aires] PHP Notice:  Undefined index: usuario in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 12
+[27-Jun-2014 20:11:39 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_info in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 57
+[27-Jun-2014 20:11:39 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_info in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 57
+[27-Jun-2014 20:11:39 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_info in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 57
+[27-Jun-2014 20:11:39 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_info in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 57
+[27-Jun-2014 20:11:39 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_info in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 57
+[27-Jun-2014 20:11:39 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_info in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 57
+[27-Jun-2014 20:11:39 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_info in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 57
+[27-Jun-2014 20:11:39 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_info in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 57
+[27-Jun-2014 20:11:39 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_info in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 57
+[27-Jun-2014 20:11:39 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_info in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 57
+[27-Jun-2014 20:11:39 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_info in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 57
+[27-Jun-2014 20:11:39 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_info in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 57
+[27-Jun-2014 20:11:39 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_info in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 57
+[27-Jun-2014 20:11:39 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_info in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 57
+[27-Jun-2014 20:11:39 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_info in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 57
+[27-Jun-2014 20:11:39 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_info in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 57
+[27-Jun-2014 20:11:39 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: user_info in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 57
+[27-Jun-2014 20:11:39 America/Argentina/Buenos_Aires] PHP Warning:  include_once(general/footer.php): failed to open stream: No such file or directory in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 99
+[27-Jun-2014 20:11:39 America/Argentina/Buenos_Aires] PHP Warning:  include_once(): Failed opening 'general/footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 99
+[27-Jun-2014 20:12:18 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: eventos in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 41
+[27-Jun-2014 20:12:18 America/Argentina/Buenos_Aires] PHP Warning:  include_once(general/footer.php): failed to open stream: No such file or directory in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 98
+[27-Jun-2014 20:12:18 America/Argentina/Buenos_Aires] PHP Warning:  include_once(): Failed opening 'general/footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 98
+[27-Jun-2014 20:14:03 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: eventos in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 41
+[27-Jun-2014 20:14:03 America/Argentina/Buenos_Aires] PHP Warning:  include_once(general/footer.php): failed to open stream: No such file or directory in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 98
+[27-Jun-2014 20:14:03 America/Argentina/Buenos_Aires] PHP Warning:  include_once(): Failed opening 'general/footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 98
+[27-Jun-2014 20:14:07 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: eventos in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 41
+[27-Jun-2014 20:14:07 America/Argentina/Buenos_Aires] PHP Warning:  include_once(general/footer.php): failed to open stream: No such file or directory in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 98
+[27-Jun-2014 20:14:07 America/Argentina/Buenos_Aires] PHP Warning:  include_once(): Failed opening 'general/footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 98
+[27-Jun-2014 20:24:45 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: eventos in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 42
+[27-Jun-2014 20:24:45 America/Argentina/Buenos_Aires] PHP Notice:  Undefined variable: eventos in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 73
+[27-Jun-2014 20:24:45 America/Argentina/Buenos_Aires] PHP Warning:  include_once(general/footer.php): failed to open stream: No such file or directory in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 118
+[27-Jun-2014 20:24:45 America/Argentina/Buenos_Aires] PHP Warning:  include_once(): Failed opening 'general/footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 118
+[27-Jun-2014 20:25:09 America/Argentina/Buenos_Aires] PHP Warning:  include_once(general/footer.php): failed to open stream: No such file or directory in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 118
+[27-Jun-2014 20:25:09 America/Argentina/Buenos_Aires] PHP Warning:  include_once(): Failed opening 'general/footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 118
+[27-Jun-2014 20:25:54 America/Argentina/Buenos_Aires] PHP Warning:  include_once(general/footer.php): failed to open stream: No such file or directory in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 118
+[27-Jun-2014 20:25:54 America/Argentina/Buenos_Aires] PHP Warning:  include_once(): Failed opening 'general/footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 118
+[27-Jun-2014 20:26:30 America/Argentina/Buenos_Aires] PHP Warning:  include_once(general/footer.php): failed to open stream: No such file or directory in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 118
+[27-Jun-2014 20:26:30 America/Argentina/Buenos_Aires] PHP Warning:  include_once(): Failed opening 'general/footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 118
+[27-Jun-2014 20:27:52 America/Argentina/Buenos_Aires] PHP Warning:  include_once(/../argit/general/footer.php): failed to open stream: No such file or directory in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 118
+[27-Jun-2014 20:27:52 America/Argentina/Buenos_Aires] PHP Warning:  include_once(): Failed opening '/../argit/general/footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/argitcom/public_html/inscribite/empresas/empresa.php on line 118

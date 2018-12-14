@@ -1,0 +1,39 @@
+<?php
+
+defined("BASEPATH") OR exit("No direct script access allowed");
+
+/**
+ * @property {class_name}_model ${class_name_minus}
+ */
+class {class_name}_controller extends Admin_Controller {
+
+    public function __construct() {
+        parent::__construct();
+        $this->load->model("{class_name_minus}/{class_name_minus}_model", "{class_name_minus}");
+        $this->setTemplateDefault("admin/templateAdmin");
+    }
+
+    public function index($args = false) {
+        if ($this->post()) {
+            $this->{class_name_minus}->insertar($this->post());
+            redirect("admin-{class_name_minus}");
+        } elseif ($args) {
+            $data["{class_name_minus}"] = $this->{class_name_minus}->getById($args);
+            $data["footer"] = "{class_name_minus}/footer";
+            $this->loadTemplateDefault("{class_name_minus}/{class_name_minus}_formulario", $data);
+        } else {
+            $data["footer"] = "{class_name_minus}/footer";
+            $this->loadTemplateDefault("{class_name_minus}/{class_name_minus}_formulario", $data);
+        }
+    }
+
+    public function get{class_name}Ajax() {
+        echo json_encode($this->{class_name_minus}->get{class_name}Ajax($this->input->get()));
+    }
+    
+    public function borrar(${prefijo}id){
+        $this->{class_name_minus}->borrar(${prefijo}id);
+        redirect("admin-{class_name_minus}");
+    }
+
+}

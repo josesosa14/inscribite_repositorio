@@ -1,0 +1,129 @@
+ERROR - 2016-12-09 10:15:44 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:15:45 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:15:46 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:15:46 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:15:46 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:15:46 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:15:46 --> 404 Page Not Found: /index
+ERROR - 2016-12-09 10:15:46 --> 404 Page Not Found: /index
+ERROR - 2016-12-09 10:15:46 --> 404 Page Not Found: /index
+ERROR - 2016-12-09 10:15:46 --> 404 Page Not Found: /index
+ERROR - 2016-12-09 10:15:47 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:15:47 --> 404 Page Not Found: /index
+ERROR - 2016-12-09 10:15:47 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:15:47 --> 404 Page Not Found: /index
+ERROR - 2016-12-09 10:15:53 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:15:55 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:15:56 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:15:58 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:15:58 --> Severity: error --> Exception: An exception occurred while executing 'SELECT t0.pag_id AS pag_id_1, t0.pag_fecha_in AS pag_fecha_in_2, t0.pag_fecha AS pag_fecha_3, t0.pag_emp_id AS pag_emp_id_4 FROM pago t0':
+
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 't0.pag_id' in 'field list' C:\xampp\htdocs\back_inscribite\vendor\doctrine\dbal\lib\Doctrine\DBAL\Driver\AbstractMySQLDriver.php 71
+ERROR - 2016-12-09 10:25:25 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:25:26 --> Severity: error --> Exception: The target-entity Pago_renglones cannot be found in 'Pago#renglones'. C:\xampp\htdocs\back_inscribite\vendor\doctrine\orm\lib\Doctrine\ORM\Mapping\MappingException.php 762
+ERROR - 2016-12-09 10:26:01 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:26:01 --> Severity: error --> Exception: Unknown column type "timpestamp" requested. Any Doctrine type that you use has to be registered with \Doctrine\DBAL\Types\Type::addType(). You can get a list of all the known types with \Doctrine\DBAL\Types\Type::getTypesMap(). If this error occurs during database introspection then you might have forgot to register all database types for a Doctrine Type. Use AbstractPlatform#registerDoctrineTypeMapping() or have your custom types implement Type#getMappedDatabaseTypes(). If the type name is empty you might have a problem with the cache or forgot some mapping information. C:\xampp\htdocs\back_inscribite\vendor\doctrine\dbal\lib\Doctrine\DBAL\DBALException.php 228
+ERROR - 2016-12-09 10:26:22 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:26:22 --> Severity: error --> Exception: Could not convert database value "2016-09-25 00:00:00" to Doctrine Type date. Expected format: Y-m-d C:\xampp\htdocs\back_inscribite\vendor\doctrine\dbal\lib\Doctrine\DBAL\Types\ConversionException.php 63
+ERROR - 2016-12-09 10:26:46 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:26:47 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:26:47 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:26:47 --> 404 Page Not Found: /index
+ERROR - 2016-12-09 10:26:47 --> 404 Page Not Found: /index
+ERROR - 2016-12-09 10:26:50 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:26:50 --> 404 Page Not Found: /index
+ERROR - 2016-12-09 10:26:50 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:26:50 --> 404 Page Not Found: /index
+ERROR - 2016-12-09 10:26:50 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:26:54 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:26:54 --> 404 Page Not Found: /index
+ERROR - 2016-12-09 10:27:31 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:27:31 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:27:31 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:27:31 --> 404 Page Not Found: /index
+ERROR - 2016-12-09 10:27:31 --> 404 Page Not Found: /index
+ERROR - 2016-12-09 10:27:31 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:27:31 --> 404 Page Not Found: /index
+ERROR - 2016-12-09 10:27:31 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:27:31 --> 404 Page Not Found: /index
+ERROR - 2016-12-09 10:27:32 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:27:32 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:27:32 --> 404 Page Not Found: /index
+ERROR - 2016-12-09 10:27:43 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:27:44 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:27:48 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:27:48 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:27:48 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:27:48 --> 404 Page Not Found: /index
+ERROR - 2016-12-09 10:27:48 --> 404 Page Not Found: /index
+ERROR - 2016-12-09 10:27:49 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:27:49 --> 404 Page Not Found: /index
+ERROR - 2016-12-09 10:27:49 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:27:49 --> 404 Page Not Found: /index
+ERROR - 2016-12-09 10:27:49 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:27:50 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:27:52 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:27:59 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:29:11 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:29:12 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:29:12 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:29:12 --> 404 Page Not Found: /index
+ERROR - 2016-12-09 10:29:12 --> 404 Page Not Found: /index
+ERROR - 2016-12-09 10:29:12 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:29:12 --> 404 Page Not Found: /index
+ERROR - 2016-12-09 10:29:12 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:29:12 --> 404 Page Not Found: /index
+ERROR - 2016-12-09 10:29:12 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:29:39 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:29:40 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:29:46 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:31:59 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:32:00 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:32:01 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:32:07 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:32:07 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:32:10 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:35:53 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:35:54 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:35:57 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:35:57 --> Severity: Warning --> Missing argument 1 for EmpresaController::getJSONEmpresas() C:\xampp\htdocs\back_inscribite\application\modules\web\controllers\empresa\EmpresaController.php 49
+ERROR - 2016-12-09 10:35:57 --> Severity: Notice --> Undefined variable: args C:\xampp\htdocs\back_inscribite\application\modules\web\controllers\empresa\EmpresaController.php 50
+ERROR - 2016-12-09 10:35:57 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`ORDER BY emp_nombre ASC limit` 20' at line 3 - Invalid query: SELECT *
+FROM `empresa`
+WHERE `emp_nombre` like CONCAT ("%","","%") `ORDER BY emp_nombre ASC limit` 20
+ERROR - 2016-12-09 10:36:22 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:36:23 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:36:25 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:36:25 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`ORDER BY emp_nombre ASC limit` 20' at line 3 - Invalid query: SELECT *
+FROM `empresa`
+WHERE `emp_nombre` like CONCAT ("%","ARG","%") `ORDER BY emp_nombre ASC limit` 20
+ERROR - 2016-12-09 10:38:08 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:38:09 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:38:10 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:38:11 --> Severity: Notice --> Undefined property: stdClass::$cli_id C:\xampp\htdocs\back_inscribite\application\modules\web\models\empresa\EmpresaModel.php 126
+ERROR - 2016-12-09 10:38:11 --> Severity: Notice --> Undefined property: stdClass::$cli_razon_social C:\xampp\htdocs\back_inscribite\application\modules\web\models\empresa\EmpresaModel.php 126
+ERROR - 2016-12-09 10:38:26 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:38:27 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:38:28 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:38:29 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:38:29 --> 404 Page Not Found: /index
+ERROR - 2016-12-09 10:43:15 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:43:30 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:43:31 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:43:32 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:43:33 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:43:33 --> 404 Page Not Found: /index
+ERROR - 2016-12-09 10:43:52 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:43:53 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:43:54 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:43:55 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:43:55 --> Severity: Notice --> Undefined index: id C:\xampp\htdocs\back_inscribite\application\modules\web\models\empresa\EmpresaModel.php 135
+ERROR - 2016-12-09 10:43:55 --> Severity: error --> Exception: No result was found for query although at least one row was expected. C:\xampp\htdocs\back_inscribite\vendor\doctrine\orm\lib\Doctrine\ORM\AbstractQuery.php 807
+ERROR - 2016-12-09 10:44:13 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:44:14 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:44:15 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:44:15 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:45:38 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:45:39 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:45:40 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-09 10:45:41 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.

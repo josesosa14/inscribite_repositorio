@@ -1,0 +1,149 @@
+ERROR - 2016-12-10 12:48:10 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 12:48:11 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 12:48:13 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 12:48:13 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 12:48:13 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 12:48:13 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 12:48:13 --> 404 Page Not Found: /index
+ERROR - 2016-12-10 12:48:13 --> 404 Page Not Found: /index
+ERROR - 2016-12-10 12:48:13 --> 404 Page Not Found: /index
+ERROR - 2016-12-10 12:48:13 --> 404 Page Not Found: /index
+ERROR - 2016-12-10 12:48:13 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 12:48:13 --> 404 Page Not Found: /index
+ERROR - 2016-12-10 12:48:14 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 12:48:14 --> 404 Page Not Found: /index
+ERROR - 2016-12-10 12:48:19 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 12:48:20 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 12:48:22 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 12:50:15 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 12:50:17 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 12:50:33 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 12:50:34 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 12:59:03 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 12:59:07 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 12:59:07 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 12:59:07 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 12:59:08 --> Severity: Notice --> Undefined property: CI::$Pagomodel C:\xampp\htdocs\back_inscribite\application\third_party\MX\Controller.php 59
+ERROR - 2016-12-10 12:59:08 --> Severity: Error --> Call to a member function getPagoTableAjax() on null C:\xampp\htdocs\back_inscribite\application\modules\web\controllers\pago\Pago_Controller.php 78
+ERROR - 2016-12-10 12:59:08 --> Severity: Notice --> Undefined property: CI::$Pagomodel C:\xampp\htdocs\back_inscribite\application\third_party\MX\Controller.php 59
+ERROR - 2016-12-10 12:59:08 --> Severity: Error --> Call to a member function getPagoTableAjax() on null C:\xampp\htdocs\back_inscribite\application\modules\web\controllers\pago\Pago_Controller.php 78
+ERROR - 2016-12-10 12:59:08 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 12:59:08 --> 404 Page Not Found: /index
+ERROR - 2016-12-10 12:59:25 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 12:59:26 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 12:59:26 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 12:59:26 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 12:59:26 --> Severity: Notice --> Undefined property: CI::$Pagomodel C:\xampp\htdocs\back_inscribite\application\third_party\MX\Controller.php 59
+ERROR - 2016-12-10 12:59:26 --> Severity: Error --> Call to a member function getPagoTableAjax() on null C:\xampp\htdocs\back_inscribite\application\modules\web\controllers\pago\Pago_Controller.php 78
+ERROR - 2016-12-10 12:59:27 --> Severity: Notice --> Undefined property: CI::$Pagomodel C:\xampp\htdocs\back_inscribite\application\third_party\MX\Controller.php 59
+ERROR - 2016-12-10 12:59:27 --> Severity: Error --> Call to a member function getPagoTableAjax() on null C:\xampp\htdocs\back_inscribite\application\modules\web\controllers\pago\Pago_Controller.php 78
+ERROR - 2016-12-10 12:59:27 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 12:59:27 --> 404 Page Not Found: /index
+ERROR - 2016-12-10 12:59:32 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 12:59:33 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 12:59:33 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 12:59:33 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 12:59:34 --> Severity: Notice --> Undefined property: CI::$Pagomodel C:\xampp\htdocs\back_inscribite\application\third_party\MX\Controller.php 59
+ERROR - 2016-12-10 12:59:34 --> Severity: Error --> Call to a member function getPagoTableAjax() on null C:\xampp\htdocs\back_inscribite\application\modules\web\controllers\pago\Pago_Controller.php 78
+ERROR - 2016-12-10 12:59:34 --> Severity: Notice --> Undefined property: CI::$Pagomodel C:\xampp\htdocs\back_inscribite\application\third_party\MX\Controller.php 59
+ERROR - 2016-12-10 12:59:34 --> Severity: Error --> Call to a member function getPagoTableAjax() on null C:\xampp\htdocs\back_inscribite\application\modules\web\controllers\pago\Pago_Controller.php 78
+ERROR - 2016-12-10 12:59:34 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 12:59:34 --> 404 Page Not Found: /index
+ERROR - 2016-12-10 13:01:15 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 13:01:16 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 13:01:16 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 13:01:16 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 13:01:16 --> Severity: Notice --> Undefined property: CI::$Pagomodel C:\xampp\htdocs\back_inscribite\application\third_party\MX\Controller.php 59
+ERROR - 2016-12-10 13:01:16 --> Severity: Error --> Call to a member function getPagoTableAjax() on null C:\xampp\htdocs\back_inscribite\application\modules\web\controllers\pago\Pago_Controller.php 78
+ERROR - 2016-12-10 13:01:16 --> Severity: Notice --> Undefined property: CI::$Pagomodel C:\xampp\htdocs\back_inscribite\application\third_party\MX\Controller.php 59
+ERROR - 2016-12-10 13:01:16 --> Severity: Error --> Call to a member function getPagoTableAjax() on null C:\xampp\htdocs\back_inscribite\application\modules\web\controllers\pago\Pago_Controller.php 78
+ERROR - 2016-12-10 13:01:16 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 13:01:16 --> 404 Page Not Found: /index
+ERROR - 2016-12-10 13:02:32 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 13:02:33 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 13:02:33 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 13:02:33 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 13:02:33 --> Severity: Notice --> Undefined property: CI::$Pagomodel C:\xampp\htdocs\back_inscribite\application\third_party\MX\Controller.php 59
+ERROR - 2016-12-10 13:02:33 --> Severity: Error --> Call to a member function getPagoTableAjax() on null C:\xampp\htdocs\back_inscribite\application\modules\web\controllers\pago\Pago_Controller.php 78
+ERROR - 2016-12-10 13:02:33 --> Severity: Notice --> Undefined property: CI::$Pagomodel C:\xampp\htdocs\back_inscribite\application\third_party\MX\Controller.php 59
+ERROR - 2016-12-10 13:02:33 --> Severity: Error --> Call to a member function getPagoTableAjax() on null C:\xampp\htdocs\back_inscribite\application\modules\web\controllers\pago\Pago_Controller.php 78
+ERROR - 2016-12-10 13:04:00 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 13:04:01 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 13:04:01 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 13:04:01 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 13:04:01 --> Severity: Notice --> Undefined property: CI::$Pagomodel C:\xampp\htdocs\back_inscribite\application\third_party\MX\Controller.php 59
+ERROR - 2016-12-10 13:04:01 --> Severity: Error --> Call to a member function getPagoTableAjax() on null C:\xampp\htdocs\back_inscribite\application\modules\web\controllers\pago\Pago_Controller.php 78
+ERROR - 2016-12-10 13:04:01 --> Severity: Notice --> Undefined property: CI::$Pagomodel C:\xampp\htdocs\back_inscribite\application\third_party\MX\Controller.php 59
+ERROR - 2016-12-10 13:04:01 --> Severity: Error --> Call to a member function getPagoTableAjax() on null C:\xampp\htdocs\back_inscribite\application\modules\web\controllers\pago\Pago_Controller.php 78
+ERROR - 2016-12-10 13:04:26 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 13:04:27 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 13:04:27 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 13:04:27 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 13:04:28 --> Severity: Error --> Call to undefined function esRol() C:\xampp\htdocs\back_inscribite\application\modules\web\modelo\Pago.php 129
+ERROR - 2016-12-10 13:04:28 --> Severity: Error --> Call to undefined function esRol() C:\xampp\htdocs\back_inscribite\application\modules\web\modelo\Pago.php 129
+ERROR - 2016-12-10 13:04:38 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 13:04:39 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 13:04:40 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 13:04:40 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 13:04:40 --> Severity: error --> Exception: Entity of type 'Empresa' for IDs id(1) was not found C:\xampp\htdocs\back_inscribite\vendor\doctrine\orm\lib\Doctrine\ORM\EntityNotFoundException.php 47
+ERROR - 2016-12-10 13:04:40 --> Severity: error --> Exception: Entity of type 'Empresa' for IDs id(1) was not found C:\xampp\htdocs\back_inscribite\vendor\doctrine\orm\lib\Doctrine\ORM\EntityNotFoundException.php 47
+ERROR - 2016-12-10 13:05:14 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 13:05:15 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 13:05:15 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 13:05:15 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 13:05:15 --> Severity: error --> Exception: Entity of type 'Empresa' for IDs id(1) was not found C:\xampp\htdocs\back_inscribite\vendor\doctrine\orm\lib\Doctrine\ORM\EntityNotFoundException.php 47
+ERROR - 2016-12-10 13:05:15 --> Severity: error --> Exception: Entity of type 'Empresa' for IDs id(1) was not found C:\xampp\htdocs\back_inscribite\vendor\doctrine\orm\lib\Doctrine\ORM\EntityNotFoundException.php 47
+ERROR - 2016-12-10 13:05:56 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 13:05:57 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 13:05:57 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 13:05:57 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 13:05:57 --> Severity: error --> Exception: An exception occurred while executing 'SELECT t0.par_id AS par_id_1, t0.importe AS importe_2, t0.par_numero AS par_numero_3, t0.par_pag_id AS par_pag_id_4, t0.par_tip_id AS par_tip_id_5, t0.par_ban_id AS par_ban_id_6 FROM pago_renglones t0 WHERE t0.par_pag_id = ?' with params [1]:
+
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'admin_inscribite.pago_renglones' doesn't exist C:\xampp\htdocs\back_inscribite\vendor\doctrine\dbal\lib\Doctrine\DBAL\Driver\AbstractMySQLDriver.php 53
+ERROR - 2016-12-10 13:05:57 --> Severity: error --> Exception: An exception occurred while executing 'SELECT t0.par_id AS par_id_1, t0.importe AS importe_2, t0.par_numero AS par_numero_3, t0.par_pag_id AS par_pag_id_4, t0.par_tip_id AS par_tip_id_5, t0.par_ban_id AS par_ban_id_6 FROM pago_renglones t0 WHERE t0.par_pag_id = ?' with params [1]:
+
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'admin_inscribite.pago_renglones' doesn't exist C:\xampp\htdocs\back_inscribite\vendor\doctrine\dbal\lib\Doctrine\DBAL\Driver\AbstractMySQLDriver.php 53
+ERROR - 2016-12-10 13:50:21 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 13:50:23 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 13:50:23 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 13:50:23 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 13:50:23 --> Severity: error --> Exception: An exception occurred while executing 'SELECT t0.par_id AS par_id_1, t0.importe AS importe_2, t0.par_numero AS par_numero_3, t0.par_pag_id AS par_pag_id_4, t0.par_tip_id AS par_tip_id_5, t0.par_ban_id AS par_ban_id_6 FROM pago_renglones t0 WHERE t0.par_pag_id = ?' with params [1]:
+
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'admin_inscribite.pago_renglones' doesn't exist C:\xampp\htdocs\back_inscribite\vendor\doctrine\dbal\lib\Doctrine\DBAL\Driver\AbstractMySQLDriver.php 53
+ERROR - 2016-12-10 13:50:23 --> Severity: error --> Exception: An exception occurred while executing 'SELECT t0.par_id AS par_id_1, t0.importe AS importe_2, t0.par_numero AS par_numero_3, t0.par_pag_id AS par_pag_id_4, t0.par_tip_id AS par_tip_id_5, t0.par_ban_id AS par_ban_id_6 FROM pago_renglones t0 WHERE t0.par_pag_id = ?' with params [1]:
+
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'admin_inscribite.pago_renglones' doesn't exist C:\xampp\htdocs\back_inscribite\vendor\doctrine\dbal\lib\Doctrine\DBAL\Driver\AbstractMySQLDriver.php 53
+ERROR - 2016-12-10 13:52:41 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 13:52:42 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 13:52:42 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 13:52:42 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 13:52:42 --> Severity: error --> Exception: An exception occurred while executing 'SELECT t0.par_id AS par_id_1, t0.importe AS importe_2, t0.par_numero AS par_numero_3, t0.par_pag_id AS par_pag_id_4, t0.par_tip_id AS par_tip_id_5, t0.par_ban_id AS par_ban_id_6 FROM pago_renglones t0 WHERE t0.par_pag_id = ?' with params [1]:
+
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 't0.importe' in 'field list' C:\xampp\htdocs\back_inscribite\vendor\doctrine\dbal\lib\Doctrine\DBAL\Driver\AbstractMySQLDriver.php 71
+ERROR - 2016-12-10 13:52:42 --> Severity: error --> Exception: An exception occurred while executing 'SELECT t0.par_id AS par_id_1, t0.importe AS importe_2, t0.par_numero AS par_numero_3, t0.par_pag_id AS par_pag_id_4, t0.par_tip_id AS par_tip_id_5, t0.par_ban_id AS par_ban_id_6 FROM pago_renglones t0 WHERE t0.par_pag_id = ?' with params [1]:
+
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 't0.importe' in 'field list' C:\xampp\htdocs\back_inscribite\vendor\doctrine\dbal\lib\Doctrine\DBAL\Driver\AbstractMySQLDriver.php 71
+ERROR - 2016-12-10 13:52:56 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 13:52:57 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 13:52:57 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 13:52:57 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 13:53:15 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 13:53:16 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 13:55:08 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 13:55:09 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 13:55:12 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 13:55:13 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 13:55:13 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 13:56:10 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 13:56:12 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 13:56:12 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 13:58:04 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 13:58:05 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 13:58:05 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 13:58:24 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 13:58:25 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 13:58:25 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 13:58:47 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-12-10 13:58:48 --> Severity: Notice --> Undefined index: dop_proveedor_id C:\xampp\htdocs\back_inscribite\application\modules\web\models\pago\Pagomodel.php 22
+ERROR - 2016-12-10 13:58:48 --> Severity: error --> Exception: The identifier id is missing for a query of Proveedor C:\xampp\htdocs\back_inscribite\vendor\doctrine\orm\lib\Doctrine\ORM\ORMException.php 294
+ERROR - 2016-12-10 13:59:36 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.

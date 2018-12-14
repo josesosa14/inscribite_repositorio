@@ -1,0 +1,624 @@
+ERROR - 2016-09-20 12:50:28 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 12:50:32 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 12:50:32 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 12:50:32 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 12:50:32 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 12:50:32 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 12:50:32 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 12:50:32 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 12:50:32 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 12:50:34 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 12:50:34 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 12:50:34 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 12:50:34 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 12:50:38 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 12:54:35 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 12:54:36 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 12:54:47 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 12:54:48 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 12:54:52 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 12:54:53 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 12:54:59 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 12:55:02 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 12:55:51 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 12:56:28 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 12:56:31 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 12:57:22 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 12:57:23 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 12:57:47 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 12:57:47 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 12:58:19 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 12:58:20 --> Severity: error --> Exception: [Syntax Error] line 0, col 35: Error: Expected Literal, got ')' C:\xampp\htdocs\wine_fwk\vendor\doctrine\orm\lib\Doctrine\ORM\Query\QueryException.php 52
+ERROR - 2016-09-20 12:59:03 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 12:59:12 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 12:59:13 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 12:59:14 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 12:59:22 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 12:59:52 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 12:59:52 --> Severity: error --> Exception: [Syntax Error] line 0, col 35: Error: Expected Literal, got ')' C:\xampp\htdocs\wine_fwk\vendor\doctrine\orm\lib\Doctrine\ORM\Query\QueryException.php 52
+ERROR - 2016-09-20 12:59:57 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 12:59:58 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 13:00:43 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 13:00:44 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 13:00:50 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 13:00:56 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 13:00:57 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 13:00:57 --> Severity: error --> Exception: [Syntax Error] line 0, col 35: Error: Expected Literal, got ')' C:\xampp\htdocs\wine_fwk\vendor\doctrine\orm\lib\Doctrine\ORM\Query\QueryException.php 52
+ERROR - 2016-09-20 13:02:33 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 13:02:35 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 13:02:37 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 13:02:41 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 13:02:42 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 13:02:43 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\wine_fwk\application\helpers\admin_helper.php 15
+ERROR - 2016-09-20 13:02:44 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 13:02:44 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\wine_fwk\application\helpers\admin_helper.php 15
+ERROR - 2016-09-20 13:02:49 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 13:02:50 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\wine_fwk\application\helpers\admin_helper.php 15
+ERROR - 2016-09-20 13:02:50 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 13:02:50 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\wine_fwk\application\helpers\admin_helper.php 15
+ERROR - 2016-09-20 13:03:10 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 13:03:10 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\wine_fwk\application\helpers\admin_helper.php 15
+ERROR - 2016-09-20 13:03:11 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 13:03:11 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\wine_fwk\application\helpers\admin_helper.php 15
+ERROR - 2016-09-20 13:03:12 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 13:03:12 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\wine_fwk\application\helpers\admin_helper.php 15
+ERROR - 2016-09-20 13:04:00 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 13:04:07 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 13:04:08 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 13:04:11 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 13:04:14 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 13:04:15 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:09:06 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:09:06 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 14:11:11 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:11:11 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:11:11 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:11:11 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:11:11 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:11:12 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 14:11:12 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 14:11:12 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 14:11:12 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 14:11:12 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:11:12 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 14:11:12 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:11:12 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 14:11:17 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:11:18 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:11:18 --> Severity: error --> Exception: An exception occurred while executing 'SELECT a0_.atr_id AS atr_id_0, a0_.atr_nombre AS atr_nombre_1, a0_.atr_activo AS atr_activo_2, a0_.atr_att_id AS atr_att_id_3 FROM atributo a0_ WHERE a0_.atr_activo = 1':
+
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'a0_.atr_activo' in 'field list' C:\xampp\htdocs\wine_fwk\vendor\doctrine\dbal\lib\Doctrine\DBAL\Driver\AbstractMySQLDriver.php 71
+ERROR - 2016-09-20 14:11:43 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:11:44 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:11:45 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:11:45 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 14:11:51 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:16:52 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:16:53 --> Severity: Notice --> Undefined variable: control C:\xampp\htdocs\wine_fwk\application\modules\web\models\admin\Formulario_model.php 378
+ERROR - 2016-09-20 14:16:53 --> Severity: Notice --> Undefined variable: controles C:\xampp\htdocs\wine_fwk\application\modules\web\models\admin\Formulario_model.php 13
+ERROR - 2016-09-20 14:16:57 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:16:58 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:16:58 --> Severity: error --> Exception: An exception occurred while executing 'SELECT u0_.use_id AS use_id_0, u0_.use_nombre AS use_nombre_1, u0_.use_fbid AS use_fbid_2, u0_.use_fbuser AS use_fbuser_3, u0_.use_email AS use_email_4, u0_.use_clave AS use_clave_5, u0_.use_telefono AS use_telefono_6, u0_.use_direccion AS use_direccion_7, u0_.use_barrio AS use_barrio_8, u0_.use_localidad AS use_localidad_9, u0_.use_horario_entrega AS use_horario_entrega_10, u0_.use_direccion_secundaria AS use_direccion_secundaria_11, u0_.use_fecha_in AS use_fecha_in_12, u0_.use_cant_logeo AS use_cant_logeo_13, u0_.use_last_logeo AS use_last_logeo_14, u0_.use_activo AS use_activo_15 FROM user u0_ LIMIT 20 OFFSET 0':
+
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'alan2_wine_nuevo.user' doesn't exist C:\xampp\htdocs\wine_fwk\vendor\doctrine\dbal\lib\Doctrine\DBAL\Driver\AbstractMySQLDriver.php 53
+ERROR - 2016-09-20 14:26:56 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:26:57 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:26:57 --> Severity: error --> Exception: An exception occurred while executing 'SELECT u0_.use_id AS use_id_0, u0_.use_nombre AS use_nombre_1, u0_.use_fbid AS use_fbid_2, u0_.use_fbuser AS use_fbuser_3, u0_.use_email AS use_email_4, u0_.use_clave AS use_clave_5, u0_.use_telefono AS use_telefono_6, u0_.use_direccion AS use_direccion_7, u0_.use_barrio AS use_barrio_8, u0_.use_localidad AS use_localidad_9, u0_.use_horario_entrega AS use_horario_entrega_10, u0_.use_direccion_secundaria AS use_direccion_secundaria_11, u0_.use_fecha_in AS use_fecha_in_12, u0_.use_cant_logeo AS use_cant_logeo_13, u0_.use_last_logeo AS use_last_logeo_14, u0_.use_activo AS use_activo_15 FROM user u0_ LIMIT 20 OFFSET 0':
+
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'alan2_wine_nuevo.user' doesn't exist C:\xampp\htdocs\wine_fwk\vendor\doctrine\dbal\lib\Doctrine\DBAL\Driver\AbstractMySQLDriver.php 53
+ERROR - 2016-09-20 14:26:57 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:26:58 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 14:27:03 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:27:03 --> Severity: error --> Exception: An exception occurred while executing 'SELECT u0_.use_id AS use_id_0, u0_.use_nombre AS use_nombre_1, u0_.use_fbid AS use_fbid_2, u0_.use_fbuser AS use_fbuser_3, u0_.use_email AS use_email_4, u0_.use_clave AS use_clave_5, u0_.use_telefono AS use_telefono_6, u0_.use_direccion AS use_direccion_7, u0_.use_barrio AS use_barrio_8, u0_.use_localidad AS use_localidad_9, u0_.use_horario_entrega AS use_horario_entrega_10, u0_.use_direccion_secundaria AS use_direccion_secundaria_11, u0_.use_fecha_in AS use_fecha_in_12, u0_.use_cant_logeo AS use_cant_logeo_13, u0_.use_last_logeo AS use_last_logeo_14, u0_.use_activo AS use_activo_15 FROM user u0_ LIMIT 20 OFFSET 0':
+
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'alan2_wine_nuevo.user' doesn't exist C:\xampp\htdocs\wine_fwk\vendor\doctrine\dbal\lib\Doctrine\DBAL\Driver\AbstractMySQLDriver.php 53
+ERROR - 2016-09-20 14:27:34 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:27:34 --> Severity: error --> Exception: An exception occurred while executing 'SELECT u0_.usr_id AS usr_id_0, u0_.usr_nombre AS usr_nombre_1, u0_.usr_fbid AS usr_fbid_2, u0_.usr_fbuser AS usr_fbuser_3, u0_.usr_email AS usr_email_4, u0_.usr_clave AS usr_clave_5, u0_.usr_telefono AS usr_telefono_6, u0_.usr_direccion AS usr_direccion_7, u0_.usr_barrio AS usr_barrio_8, u0_.usr_localidad AS usr_localidad_9, u0_.usr_horario_entrega AS usr_horario_entrega_10, u0_.usr_direccion_secundaria AS usr_direccion_secundaria_11, u0_.usr_fecha_in AS usr_fecha_in_12, u0_.usr_cant_logeo AS usr_cant_logeo_13, u0_.usr_last_logeo AS usr_last_logeo_14, u0_.usr_activo AS usr_activo_15 FROM users u0_ LIMIT 20 OFFSET 0':
+
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'u0_.usr_last_logeo' in 'field list' C:\xampp\htdocs\wine_fwk\vendor\doctrine\dbal\lib\Doctrine\DBAL\Driver\AbstractMySQLDriver.php 71
+ERROR - 2016-09-20 14:27:51 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:27:53 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:27:54 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:27:55 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:27:56 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 14:28:22 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:29:32 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:29:33 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:30:55 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:30:57 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:31:05 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:31:06 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:31:20 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:31:21 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:32:03 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:32:04 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:37:25 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:37:26 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:37:36 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:37:37 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:37:37 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:37:37 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 14:37:37 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 14:38:13 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:38:14 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:38:14 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:38:14 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 14:38:14 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 14:38:15 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:38:15 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 14:38:15 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:38:15 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 14:38:16 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:38:17 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:38:19 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:38:19 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:38:19 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:38:19 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 14:38:19 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 14:38:45 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:38:46 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:39:31 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:39:31 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:39:32 --> Severity: error --> Exception: [Semantical Error] line 0, col 31 near 'u.email ASC': Error: 'u' is not defined. C:\xampp\htdocs\wine_fwk\vendor\doctrine\orm\lib\Doctrine\ORM\Query\QueryException.php 63
+ERROR - 2016-09-20 14:39:40 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:39:41 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:39:46 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:39:47 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:39:55 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:39:57 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:40:13 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:40:15 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:40:32 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:40:34 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:40:35 --> Severity: error --> Exception: [Semantical Error] line 0, col 52 near 'usuario,c.email': Error: Class User has no field or association named usuario C:\xampp\htdocs\wine_fwk\vendor\doctrine\orm\lib\Doctrine\ORM\Query\QueryException.php 63
+ERROR - 2016-09-20 14:40:41 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:40:42 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:42:57 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:42:58 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:43:03 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:43:04 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:43:04 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:43:04 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 14:43:04 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 14:43:04 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:43:04 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 14:43:04 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:43:04 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 14:43:22 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:43:23 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:43:23 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:43:23 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 14:43:23 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 14:43:24 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:43:24 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 14:43:24 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:43:24 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 14:43:55 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:43:56 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:43:56 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:43:56 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 14:43:56 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 14:43:57 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:43:57 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 14:43:57 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:43:57 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 14:43:58 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:43:58 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:44:39 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:44:40 --> Query error: Unknown column 'id' in 'field list' - Invalid query: select v.vin_id as vin_id,v.vin_nombre,v.nombre,v.promedio_parcial as matcheo,v.cant desc_matchean from
+                (select vino_info.vin_nombre,user_info.atr_id,user_info.nombre,vino_info.vin_id,
+                SUM(100-ABS(user_info.uar_valor-vino_info.var_valor))/SUM(1) as promedio_parcial,SUM(1) as cant from 
+                (select id,nombre,email,atr_nombre,uar_valor,atr_id
+                from users 
+                inner join user_atributo on uar_usr_id = id
+                inner join atributo as usr_atr on atr_id = uar_atr_id
+                where id = 1) as user_info
+                inner join 
+                (select vin_id,vin_nombre,atr_id,atr_nombre,var_valor
+                from vino
+                inner join vino_atributo on var_vin_id = vin_id
+                inner join atributo as usr_atr on atr_id = var_atr_id) as vino_info
+                on vino_info.atr_id = user_info.atr_id
+                group by vino_info.vin_nombre) v
+                order by v.nombre ASC, v.promedio_parcial DESC 
+                LIMIT 0,20
+ERROR - 2016-09-20 14:45:17 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:45:17 --> Query error: Unknown column 'id' in 'field list' - Invalid query: select v.vin_id as vin_id,v.vin_nombre,v.nombre,v.promedio_parcial as matcheo,v.cant desc_matchean from
+                (select vino_info.vin_nombre,user_info.atr_id,user_info.nombre,vino_info.vin_id,
+                SUM(100-ABS(user_info.uar_valor-vino_info.var_valor))/SUM(1) as promedio_parcial,SUM(1) as cant from 
+                (select id,nombre,email,atr_nombre,uar_valor,atr_id
+                from users 
+                inner join user_atributo on uar_usr_id = usr_id
+                inner join atributo as usr_atr on atr_id = uar_atr_id
+                where id = 1) as user_info
+                inner join 
+                (select vin_id,vin_nombre,atr_id,atr_nombre,var_valor
+                from vino
+                inner join vino_atributo on var_vin_id = vin_id
+                inner join atributo as usr_atr on atr_id = var_atr_id) as vino_info
+                on vino_info.atr_id = user_info.atr_id
+                group by vino_info.vin_nombre) v
+                order by v.nombre ASC, v.promedio_parcial DESC 
+                LIMIT 0,20
+ERROR - 2016-09-20 14:45:25 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:45:25 --> Query error: Unknown column 'id' in 'field list' - Invalid query: select v.vin_id as vin_id,v.vin_nombre,v.nombre,v.promedio_parcial as matcheo,v.cant desc_matchean from
+                (select vino_info.vin_nombre,user_info.atr_id,user_info.nombre,vino_info.vin_id,
+                SUM(100-ABS(user_info.uar_valor-vino_info.var_valor))/SUM(1) as promedio_parcial,SUM(1) as cant from 
+                (select id,nombre,email,atr_nombre,uar_valor,atr_id
+                from users 
+                inner join user_atributo on uar_usr_id = usr_id
+                inner join atributo as usr_atr on atr_id = uar_atr_id
+                where id = 1) as user_info
+                inner join 
+                (select vin_id,vin_nombre,atr_id,atr_nombre,var_valor
+                from vino
+                inner join vino_atributo on var_vin_id = vin_id
+                inner join atributo as usr_atr on atr_id = var_atr_id) as vino_info
+                on vino_info.atr_id = user_info.atr_id
+                group by vino_info.vin_nombre) v
+                order by v.nombre ASC, v.promedio_parcial DESC 
+                LIMIT 0,20
+ERROR - 2016-09-20 14:46:22 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:46:23 --> Query error: Unknown column 'user_info.nombre' in 'field list' - Invalid query: select v.vin_id as vin_id,v.vin_nombre,v.nombre,v.promedio_parcial as matcheo,v.cant desc_matchean from
+                (select vino_info.vin_nombre,user_info.atr_id,user_info.nombre,vino_info.vin_id,
+                SUM(100-ABS(user_info.uar_valor-vino_info.var_valor))/SUM(1) as promedio_parcial,SUM(1) as cant from 
+                (select usr_id,usr_nombre,usr_email,atr_nombre,uar_valor,atr_id
+                from users 
+                inner join user_atributo on uar_usr_id = usr_id
+                inner join atributo as usr_atr on atr_id = uar_atr_id
+                where usr_id = 1) as user_info
+                inner join 
+                (select vin_id,vin_nombre,atr_id,atr_nombre,var_valor
+                from vino
+                inner join vino_atributo on var_vin_id = vin_id
+                inner join atributo as usr_atr on atr_id = var_atr_id) as vino_info
+                on vino_info.atr_id = user_info.atr_id
+                group by vino_info.vin_nombre) v
+                order by v.nombre ASC, v.promedio_parcial DESC 
+                LIMIT 0,20
+ERROR - 2016-09-20 14:46:57 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:46:57 --> Query error: Unknown column 'v.nombre' in 'field list' - Invalid query: select v.vin_id as vin_id,v.vin_nombre,v.nombre,v.promedio_parcial as matcheo,v.cant desc_matchean from
+                (select vino_info.vin_nombre,user_info.atr_id,user_info.usr_nombre,vino_info.vin_id,
+                SUM(100-ABS(user_info.uar_valor-vino_info.var_valor))/SUM(1) as promedio_parcial,SUM(1) as cant from 
+                (select usr_id,usr_nombre,usr_email,atr_nombre,uar_valor,atr_id
+                from users 
+                inner join user_atributo on uar_usr_id = usr_id
+                inner join atributo as usr_atr on atr_id = uar_atr_id
+                where usr_id = 1) as user_info
+                inner join 
+                (select vin_id,vin_nombre,atr_id,atr_nombre,var_valor
+                from vino
+                inner join vino_atributo on var_vin_id = vin_id
+                inner join atributo as usr_atr on atr_id = var_atr_id) as vino_info
+                on vino_info.atr_id = user_info.atr_id
+                group by vino_info.vin_nombre) v
+                order by v.nombre ASC, v.promedio_parcial DESC 
+                LIMIT 0,20
+ERROR - 2016-09-20 14:47:27 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:47:27 --> Query error: Unknown column 'v.nombre' in 'field list' - Invalid query: select v.vin_id as vin_id,v.vin_nombre,v.nombre,v.promedio_parcial as matcheo,v.cant desc_matchean from
+                (select vino_info.vin_nombre,user_info.atr_id,user_info.usr_nombre,vino_info.vin_id,
+                SUM(100-ABS(user_info.uar_valor-vino_info.var_valor))/SUM(1) as promedio_parcial,SUM(1) as cant from 
+                (select usr_id,usr_nombre,usr_email,atr_nombre,uar_valor,atr_id
+                from users 
+                inner join user_atributo on uar_usr_id = usr_id
+                inner join atributo as usr_atr on atr_id = uar_atr_id
+                where usr_id = 1) as user_info
+                inner join 
+                (select vin_id,vin_nombre,atr_id,atr_nombre,var_valor
+                from vino
+                inner join vino_atributo on var_vin_id = vin_id
+                inner join atributo as usr_atr on atr_id = var_atr_id) as vino_info
+                on vino_info.atr_id = user_info.atr_id
+                group by vino_info.vin_nombre) v
+                order by vin_nombre ASC, v.promedio_parcial DESC 
+                LIMIT 0,20
+ERROR - 2016-09-20 14:47:43 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 14:47:44 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:02:49 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:02:49 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 15:03:54 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:03:54 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 15:15:44 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:15:45 --> Severity: Notice --> Undefined variable: data C:\xampp\htdocs\wine_fwk\application\modules\web\controllers\Web_controller.php 36
+ERROR - 2016-09-20 15:15:59 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:15:59 --> Severity: Notice --> Undefined variable: data C:\xampp\htdocs\wine_fwk\application\modules\web\controllers\Web_controller.php 36
+ERROR - 2016-09-20 15:17:25 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:17:25 --> Severity: Notice --> Undefined variable: data C:\xampp\htdocs\wine_fwk\application\modules\web\controllers\Web_controller.php 36
+ERROR - 2016-09-20 15:17:26 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:17:26 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 15:17:28 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:17:29 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:17:30 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:17:55 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:17:55 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:17:55 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 15:17:56 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:20:58 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:20:58 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:20:58 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 15:20:58 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:20:58 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 15:20:58 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:20:58 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 15:20:58 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:20:58 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 15:20:58 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:20:59 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 15:20:59 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:20:59 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 15:20:59 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:20:59 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 15:20:59 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:21:12 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:21:12 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:21:12 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:21:13 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 15:21:13 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:21:13 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 15:21:13 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:21:13 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:21:13 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:21:13 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 15:21:13 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 15:21:13 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 15:21:13 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 15:21:13 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:22:18 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:22:19 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:22:19 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 15:22:19 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:22:19 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 15:22:19 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:22:19 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 15:22:19 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:22:19 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 15:22:19 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:22:38 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:22:39 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:22:39 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 15:22:39 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:22:39 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 15:22:39 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:22:39 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 15:22:39 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:25:13 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:25:13 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:25:13 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 15:25:13 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:25:13 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:25:13 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 15:25:13 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 15:25:14 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:25:43 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:25:43 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:25:43 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 15:25:43 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:25:43 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 15:25:43 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:25:43 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 15:25:44 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:25:59 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:25:59 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:25:59 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 15:25:59 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:25:59 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 15:25:59 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:25:59 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 15:26:00 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:26:27 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:26:27 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:26:27 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 15:26:27 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:26:27 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 15:26:27 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:26:27 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 15:26:27 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:26:27 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 15:26:27 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:26:27 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 15:26:27 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:26:28 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 15:26:28 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:32:10 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:32:10 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:32:10 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 15:32:10 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:32:10 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 15:32:10 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:32:11 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:32:11 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 15:32:11 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 15:32:11 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:32:11 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 15:32:11 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:32:11 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 15:32:11 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:32:15 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:32:15 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:32:15 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:32:15 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:32:16 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:32:16 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 15:32:16 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 15:32:16 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 15:32:16 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 15:32:16 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:32:16 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 15:32:16 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:32:16 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 15:32:35 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:32:35 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:32:35 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 15:32:35 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:32:36 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:32:36 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 15:32:36 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 15:32:36 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:32:36 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:32:36 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:32:37 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 15:32:37 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:32:37 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 15:32:37 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:32:37 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:32:37 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 15:32:37 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 15:32:37 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:32:37 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 15:32:37 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:32:37 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 15:32:37 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:32:40 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:32:40 --> Severity: error --> Exception: [Syntax Error] line 0, col 25: Error: Expected end of string, got '(' C:\xampp\htdocs\wine_fwk\vendor\doctrine\orm\lib\Doctrine\ORM\Query\QueryException.php 52
+ERROR - 2016-09-20 15:33:03 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:33:04 --> Severity: error --> Exception: [Syntax Error] line 0, col 25: Error: Expected end of string, got 'u' C:\xampp\htdocs\wine_fwk\vendor\doctrine\orm\lib\Doctrine\ORM\Query\QueryException.php 52
+ERROR - 2016-09-20 15:33:09 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:33:10 --> Severity: Error --> Call to a member function getId() on array C:\xampp\htdocs\wine_fwk\application\modules\web\models\user\User_model.php 77
+ERROR - 2016-09-20 15:33:19 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:33:23 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:33:23 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:33:23 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 15:33:23 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:33:23 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:33:23 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 15:33:23 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 15:33:23 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:33:30 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:33:30 --> Severity: Notice --> Undefined offset: 0 C:\xampp\htdocs\wine_fwk\application\modules\web\models\user\User_model.php 77
+ERROR - 2016-09-20 15:33:30 --> Severity: Error --> Call to a member function getId() on null C:\xampp\htdocs\wine_fwk\application\modules\web\models\user\User_model.php 77
+ERROR - 2016-09-20 15:35:24 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:35:25 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:35:25 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 15:35:25 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:35:25 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:35:25 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 15:35:25 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 15:35:25 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:35:30 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:35:30 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:35:30 --> Severity: Error --> Call to undefined method Web_controller::session() C:\xampp\htdocs\wine_fwk\application\modules\web\controllers\Web_controller.php 21
+ERROR - 2016-09-20 15:35:44 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:35:44 --> Severity: Parsing Error --> syntax error, unexpected ';' C:\xampp\htdocs\wine_fwk\application\modules\web\controllers\Web_controller.php 21
+ERROR - 2016-09-20 15:35:49 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:36:19 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:36:21 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:36:58 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:36:59 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:37:50 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 15:37:51 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 22:59:24 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 22:59:28 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:08:04 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:08:05 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:08:08 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:08:08 --> Severity: Notice --> Undefined index: usuario C:\xampp\htdocs\wine_fwk\application\modules\web\models\user\User_model.php 74
+ERROR - 2016-09-20 23:08:08 --> Severity: Notice --> Undefined variable: vinos C:\xampp\htdocs\wine_fwk\application\modules\web\views\web\lista_vinos.php 3
+ERROR - 2016-09-20 23:08:08 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\wine_fwk\application\helpers\admin_helper.php 15
+ERROR - 2016-09-20 23:08:08 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:08:09 --> Severity: Notice --> Undefined index: usuario C:\xampp\htdocs\wine_fwk\application\modules\web\models\user\User_model.php 74
+ERROR - 2016-09-20 23:08:09 --> Severity: Notice --> Undefined variable: vinos C:\xampp\htdocs\wine_fwk\application\modules\web\views\web\lista_vinos.php 3
+ERROR - 2016-09-20 23:08:09 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\wine_fwk\application\helpers\admin_helper.php 15
+ERROR - 2016-09-20 23:13:18 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:13:18 --> Severity: Error --> Call to undefined function estaLogeado() C:\xampp\htdocs\wine_fwk\application\modules\web\controllers\Web_controller.php 78
+ERROR - 2016-09-20 23:13:38 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:13:38 --> Severity: Error --> Call to undefined function estaLogeado() C:\xampp\htdocs\wine_fwk\application\modules\web\controllers\Web_controller.php 78
+ERROR - 2016-09-20 23:13:51 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:13:51 --> Severity: Notice --> Undefined index: usuario C:\xampp\htdocs\wine_fwk\application\helpers\admin_helper.php 15
+ERROR - 2016-09-20 23:13:51 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:13:51 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:13:51 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 23:13:51 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:13:51 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 23:13:51 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:13:51 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 23:13:51 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:13:51 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 23:13:51 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:13:51 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 23:13:51 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:13:52 --> 404 Page Not Found: /index
+ERROR - 2016-09-20 23:13:52 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:13:58 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:13:58 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:13:58 --> Severity: Notice --> Undefined property: CI::$user_model C:\xampp\htdocs\wine_fwk\application\third_party\MX\Controller.php 59
+ERROR - 2016-09-20 23:13:58 --> Severity: Error --> Call to a member function getPerfil() on null C:\xampp\htdocs\wine_fwk\application\modules\web\controllers\Web_controller.php 21
+ERROR - 2016-09-20 23:14:54 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:14:55 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:25:26 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:25:44 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:25:44 --> Severity: Error --> Call to a member function getId() on null C:\xampp\htdocs\wine_fwk\application\modules\web\controllers\Web_controller.php 23
+ERROR - 2016-09-20 23:26:15 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:26:37 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:26:38 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:28:24 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:28:25 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:29:01 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:29:02 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:29:29 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:29:29 --> Severity: Notice --> Undefined variable: vinos C:\xampp\htdocs\wine_fwk\application\modules\web\views\web\lista_vinos.php 3
+ERROR - 2016-09-20 23:29:29 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\wine_fwk\application\helpers\admin_helper.php 22
+ERROR - 2016-09-20 23:29:29 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:29:29 --> Severity: Notice --> Undefined variable: vinos C:\xampp\htdocs\wine_fwk\application\modules\web\views\web\lista_vinos.php 3
+ERROR - 2016-09-20 23:29:29 --> Severity: Warning --> Invalid argument supplied for foreach() C:\xampp\htdocs\wine_fwk\application\helpers\admin_helper.php 22
+ERROR - 2016-09-20 23:31:36 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:31:37 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:36:45 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:36:45 --> Severity: Error --> Call to undefined method User::getCelular() C:\xampp\htdocs\wine_fwk\application\modules\web\views\web\perfil.php 13
+ERROR - 2016-09-20 23:36:46 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:36:46 --> Severity: Error --> Call to undefined method User::getCelular() C:\xampp\htdocs\wine_fwk\application\modules\web\views\web\perfil.php 13
+ERROR - 2016-09-20 23:37:06 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:37:07 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:37:24 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:37:25 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:38:25 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:38:26 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:38:43 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:38:44 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:38:47 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:38:47 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:38:48 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:38:48 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:38:50 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:38:50 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:39:42 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:39:43 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:39:43 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:39:44 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:39:56 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:39:57 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:40:11 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:40:12 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:40:35 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:40:36 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:40:44 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:40:45 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:42:29 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:42:31 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:42:53 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:42:54 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:43:02 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:43:20 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:44:46 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:44:47 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:49:42 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:49:42 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:49:43 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:49:44 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:49:45 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:50:02 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:50:09 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:50:09 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:50:10 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:50:35 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:51:10 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:52:37 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:52:37 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:52:38 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:52:45 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:52:45 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:52:45 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:53:51 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:53:52 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:53:54 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:53:54 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.
+ERROR - 2016-09-20 23:53:54 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\wine_fwk\application\vendor/autoload.php was not found.

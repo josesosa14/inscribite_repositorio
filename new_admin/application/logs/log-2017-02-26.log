@@ -1,0 +1,175 @@
+ERROR - 2017-02-26 21:30:38 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 21:30:39 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 21:30:39 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 21:30:39 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 21:30:39 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 21:30:39 --> 404 Page Not Found: /index
+ERROR - 2017-02-26 21:30:39 --> 404 Page Not Found: /index
+ERROR - 2017-02-26 21:30:39 --> 404 Page Not Found: /index
+ERROR - 2017-02-26 21:30:39 --> 404 Page Not Found: /index
+ERROR - 2017-02-26 21:30:39 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 21:30:39 --> 404 Page Not Found: /index
+ERROR - 2017-02-26 21:30:44 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 21:30:44 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 21:30:45 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 22:12:41 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 22:14:27 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 22:14:28 --> Severity: Notice --> Undefined variable: controles C:\xampp\htdocs\back_inscribite\application\modules\web\models\admin\Formulario_model.php 13
+ERROR - 2017-02-26 22:14:58 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 22:14:58 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 22:14:58 --> Severity: error --> Exception: An exception occurred while executing 'SELECT m0_.mai_id AS mai_id_0, m0_.mai_subject AS mai_subject_1, m0_.mai_mensaje AS mai_mensaje_2, m0_.mai_adjunto AS mai_adjunto_3, m0_.mai_fecha_in AS mai_fecha_in_4, m0_.mai_enviado AS mai_enviado_5 FROM mailing m0_ LIMIT 20 OFFSET 0':
+
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'admin_inscribite.mailing' doesn't exist C:\xampp\htdocs\back_inscribite\vendor\doctrine\dbal\lib\Doctrine\DBAL\Driver\AbstractMySQLDriver.php 53
+ERROR - 2017-02-26 22:16:24 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 22:16:24 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 22:16:24 --> Severity: error --> Exception: An exception occurred while executing 'SELECT m0_.mai_id AS mai_id_0, m0_.mai_subject AS mai_subject_1, m0_.mai_mensaje AS mai_mensaje_2, m0_.mai_adjunto AS mai_adjunto_3, m0_.mai_fecha_in AS mai_fecha_in_4, m0_.mai_enviado AS mai_enviado_5 FROM mailing m0_ LIMIT 20 OFFSET 0':
+
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'admin_inscribite.mailing' doesn't exist C:\xampp\htdocs\back_inscribite\vendor\doctrine\dbal\lib\Doctrine\DBAL\Driver\AbstractMySQLDriver.php 53
+ERROR - 2017-02-26 22:16:27 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 22:16:28 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 22:16:28 --> Severity: error --> Exception: An exception occurred while executing 'SELECT m0_.mai_id AS mai_id_0, m0_.mai_subject AS mai_subject_1, m0_.mai_mensaje AS mai_mensaje_2, m0_.mai_adjunto AS mai_adjunto_3, m0_.mai_fecha_in AS mai_fecha_in_4, m0_.mai_enviado AS mai_enviado_5 FROM mailing m0_ LIMIT 20 OFFSET 0':
+
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'admin_inscribite.mailing' doesn't exist C:\xampp\htdocs\back_inscribite\vendor\doctrine\dbal\lib\Doctrine\DBAL\Driver\AbstractMySQLDriver.php 53
+ERROR - 2017-02-26 22:17:51 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 22:17:51 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 22:17:52 --> Severity: error --> Exception: An exception occurred while executing 'SELECT m0_.mai_id AS mai_id_0, m0_.mai_subject AS mai_subject_1, m0_.mai_mensaje AS mai_mensaje_2, m0_.mai_adjunto AS mai_adjunto_3, m0_.mai_fecha_in AS mai_fecha_in_4, m0_.mai_enviado AS mai_enviado_5 FROM mailing m0_ LIMIT 20 OFFSET 0':
+
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'admin_inscribite.mailing' doesn't exist C:\xampp\htdocs\back_inscribite\vendor\doctrine\dbal\lib\Doctrine\DBAL\Driver\AbstractMySQLDriver.php 53
+ERROR - 2017-02-26 22:18:42 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 22:18:43 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 22:18:43 --> Severity: error --> Exception: An exception occurred while executing 'SELECT m0_.mai_id AS mai_id_0, m0_.mai_subject AS mai_subject_1, m0_.mai_mensaje AS mai_mensaje_2, m0_.mai_adjunto AS mai_adjunto_3, m0_.mai_fecha_in AS mai_fecha_in_4, m0_.mai_enviado AS mai_enviado_5 FROM mailing m0_ LIMIT 20 OFFSET 0':
+
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'admin_inscribite.mailing' doesn't exist C:\xampp\htdocs\back_inscribite\vendor\doctrine\dbal\lib\Doctrine\DBAL\Driver\AbstractMySQLDriver.php 53
+ERROR - 2017-02-26 22:19:26 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 22:19:27 --> Severity: error --> Exception: An exception occurred while executing 'SELECT m0_.mai_id AS mai_id_0, m0_.mai_subject AS mai_subject_1, m0_.mai_mensaje AS mai_mensaje_2, m0_.mai_adjunto AS mai_adjunto_3, m0_.mai_fecha_in AS mai_fecha_in_4, m0_.mai_enviado AS mai_enviado_5 FROM mailing m0_ LIMIT 20 OFFSET 0':
+
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'admin_inscribite.mailing' doesn't exist C:\xampp\htdocs\back_inscribite\vendor\doctrine\dbal\lib\Doctrine\DBAL\Driver\AbstractMySQLDriver.php 53
+ERROR - 2017-02-26 22:20:29 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 22:20:29 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 22:20:29 --> Severity: error --> Exception: An exception occurred while executing 'SELECT m0_.mai_id AS mai_id_0, m0_.mai_subject AS mai_subject_1, m0_.mai_mensaje AS mai_mensaje_2, m0_.mai_adjunto AS mai_adjunto_3, m0_.mai_fecha_in AS mai_fecha_in_4, m0_.mai_enviado AS mai_enviado_5 FROM mailing m0_ LIMIT 20 OFFSET 0':
+
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'admin_inscribite.mailing' doesn't exist C:\xampp\htdocs\back_inscribite\vendor\doctrine\dbal\lib\Doctrine\DBAL\Driver\AbstractMySQLDriver.php 53
+ERROR - 2017-02-26 22:21:19 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 22:21:19 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 22:21:20 --> Severity: error --> Exception: An exception occurred while executing 'SELECT m0_.mai_id AS mai_id_0, m0_.mai_subject AS mai_subject_1, m0_.mai_mensaje AS mai_mensaje_2, m0_.mai_adjunto AS mai_adjunto_3, m0_.mai_fecha_in AS mai_fecha_in_4, m0_.mai_enviado AS mai_enviado_5 FROM mailing m0_ LIMIT 20 OFFSET 0':
+
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'admin_inscribite.mailing' doesn't exist C:\xampp\htdocs\back_inscribite\vendor\doctrine\dbal\lib\Doctrine\DBAL\Driver\AbstractMySQLDriver.php 53
+ERROR - 2017-02-26 22:21:42 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 22:21:43 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 22:21:43 --> Severity: error --> Exception: An exception occurred while executing 'SELECT m0_.mai_id AS mai_id_0, m0_.mai_subject AS mai_subject_1, m0_.mai_mensaje AS mai_mensaje_2, m0_.mai_adjunto AS mai_adjunto_3, m0_.mai_fecha_in AS mai_fecha_in_4, m0_.mai_enviado AS mai_enviado_5 FROM mailing m0_ LIMIT 20 OFFSET 0':
+
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'admin_inscribite.mailing' doesn't exist C:\xampp\htdocs\back_inscribite\vendor\doctrine\dbal\lib\Doctrine\DBAL\Driver\AbstractMySQLDriver.php 53
+ERROR - 2017-02-26 22:22:07 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 22:22:07 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 22:22:08 --> Severity: error --> Exception: An exception occurred while executing 'SELECT m0_.mai_id AS mai_id_0, m0_.mai_subject AS mai_subject_1, m0_.mai_mensaje AS mai_mensaje_2, m0_.mai_adjunto AS mai_adjunto_3, m0_.mai_fecha_in AS mai_fecha_in_4, m0_.mai_enviado AS mai_enviado_5 FROM mailing m0_ LIMIT 20 OFFSET 0':
+
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'admin_inscribite.mailing' doesn't exist C:\xampp\htdocs\back_inscribite\vendor\doctrine\dbal\lib\Doctrine\DBAL\Driver\AbstractMySQLDriver.php 53
+ERROR - 2017-02-26 22:22:28 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 22:22:28 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 22:22:28 --> Severity: error --> Exception: An exception occurred while executing 'SELECT m0_.mai_id AS mai_id_0, m0_.mai_subject AS mai_subject_1, m0_.mai_mensaje AS mai_mensaje_2, m0_.mai_adjunto AS mai_adjunto_3, m0_.mai_fecha_in AS mai_fecha_in_4, m0_.mai_enviado AS mai_enviado_5 FROM mailing m0_ LIMIT 20 OFFSET 0':
+
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'admin_inscribite.mailing' doesn't exist C:\xampp\htdocs\back_inscribite\vendor\doctrine\dbal\lib\Doctrine\DBAL\Driver\AbstractMySQLDriver.php 53
+ERROR - 2017-02-26 22:27:27 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 22:27:28 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 22:27:28 --> Severity: error --> Exception: An exception occurred while executing 'SELECT m0_.mai_id AS mai_id_0, m0_.mai_subject AS mai_subject_1, m0_.mai_mensaje AS mai_mensaje_2, m0_.mai_adjunto AS mai_adjunto_3, m0_.mai_fecha_in AS mai_fecha_in_4, m0_.mai_enviado AS mai_enviado_5 FROM mailing m0_ LIMIT 20 OFFSET 0':
+
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'admin_inscribite.mailing' doesn't exist C:\xampp\htdocs\back_inscribite\vendor\doctrine\dbal\lib\Doctrine\DBAL\Driver\AbstractMySQLDriver.php 53
+ERROR - 2017-02-26 22:27:36 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 22:27:37 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 22:27:37 --> Severity: error --> Exception: An exception occurred while executing 'SELECT m0_.mai_id AS mai_id_0, m0_.mai_subject AS mai_subject_1, m0_.mai_mensaje AS mai_mensaje_2, m0_.mai_adjunto AS mai_adjunto_3, m0_.mai_fecha_in AS mai_fecha_in_4, m0_.mai_enviado AS mai_enviado_5 FROM mailing m0_ LIMIT 20 OFFSET 0':
+
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'admin_inscribite.mailing' doesn't exist C:\xampp\htdocs\back_inscribite\vendor\doctrine\dbal\lib\Doctrine\DBAL\Driver\AbstractMySQLDriver.php 53
+ERROR - 2017-02-26 22:27:47 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 22:27:48 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 22:27:48 --> Severity: error --> Exception: An exception occurred while executing 'SELECT m0_.mai_id AS mai_id_0, m0_.mai_subject AS mai_subject_1, m0_.mai_mensaje AS mai_mensaje_2, m0_.mai_adjunto AS mai_adjunto_3, m0_.mai_fecha_in AS mai_fecha_in_4, m0_.mai_enviado AS mai_enviado_5 FROM mailing m0_ LIMIT 20 OFFSET 0':
+
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'admin_inscribite.mailing' doesn't exist C:\xampp\htdocs\back_inscribite\vendor\doctrine\dbal\lib\Doctrine\DBAL\Driver\AbstractMySQLDriver.php 53
+ERROR - 2017-02-26 22:28:07 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 22:28:08 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 22:28:08 --> Severity: error --> Exception: An exception occurred while executing 'SELECT m0_.mai_id AS mai_id_0, m0_.mai_subject AS mai_subject_1, m0_.mai_mensaje AS mai_mensaje_2, m0_.mai_adjunto AS mai_adjunto_3, m0_.mai_fecha_in AS mai_fecha_in_4, m0_.mai_enviado AS mai_enviado_5 FROM mailing m0_ LIMIT 20 OFFSET 0':
+
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'admin_inscribite.mailing' doesn't exist C:\xampp\htdocs\back_inscribite\vendor\doctrine\dbal\lib\Doctrine\DBAL\Driver\AbstractMySQLDriver.php 53
+ERROR - 2017-02-26 22:35:24 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 22:35:25 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 22:35:25 --> Severity: error --> Exception: An exception occurred while executing 'SELECT m0_.mai_id AS mai_id_0, m0_.mai_subject AS mai_subject_1, m0_.mai_mensaje AS mai_mensaje_2, m0_.mai_adjunto AS mai_adjunto_3, m0_.mai_fecha_in AS mai_fecha_in_4, m0_.mai_enviado AS mai_enviado_5, m0_.mail_usu_id AS mail_usu_id_6 FROM mailing m0_ LIMIT 20 OFFSET 0':
+
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm0_.mail_usu_id' in 'field list' C:\xampp\htdocs\back_inscribite\vendor\doctrine\dbal\lib\Doctrine\DBAL\Driver\AbstractMySQLDriver.php 71
+ERROR - 2017-02-26 22:36:07 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 22:36:08 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 22:36:08 --> Severity: error --> Exception: An exception occurred while executing 'SELECT m0_.mai_id AS mai_id_0, m0_.mai_subject AS mai_subject_1, m0_.mai_mensaje AS mai_mensaje_2, m0_.mai_adjunto AS mai_adjunto_3, m0_.mai_fecha_in AS mai_fecha_in_4, m0_.mai_enviado AS mai_enviado_5, m0_.mail_usu_id AS mail_usu_id_6 FROM mailing m0_ LIMIT 20 OFFSET 0':
+
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm0_.mail_usu_id' in 'field list' C:\xampp\htdocs\back_inscribite\vendor\doctrine\dbal\lib\Doctrine\DBAL\Driver\AbstractMySQLDriver.php 71
+ERROR - 2017-02-26 22:36:28 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 22:36:29 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 22:36:29 --> Severity: error --> Exception: An exception occurred while executing 'SELECT m0_.mai_id AS mai_id_0, m0_.mai_subject AS mai_subject_1, m0_.mai_mensaje AS mai_mensaje_2, m0_.mai_adjunto AS mai_adjunto_3, m0_.mai_fecha_in AS mai_fecha_in_4, m0_.mai_enviado AS mai_enviado_5, m0_.mail_usu_id AS mail_usu_id_6 FROM mailing m0_ LIMIT 20 OFFSET 0':
+
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm0_.mail_usu_id' in 'field list' C:\xampp\htdocs\back_inscribite\vendor\doctrine\dbal\lib\Doctrine\DBAL\Driver\AbstractMySQLDriver.php 71
+ERROR - 2017-02-26 22:36:34 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 22:36:34 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 22:36:34 --> Severity: error --> Exception: An exception occurred while executing 'SELECT m0_.mai_id AS mai_id_0, m0_.mai_subject AS mai_subject_1, m0_.mai_mensaje AS mai_mensaje_2, m0_.mai_adjunto AS mai_adjunto_3, m0_.mai_fecha_in AS mai_fecha_in_4, m0_.mai_enviado AS mai_enviado_5, m0_.mail_usu_id AS mail_usu_id_6 FROM mailing m0_ LIMIT 20 OFFSET 0':
+
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm0_.mail_usu_id' in 'field list' C:\xampp\htdocs\back_inscribite\vendor\doctrine\dbal\lib\Doctrine\DBAL\Driver\AbstractMySQLDriver.php 71
+ERROR - 2017-02-26 22:43:49 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 22:43:49 --> Severity: Notice --> Undefined index: mai_id C:\xampp\htdocs\back_inscribite\application\modules\web\models\mailing\Mailing_model.php 17
+ERROR - 2017-02-26 22:43:49 --> Severity: Notice --> Undefined index: mai_subject C:\xampp\htdocs\back_inscribite\application\modules\web\models\mailing\Mailing_model.php 23
+ERROR - 2017-02-26 22:43:49 --> Severity: Notice --> Undefined index: mai_mensaje C:\xampp\htdocs\back_inscribite\application\modules\web\models\mailing\Mailing_model.php 24
+ERROR - 2017-02-26 22:43:49 --> Severity: Error --> Class 'Mailgun' not found C:\xampp\htdocs\back_inscribite\application\modules\web\models\mailing\Mailing_model.php 28
+ERROR - 2017-02-26 22:44:02 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 22:44:02 --> Severity: Notice --> Undefined index: mai_subject C:\xampp\htdocs\back_inscribite\application\modules\web\models\mailing\Mailing_model.php 23
+ERROR - 2017-02-26 22:44:02 --> Severity: Notice --> Undefined index: mai_mensaje C:\xampp\htdocs\back_inscribite\application\modules\web\models\mailing\Mailing_model.php 24
+ERROR - 2017-02-26 22:44:02 --> Severity: Error --> Class 'Mailgun' not found C:\xampp\htdocs\back_inscribite\application\modules\web\models\mailing\Mailing_model.php 28
+ERROR - 2017-02-26 22:44:48 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 22:44:49 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 22:44:49 --> Severity: error --> Exception: An exception occurred while executing 'SELECT m0_.mai_id AS mai_id_0, m0_.mai_subject AS mai_subject_1, m0_.mai_mensaje AS mai_mensaje_2, m0_.mai_adjunto AS mai_adjunto_3, m0_.mai_fecha_in AS mai_fecha_in_4, m0_.mai_enviado AS mai_enviado_5, m0_.mail_usu_id AS mail_usu_id_6 FROM mailing m0_ LIMIT 20 OFFSET 0':
+
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm0_.mail_usu_id' in 'field list' C:\xampp\htdocs\back_inscribite\vendor\doctrine\dbal\lib\Doctrine\DBAL\Driver\AbstractMySQLDriver.php 71
+ERROR - 2017-02-26 22:44:49 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 22:44:50 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 22:44:50 --> Severity: error --> Exception: An exception occurred while executing 'SELECT m0_.mai_id AS mai_id_0, m0_.mai_subject AS mai_subject_1, m0_.mai_mensaje AS mai_mensaje_2, m0_.mai_adjunto AS mai_adjunto_3, m0_.mai_fecha_in AS mai_fecha_in_4, m0_.mai_enviado AS mai_enviado_5, m0_.mail_usu_id AS mail_usu_id_6 FROM mailing m0_ LIMIT 20 OFFSET 0':
+
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm0_.mail_usu_id' in 'field list' C:\xampp\htdocs\back_inscribite\vendor\doctrine\dbal\lib\Doctrine\DBAL\Driver\AbstractMySQLDriver.php 71
+ERROR - 2017-02-26 22:44:54 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 22:44:54 --> Severity: Error --> Class 'Mailgun' not found C:\xampp\htdocs\back_inscribite\application\modules\web\models\mailing\Mailing_model.php 28
+ERROR - 2017-02-26 22:45:16 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 22:45:16 --> Severity: Parsing Error --> syntax error, unexpected 'Use' (T_USE) C:\xampp\htdocs\back_inscribite\application\modules\web\models\mailing\Mailing_model.php 28
+ERROR - 2017-02-26 22:45:25 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 22:45:25 --> Severity: Parsing Error --> syntax error, unexpected 'Use' (T_USE) C:\xampp\htdocs\back_inscribite\application\modules\web\models\mailing\Mailing_model.php 28
+ERROR - 2017-02-26 22:45:54 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 22:45:54 --> Severity: Parsing Error --> syntax error, unexpected 'Use' (T_USE) C:\xampp\htdocs\back_inscribite\application\modules\web\models\mailing\Mailing_model.php 28
+ERROR - 2017-02-26 22:46:03 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 22:46:04 --> Severity: Parsing Error --> syntax error, unexpected 'Use' (T_USE) C:\xampp\htdocs\back_inscribite\application\modules\web\models\mailing\Mailing_model.php 28
+ERROR - 2017-02-26 22:46:55 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 22:46:57 --> Severity: error --> Exception: The parameters passed to the API were invalid. Check your inputs! C:\xampp\htdocs\back_inscribite\vendor\mailgun\mailgun-php\src\Mailgun\Connection\RestClient.php 127
+ERROR - 2017-02-26 22:51:06 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 22:52:19 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 22:52:34 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 22:52:35 --> Severity: error --> Exception: The parameters passed to the API were invalid. Check your inputs! C:\xampp\htdocs\back_inscribite\vendor\mailgun\mailgun-php\src\Mailgun\Connection\RestClient.php 127
+ERROR - 2017-02-26 22:55:02 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 22:55:02 --> Severity: 4096 --> Argument 3 passed to Mailgun\Connection\RestClient::__construct() must be an instance of Http\Client\HttpClient, string given, called in C:\xampp\htdocs\back_inscribite\vendor\mailgun\mailgun-php\src\Mailgun\Mailgun.php on line 26 and defined C:\xampp\htdocs\back_inscribite\vendor\mailgun\mailgun-php\src\Mailgun\Connection\RestClient.php 67
+ERROR - 2017-02-26 22:55:02 --> Severity: Error --> Class 'Mailgun\Constants\Api' not found C:\xampp\htdocs\back_inscribite\vendor\mailgun\mailgun-php\src\Mailgun\Connection\RestClient.php 88
+ERROR - 2017-02-26 22:58:03 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 22:58:04 --> Severity: error --> Exception: No stream factories found. To use Guzzle, Diactoros or Slim Framework factories install php-http/message and the chosen message implementation. C:\xampp\htdocs\back_inscribite\vendor\php-http\discovery\src\StreamFactoryDiscovery.php 27
+ERROR - 2017-02-26 23:02:19 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 23:02:21 --> Severity: error --> Exception: The parameters passed to the API were invalid. Check your inputs! The domain is unverified and requires DNS configuration. Log in to your control panel to view required DNS records. C:\xampp\htdocs\back_inscribite\vendor\mailgun\mailgun-php\src\Mailgun\Connection\RestClient.php 226
+ERROR - 2017-02-26 23:04:48 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 23:04:52 --> Severity: error --> Exception: The parameters passed to the API were invalid. Check your inputs! Sandbox subdomains are for test purposes only. Please add your own domain or add the address to authorized recipients in Account Settings. C:\xampp\htdocs\back_inscribite\vendor\mailgun\mailgun-php\src\Mailgun\Connection\RestClient.php 226
+ERROR - 2017-02-26 23:05:41 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 23:05:42 --> Severity: 4096 --> Object of class DateTime could not be converted to string C:\xampp\htdocs\back_inscribite\vendor\doctrine\dbal\lib\Doctrine\DBAL\Driver\PDOStatement.php 67
+ERROR - 2017-02-26 23:05:42 --> Severity: Notice --> Object of class DateTime to string conversion C:\xampp\htdocs\back_inscribite\vendor\doctrine\dbal\lib\Doctrine\DBAL\Driver\PDOStatement.php 67
+ERROR - 2017-02-26 23:05:42 --> Severity: error --> Exception: An exception occurred while executing 'INSERT INTO mailing (mai_subject, mai_mensaje, mai_adjunto, mai_fecha_in, mai_enviado, mail_usu_id) VALUES (?, ?, ?, ?, ?, ?)' with params ["test", "asdawasw", null, {"date":"2017-02-26 23:05:41.000000","timezone_type":3,"timezone":"America\/Argentina\/Buenos_Aires"}, null, null]:
+
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'mail_usu_id' in 'field list' C:\xampp\htdocs\back_inscribite\vendor\doctrine\dbal\lib\Doctrine\DBAL\Driver\AbstractMySQLDriver.php 71
+ERROR - 2017-02-26 23:05:42 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\back_inscribite\system\core\Exceptions.php:272) C:\xampp\htdocs\back_inscribite\system\core\Common.php 573
+ERROR - 2017-02-26 23:06:35 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 23:06:36 --> Severity: error --> Exception: An exception occurred while executing 'INSERT INTO mailing (mai_subject, mai_mensaje, mai_adjunto, mai_fecha_in, mai_enviado, mail_usu_id) VALUES (?, ?, ?, ?, ?, ?)' with params ["test", "asdawasw", null, "2017-02-26 23:06:35", null, null]:
+
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'mail_usu_id' in 'field list' C:\xampp\htdocs\back_inscribite\vendor\doctrine\dbal\lib\Doctrine\DBAL\Driver\AbstractMySQLDriver.php 71
+ERROR - 2017-02-26 23:06:46 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 23:06:47 --> Severity: error --> Exception: An exception occurred while executing 'INSERT INTO mailing (mai_subject, mai_mensaje, mai_adjunto, mai_fecha_in, mai_enviado, mai_usu_id) VALUES (?, ?, ?, ?, ?, ?)' with params ["test", "asdawasw", null, "2017-02-26 23:06:46", null, null]:
+
+SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'mai_usu_id' cannot be null C:\xampp\htdocs\back_inscribite\vendor\doctrine\dbal\lib\Doctrine\DBAL\Driver\AbstractMySQLDriver.php 112
+ERROR - 2017-02-26 23:07:01 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 23:07:03 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 23:07:04 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 23:08:21 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-02-26 23:08:22 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.

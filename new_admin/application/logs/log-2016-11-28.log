@@ -1,0 +1,62 @@
+ERROR - 2016-11-28 22:05:41 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-11-28 22:05:41 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-11-28 22:05:43 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-11-28 22:05:43 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-11-28 22:05:43 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-11-28 22:05:43 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-11-28 22:05:43 --> 404 Page Not Found: /index
+ERROR - 2016-11-28 22:05:43 --> 404 Page Not Found: /index
+ERROR - 2016-11-28 22:05:43 --> 404 Page Not Found: /index
+ERROR - 2016-11-28 22:05:43 --> 404 Page Not Found: /index
+ERROR - 2016-11-28 22:05:43 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-11-28 22:05:43 --> 404 Page Not Found: /index
+ERROR - 2016-11-28 22:05:43 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-11-28 22:05:43 --> 404 Page Not Found: /index
+ERROR - 2016-11-28 22:05:46 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-11-28 22:05:47 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-11-28 22:05:48 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-11-28 22:05:48 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-11-28 22:05:48 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-11-28 22:05:48 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-11-28 22:05:48 --> 404 Page Not Found: /index
+ERROR - 2016-11-28 22:05:48 --> 404 Page Not Found: /index
+ERROR - 2016-11-28 22:05:48 --> 404 Page Not Found: /index
+ERROR - 2016-11-28 22:05:48 --> 404 Page Not Found: /index
+ERROR - 2016-11-28 22:05:48 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-11-28 22:05:48 --> 404 Page Not Found: /index
+ERROR - 2016-11-28 22:05:53 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-11-28 22:05:53 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-11-28 22:05:54 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-11-28 22:05:56 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-11-28 22:05:56 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-11-28 22:05:57 --> Severity: error --> Exception: An exception occurred while executing 'SELECT c0_.cob_id AS cob_id_0, c0_.cob_fecha AS cob_fecha_1, c0_.cob_recibo AS cob_recibo_2, c0_.cob_adjunto AS cob_adjunto_3, c0_.cob_cantregistros AS cob_cantregistros_4, c0_.cob_importe AS cob_importe_5, c0_.cob_retenciones AS cob_retenciones_6, c0_.cob_ajustes AS cob_ajustes_7, c0_.cob_mediopago AS cob_mediopago_8 FROM cobro c0_ LIMIT 20 OFFSET 0':
+
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'c0_.cob_id' in 'field list' C:\xampp\htdocs\back_inscribite\vendor\doctrine\dbal\lib\Doctrine\DBAL\Driver\AbstractMySQLDriver.php 71
+ERROR - 2016-11-28 22:06:01 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-11-28 22:06:01 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-11-28 22:06:01 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-11-28 22:06:01 --> 404 Page Not Found: /index
+ERROR - 2016-11-28 22:06:01 --> 404 Page Not Found: /index
+ERROR - 2016-11-28 22:06:02 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-11-28 22:06:02 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-11-28 22:06:03 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-11-28 22:06:08 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-11-28 22:06:09 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-11-28 22:06:09 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-11-28 22:06:09 --> 404 Page Not Found: /index
+ERROR - 2016-11-28 22:06:09 --> 404 Page Not Found: /index
+ERROR - 2016-11-28 22:06:09 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-11-28 22:06:09 --> 404 Page Not Found: /index
+ERROR - 2016-11-28 22:06:09 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-11-28 22:07:03 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-11-28 22:07:03 --> 404 Page Not Found: /index
+ERROR - 2016-11-28 22:07:07 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-11-28 22:07:09 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-11-28 22:07:19 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-11-28 22:07:19 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-11-28 22:07:19 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-11-28 22:07:20 --> 404 Page Not Found: /index
+ERROR - 2016-11-28 22:07:20 --> 404 Page Not Found: /index
+ERROR - 2016-11-28 22:07:20 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-11-28 22:14:43 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2016-11-28 22:14:44 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.

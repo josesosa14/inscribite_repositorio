@@ -1,0 +1,4 @@
+RewriteEngine on
+Options +FollowSymlinks
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^/]+)/$ /newsite2014/admin/$1.php

@@ -1,0 +1,49 @@
+ERROR - 2017-03-01 13:47:35 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-03-01 13:47:39 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-03-01 13:47:39 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-03-01 13:47:39 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-03-01 13:47:39 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-03-01 13:47:40 --> 404 Page Not Found: /index
+ERROR - 2017-03-01 13:47:41 --> 404 Page Not Found: /index
+ERROR - 2017-03-01 13:47:41 --> 404 Page Not Found: /index
+ERROR - 2017-03-01 13:47:41 --> 404 Page Not Found: /index
+ERROR - 2017-03-01 13:47:41 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-03-01 13:47:42 --> 404 Page Not Found: /index
+ERROR - 2017-03-01 13:47:42 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-03-01 13:47:42 --> 404 Page Not Found: /index
+ERROR - 2017-03-01 13:47:48 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-03-01 13:47:51 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-03-01 13:47:52 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-03-01 13:47:56 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-03-01 13:47:56 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-03-01 14:02:43 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-03-01 14:02:44 --> Severity: Error --> Call to undefined method A_Loader::load() C:\xampp\htdocs\back_inscribite\application\modules\web\views\mailing\mailing_formulario.php 33
+ERROR - 2017-03-01 14:02:55 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-03-01 14:02:55 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-03-01 14:03:21 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-03-01 14:03:22 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-03-01 14:03:40 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-03-01 14:03:40 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-03-01 14:03:52 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-03-01 14:03:52 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-03-01 14:04:07 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-03-01 14:04:07 --> Severity: Warning --> Missing argument 1 for Usuario::__construct(), called in C:\xampp\htdocs\back_inscribite\application\modules\web\models\mailing\Mailing_model.php on line 74 and defined C:\xampp\htdocs\back_inscribite\application\modules\web\modelo\Usuario.php 168
+ERROR - 2017-03-01 14:04:07 --> Severity: Warning --> Missing argument 2 for Usuario::__construct(), called in C:\xampp\htdocs\back_inscribite\application\modules\web\models\mailing\Mailing_model.php on line 74 and defined C:\xampp\htdocs\back_inscribite\application\modules\web\modelo\Usuario.php 168
+ERROR - 2017-03-01 14:04:07 --> Severity: Warning --> Missing argument 3 for Usuario::__construct(), called in C:\xampp\htdocs\back_inscribite\application\modules\web\models\mailing\Mailing_model.php on line 74 and defined C:\xampp\htdocs\back_inscribite\application\modules\web\modelo\Usuario.php 168
+ERROR - 2017-03-01 14:04:07 --> Severity: Notice --> Undefined variable: persona C:\xampp\htdocs\back_inscribite\application\modules\web\modelo\Usuario.php 170
+ERROR - 2017-03-01 14:04:07 --> Severity: Notice --> Undefined variable: email C:\xampp\htdocs\back_inscribite\application\modules\web\modelo\Usuario.php 170
+ERROR - 2017-03-01 14:04:07 --> Severity: Notice --> Undefined variable: nombre C:\xampp\htdocs\back_inscribite\application\modules\web\modelo\Usuario.php 170
+ERROR - 2017-03-01 14:04:07 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\back_inscribite\system\core\Exceptions.php:272) C:\xampp\htdocs\back_inscribite\system\core\Common.php 573
+ERROR - 2017-03-01 14:04:07 --> Severity: Error --> Call to undefined function crearPassword() C:\xampp\htdocs\back_inscribite\application\modules\web\models\mailing\Mailing_model.php 79
+ERROR - 2017-03-01 14:04:44 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-03-01 14:04:44 --> Severity: Error --> Call to undefined function crearPassword() C:\xampp\htdocs\back_inscribite\application\modules\web\models\mailing\Mailing_model.php 76
+ERROR - 2017-03-01 14:05:10 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-03-01 14:06:32 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-03-01 14:06:38 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-03-01 14:06:40 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-03-01 14:07:51 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-03-01 14:07:51 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-03-01 14:07:58 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-03-01 14:07:58 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-03-01 14:08:32 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.
+ERROR - 2017-03-01 14:08:32 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\back_inscribite\application\vendor/autoload.php was not found.

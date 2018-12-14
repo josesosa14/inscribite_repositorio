@@ -1,0 +1,404 @@
+body{
+	margin:0;
+	padding:0;
+	background:#fff url(images/colderecha.gif) repeat-y;
+	width:100%;
+	/*font-family:'Lucida Sans Unicode', 'Lucida Grande', sans-serif;*/
+	font-family:Tahoma, Geneva, sans-serif;
+	/*font-family:'Times New Roman', Times, serif;*/
+	/*font-family:'Trebuchet MS', Helvetica, sans-serif;*/
+	/*font-family:Verdana, Geneva, sans-serif;*/
+	color:#777;
+	outline:0;
+	font-size:14px;
+}
+*{
+	outline:0;
+}
+
+a{
+	color:#555;
+	text-decoration:none;
+	cursor:pointer;
+}
+a:hover{
+	text-decoration:none;
+	color:#222;
+}
+a img{
+	border:0;
+}
+
+table{
+	border-collapse:collapse;
+	margin:0;
+	padding:0;
+	table-layout:auto;
+}
+ul{
+	padding:0 0 0 8px;
+	margin:5 0 0 8px;
+	list-style-position:inside;
+}
+li{
+	padding:0;
+	margin:0 0 5px 0;
+	line-height:12px;
+}
+form{
+	padding:0;
+	margin:0;
+}
+
+p{
+	margin-top:0;
+	padding-top:0;
+	margin-bottom:9px;
+	padding-bottom:0;
+}
+input, textarea{
+	font-family:arial, sans-serif;
+	font-size:13px;
+}
+
+.formlogin{
+	width:220px;
+	margin-left:auto;
+	margin-right:auto;
+}
+.formlogin .tinput{
+	width:212px;
+	border:1px #999 solid;
+	padding:5px 3px 6px 3px;
+	display:block;
+	margin-top:2px;
+	margin-bottom:4px;
+}
+.logoInput{
+	display:block;
+	margin:40px auto 16px auto;
+	width:220px;
+}
+
+.inputsubmit{
+	background:#B0B0B0;
+	color:#333;
+	padding:3px 6px 3px 6px;
+	cursor:pointer;
+	border:0;
+	margin:4px 0 40px 200px;
+	font-weight:bold;
+}
+
+.avisoerror{
+	background:#f7c4c7;
+	padding:7px 8px 10px 8px;
+	margin-bottom:10px;
+	font-size:14px;
+	line-height:17px;
+	color:#555;
+}
+.avisoerror img{
+	vertical-align:middle;
+	display:block;
+	float:left;
+	margin:5px 11px 0 2px;
+}
+
+.header{
+	height:152px;
+	padding-right:10px;
+}
+.logo{
+	margin:8px 0 0 16px;
+}
+.contlogo{
+	width:227px;
+	height:152px;
+	background:#0d4044;
+	float:left;
+}
+
+.opcionessesion{
+	position:absolute;
+	right:21px;
+	top:10px;
+	font-size:12px;
+	text-align:right;
+	width:500px;
+}
+
+.centrado{
+	width:960px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.botonera{
+	position:absolute;
+	top:177px;
+	left:0px;
+}
+.botonera a{
+	display:block;
+	width:191px;
+	background:#e5e5e5;
+	padding:7px 15px 7px 19px;
+	font-size:12px;
+	color:#333;
+}
+.botonera a:hover{
+	background:#b8b8b8;
+}
+.botactivo{
+	background:#0d4044 !important;
+	color:#FFF !important;
+}
+
+.contenido{
+	padding-left:248px;
+	padding-right:21px;
+}
+.contenido table{
+	width:100%;
+	font-size:12px;
+}
+.contenido table tr{
+	border-bottom:1px #ccc solid;
+}
+.contenido table th{
+	text-align:left;
+	padding:2px 3px 4px 3px;
+}
+.contenido table td{
+	padding:4px 6px 4px 6px;
+	color:#555;
+}
+
+.handle{
+	cursor:url(images/cursor_hand.cur), e-resize;
+}
+
+.numeracion{
+	color:#888888 !important;
+	font-size:11px;
+	text-align:right;
+	padding-right:4px;
+	width:30px;
+}
+.numeracion span{
+	float:right;
+	clear:none;
+	margin-top:4px;
+	margin-right:2px;
+}
+
+.formulario label, .typelabel{
+	display:block;
+	margin-bottom:5px;
+	float:left;
+	clear:left;
+	width:635px;
+}
+.formulario .tlabel{
+	display:block;
+	width:194px;
+	padding-left:6px;
+	float:left;
+	clear:left;
+	padding-top:4px;
+}
+.formulario .tinput{
+	display:block;
+	border:1px #999 solid;
+	padding:3px 3px 3px 3px;
+	margin-top:2px;
+	margin-bottom:4px;
+
+	width:379px;
+	float:left;
+	clear:none;
+}
+.tinputHover{
+	border:4px #3399ff solid;
+}
+.labelfocus{
+	background:#f9fce1;
+}
+.formulario select{
+	float:left;
+	clear:none;
+	margin-right:3px;
+}
+
+.opstable{
+	width:14px;
+}
+
+.botnuevo{
+	float:right;
+	clear:none;
+	margin-bottom:8px;
+}
+
+.paginacion{
+	margin:15px 0 45px 15px;
+	font-size:14px;
+	float:left;
+	clear:none;
+}
+
+h2{
+	margin:0 0 17px 0;
+}
+
+.previewnormal{
+	width:46px;
+	float:left;clear:none;
+}
+.previewnormal div{
+	height:38px;background:#e5e5e5;border:1px #BCBCBC solid;margin:5px 0 0 3px;
+}
+.previewvital{
+	margin-bottom:2px;
+}
+.previewvital div{
+	height:11px;background:#e5e5e5;
+}
+.previewdestacada div{
+	height:81px;background:#e5e5e5;border:1px #BCBCBC solid;margin:48px 0 0 6px;
+}
+.previewOff{
+	background:#e5e5e5;
+}
+.previewOnVisible{
+	background:#f25a2b !important;
+}
+.previewOnInvisible{
+	background:#e5e5e5 !important;
+	border:2px dashed #f25a2b !important;
+}
+.previewdestacada .previewOnInvisible{
+	height:79px !important;
+}
+.previewnormal .previewOnInvisible{
+	height:36px !important;
+}
+.previewvital .previewOnInvisible{
+	height:7px !important;
+}
+
+.titulopag{
+	float:left;
+	font-size:19px;
+	font-weight:bold;
+	margin-top:2px;
+	margin-bottom:30px;
+}
+.aviso{
+	background:#feeee9;
+	color:#666666;
+	padding:12px;
+	font-weight:bold;
+	font-family:arial, sans-serif;
+	font-size:13px;
+}
+.aviso a{
+	background:#feeee9;
+	color:#333;
+}
+
+.cuadronota2{
+	width:200px;
+	float:left;
+	clear:none;
+	margin-right:15px;
+	color:#797979;
+	margin-top:10px;
+	margin-bottom:12px;
+	background-color:#E5E5E5;
+	float:left;
+	clear:left;
+}
+.cuadronota2 .imagen{
+	display:block;
+	width:200px;
+	height:180px;
+	margin-bottom:5px;
+	background:url(../images/masnota.gif) right bottom no-repeat;
+	overflow:hidden;
+}
+.titulocuadro{
+	background:url(../images/blacktransp60.png);
+	color:#FFF;
+	font-weight:bold;
+	font-size:15px;
+	display:block;
+	float:left;
+	clear:left;
+	margin-top:112px;
+	padding:6px 12px 0 12px;
+}
+.cuadronota2 .titulocuadro{
+	width:176px;
+	height:182px;
+	margin-top:112px;
+}
+.titulocuadro .copete{
+	display:block;
+	font-size:11px;
+	color:#6e6e6e;
+	margin-top:8px;
+}
+.titulocuadro .fecha{
+	font-size:10px;
+	color:#797874;
+	float:right;
+	clear:none;
+}
+.volanta{
+	height:18px;
+	line-height:18px;
+	font-size:11px;
+	text-transform:uppercase;
+	color:white;
+	padding:0 11px 0 11px;
+	float:left;
+	clear:left;
+}
+.c1{
+	background:#ff3333;
+}
+.c2{
+	background:#339933;
+}
+.c3{
+	background:#ff6633;
+}
+.c4{
+	background:#006699;
+}
+.c5{
+	background:#993399;
+}
+
+
+#filedrag{  
+	display: none;  
+	font-weight: bold;  
+	text-align: center;  
+	padding: 1em 0;  
+	margin: 1em 0;  
+	color: #555;  
+	border: 2px dashed #555;  
+	border-radius: 7px;  
+	cursor: default;  
+}  
+#filedrag.hover{  
+	color: #f00;  
+	border-color: #f00;  
+	border-style: solid;  
+	box-shadow: inset 0 3px 4px #888;  
+}
+
+
