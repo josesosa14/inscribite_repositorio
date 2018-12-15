@@ -1,8 +1,8 @@
 <?php
 error_reporting(0);
 date_default_timezone_set('America/Argentina/Buenos_Aires');
-$dbuser = "ktkkbfac_inscribite_usuario";
-$dbpassword = "B{M([rvP?zdU";
+$dbuser = "ktkkbfac";
+$dbpassword = "3Jo8Ngd00l";
 $dbhost = "localhost";
 $dbname = "inscribite_base";
 $mysqli = new mysqli($dbhost, $dbuser, $dbpassword, $dbname);
