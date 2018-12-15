@@ -1,1 +1,10 @@
-RewriteEngine on Options +FollowSymlinks RewriteEngine on RewriteRule ^$ newsite2014/argit/ [L] RewriteRule (.*) newsite2014/argit/$1 [L]
+RewriteEngine on
+Options +FollowSymlinks
+
+<IfModule mod_rewrite.c>
+    RewriteEngine on
+
+    RewriteRule    ^$    newsite2014/argit/    [L]
+    RewriteRule    (.*) newsite2014/argit/$1    [L]
+
+ </IfModule>
