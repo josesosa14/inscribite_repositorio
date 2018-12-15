@@ -1,7 +1,1 @@
-Options +FollowSymLinks
-RewriteEngine on
-
-RewriteBase /epsa/newsite2014/argit/
-RewriteRule ^/$ newsite2014/argit/index.php [L]
-RewriteRule ^javier/$ clientes/10/javier.php [L]
-RewriteRule ^miCuenta/$ newsite2014/argit/miCuenta.php [L]
+RewriteEngine on Options +FollowSymlinks RewriteEngine on RewriteRule ^$ newsite2014/argit/ [L] RewriteRule (.*) newsite2014/argit/$1 [L]
