@@ -6,7 +6,7 @@ $dbpassword = "B{M([rvP?zdU";
 $dbhost = "localhost";
 $dbname = "inscribite_base";
 $mysqli = new mysqli($dbhost, $dbuser, $dbpassword, $dbname);
-$general_path = "inscribitetest.rhind.com.ar";
+$general_path = "http://inscribitetest.rhind.com.ar";
 $unirse_path = $general_path."unirse.php";
 define("pftables", "inscribite_");
 define("localPass", "nqvcwenj872k1ui202gg4ff27xjb");

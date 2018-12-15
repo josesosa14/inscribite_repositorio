@@ -22,7 +22,7 @@
         <title>Inscribite</title>
 
         <!--css -->
-        <base href="/newsite2014/argit/">
+        <base href="<?PHP echo $general_path;?>/newsite2014/argit/">
         <link rel="stylesheet" href="../css/bootstrap.min.css" />       
 		<link rel="stylesheet" type="text/css" href="../css/styleNew.css" />
 		        <link rel="shortcut icon" href="../images/favicon.ico">

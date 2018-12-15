@@ -18,7 +18,7 @@
             <a href="<?PHP echo $general_path;?>/contacto.php#toShow" class="<?php echo $contacto ?>">Contacto</a>
         </li>
 		<li>
-            <a href="<?PHP echo $general_path;?>/faq.php#toShow" class="<?php echo $dudas ?>">Preguntas Frecuentes</a>
+            <a href="faq.php#toShow" class="<?php echo $dudas ?>">Preguntas Frecuentes</a>
         </li>
         <?php if (!isset($_SESSION['usuario'])) { ?>
             <li>
