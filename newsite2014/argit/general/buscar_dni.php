@@ -10,6 +10,7 @@ if(isset($_POST['action'])) {
 	$dni = $_POST['dni'];	
 	$query = 'SELECT dni FROM inscribite_usuarios WHERE dni = '. $dni;
 	$user_info = getRowQuery($query, $mysqli);
+	var_dump($user_info);
 	if($user_info) {
 	$respuesta = 1;
 	echo json_encode($respuesta);
