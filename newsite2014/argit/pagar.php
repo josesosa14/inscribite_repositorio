@@ -178,7 +178,7 @@ $user_info = getRowQuery($query, $mysqli);
                                     <ul>
                                         <li><?php echo $evento['descripcion']; ?></li>
 										<?php if($evento['mostrarcinscriptos']){
-											echo '<li><a href="http://www.inscribiteonline.com.ar/competidoresinscriptos.php?evento='.$evento['codigo'].'" >ver inscriptos</a></li>';
+											echo '<li><a href="'.$general_path.'competidoresinscriptos.php?evento='.$evento['codigo'].'" >ver inscriptos</a></li>';
 										}
 										?>
 										

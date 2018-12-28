@@ -1,8 +1,8 @@
 <?php
 
 require_once dirname(__FILE__) . '/db.php';
-$general_path = "http://www.inscribiteonline.com.ar/";
-$general_path2 = "http://www.inscribiteonline.com.ar/";
+$general_path = "http://127.0.0.1/";
+$general_path2 = "http://127.0.0.1/";
 $parameters['cpm_nombre'] = filter_var($_POST['cpm_nombre'], FILTER_SANITIZE_STRING);
 $parameters['cpm_empresa'] = filter_var($_POST['cpm_empresa'], FILTER_SANITIZE_STRING);
 $parameters['cpm_email'] = filter_var($_POST['cpm_email'], FILTER_SANITIZE_EMAIL);

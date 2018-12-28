@@ -1,8 +1,8 @@
 <?php
 
 require_once dirname(__FILE__) . '/../general/db.php';
-$general_path = "http://www.inscribiteonline.com.ar/";
-$general_path2 = "http://www.inscribiteonline.com.ar/";
+$general_path = "http://127.0.0.1/";
+$general_path2 = "http://127.0.0.1/";
 
 
 if (isset($_POST['empresa'])) {

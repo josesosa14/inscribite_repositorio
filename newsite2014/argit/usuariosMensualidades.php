@@ -81,7 +81,7 @@ $mensualidades = getArrayQuery($query, $mysqli);
 <script src="../js/export/tableExport.min.js"></script>         
 <script>
 function quierePagar(dni,mec_id){
-	var url = "http://www.inscribiteonline.com.ar/mensualidades/pagar.php?usu_id="+dni+"&mec_id="+mec_id;
+	var url = "<?PHP echo $general_path;?>mensualidades/pagar.php?usu_id="+dni+"&mec_id="+mec_id;
 	var result = confirm("quiere pagar?");
 	if (result == true) {
 		location.href = url;
@@ -99,7 +99,7 @@ endif;
 <?php
 
 }else{
-echo 'No se encuentra logeado, <a href="http://www.inscribiteonline.com.ar/newsite2014/admin/">iniciar sesion</a>';
+echo 'No se encuentra logeado, <a href="'.$general_path.'newsite2014/admin/">iniciar sesion</a>';
 }
 ?>
 

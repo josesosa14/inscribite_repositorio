@@ -65,4 +65,4 @@ foreach($query_array as $key => $value) {
 //query y verificamos si todo bien
 
 runQuery($query,$mysqli);
-header("Location: http://www.inscribiteonline.com.ar/empresas/descuentos.php?envio=1");
+header("Location:".$general_path."empresas/descuentos.php?envio=1");

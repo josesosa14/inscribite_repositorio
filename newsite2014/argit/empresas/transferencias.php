@@ -15,7 +15,7 @@ echo '</div>';
 		</div>
 		<div class="box-body">
 			<div class="table-responsive">
-				<table id="tabla_liquidacion" data-show-toggle="true" data-toggle="table" data-url="http://www.inscribiteonline.com.ar/new_admin/getLiquidacionAjax/<?=$_SESSION['empresa']?>" 
+				<table id="tabla_liquidacion" data-show-toggle="true" data-toggle="table" data-url="<?PHP echo $general_path;?>new_admin/getLiquidacionAjax/<?=$_SESSION['empresa']?>" 
 					   data-side-pagination="server" data-search="true" data-pagination="true" data-page-list="[5, 10, 20, 50, 100, 200]" data-show-refresh="true" 
 					   data-cache="false" data-height="auto" data-show-columns="true" data-search-on-enter-key="true" data-search-time-out="750" class="table table-responsive 
 					   table-striped" data-page-size="20">

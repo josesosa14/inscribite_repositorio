@@ -12,6 +12,6 @@ if ($_POST) {
     $query = "UPDATE facturas SET fac_pedido = 0 WHERE fac_id in ($facturas_id)";
     runQuery($query, $mysqli);
 	
-	echo 'FACTURAS MODIFICADAS EXITOSAMENTE!!, <a href="<a href="http://www.inscribiteonline.com.ar/pagoMisCuentas.php">volver a cargarlas</a>';
+	echo 'FACTURAS MODIFICADAS EXITOSAMENTE!!, <a href="<a href="'.$general_path.'pagoMisCuentas.php">volver a cargarlas</a>';
 }
 

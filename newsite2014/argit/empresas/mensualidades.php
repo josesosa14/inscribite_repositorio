@@ -110,7 +110,7 @@ endif;
 <script src="../js/export/tableExport.min.js"></script>   
 <script>
 function quierePagar(dni,mec_id){
-	var url = "http://www.inscribiteonline.com.ar/empresas/pagar.php?usu_id="+dni+"&mec_id="+mec_id;
+	var url = "<?PHP echo $general_path;?>empresas/pagar.php?usu_id="+dni+"&mec_id="+mec_id;
 	var result = confirm("quiere pagar?");
 	if (result == true) {
 		location.href = url;

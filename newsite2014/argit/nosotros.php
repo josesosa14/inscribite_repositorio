@@ -13,7 +13,7 @@ require_once dirname(__FILE__).'/general/header.php';
             para gestionar la inscripción a tu evento
         </a>
 		<div class="btns">
-			<a href="http://www.inscribiteonline.com.ar/newsite2014/documentos/presentaci%C3%B3n_IO_2014.pdf" class="btn green pull-right col-xs-12 col-sm-3" id="pdf" target="_blank" title="ver presentaci&oacute;n">ver presentaci&oacute;n<a/>
+			<a href="<?PHP echo $general_path;?>newsite2014/documentos/presentaci%C3%B3n_IO_2014.pdf" class="btn green pull-right col-xs-12 col-sm-3" id="pdf" target="_blank" title="ver presentaci&oacute;n">ver presentaci&oacute;n<a/>
 		</div>
     </div>
 </div>

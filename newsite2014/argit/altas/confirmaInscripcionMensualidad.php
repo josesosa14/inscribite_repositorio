@@ -3,7 +3,7 @@
 $pagar = "blue";
 require_once dirname(__FILE__) . '/../general/db.php';
 if(!isset($_SESSION["usuario"]) || strlen($_SESSION["usuario"])<6){
-	header("Location:http://www.inscribiteonline.com.ar/logout.php");
+	header("Location:" . $general_path."logout.php");
 }
 
 
@@ -59,12 +59,12 @@ if ($_POST) {
             }
         } elseif($_POST['medio'] == "rp"){
 			if (insertaPMC($mysqli,$mec_id)) {
-				header('Location:http://www.inscribiteonline.com.ar/newsite2014/cuponRP.php?tipo=rp&mec_id='.$mec_id);
+				header('Location:'.$general_path.'newsite2014/cuponRP.php?tipo=rp&mec_id='.$mec_id);
 			}
 			
 		}else {
             if (insertaPMC($mysqli,$mec_id)) {
-				header('Location:http://www.inscribiteonline.com.ar/newsite2014/cuponRP.php?tipo=pf&mec_id='.$mec_id);
+				header('Location:'.$general_path.'newsite2014/cuponRP.php?tipo=pf&mec_id='.$mec_id);
 			}
         }
     } else {

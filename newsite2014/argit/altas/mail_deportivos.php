@@ -69,7 +69,7 @@ $mensaje = '<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 					$mensaje .= '
                     <br>
 
-                    <span>Para ver como operar a trav&eacute;s de Pago Mis Cuentas o desde su Home Banknig <a href="http://www.inscribiteonline.com.ar/newsite2014/documentos/PMC.pdf" class="btn green pull-right col-xs-12 col-sm-3" id="pdf" target="_blank" title="ver presentacion">click ac&aacute;</a></span>
+                    <span>Para ver como operar a trav&eacute;s de Pago Mis Cuentas o desde su Home Banknig <a href="'.$general_path.'newsite2014/documentos/PMC.pdf" class="btn green pull-right col-xs-12 col-sm-3" id="pdf" target="_blank" title="ver presentacion">click ac&aacute;</a></span>
                         <p>
 							Operaci&oacute;n realizada con &eacute;xito
 					   </p>

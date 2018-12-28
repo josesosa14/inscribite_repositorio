@@ -75,14 +75,14 @@ if ($inscripciones):
                 Aquellas que ya abonaste, las que no o las que deseas eliminar de tu listado.
                 <?php //print_r($info_usuario);?>
                 <?php
-                $title = strtoupper($info_usuario[0]['nombre']) . ' ' . strtoupper($info_usuario[0]['apellido']) . utf8_encode(' concurrirÃ¡ al evento ') . utf8_encode($inscripciones[0]['evento_nombre']) . ' el dia ' . utf8_encode($inscripciones[0]['evento_fecha']) . '.';
+                $title = strtoupper($info_usuario[0]['nombre']) . ' ' . strtoupper($info_usuario[0]['apellido']) . utf8_encode( 'concurrirá al evento ') . utf8_encode($inscripciones[0]['evento_nombre']) . ' el dia ' . utf8_encode($inscripciones[0]['evento_fecha']) . '.';
                 //$descripcion = utf8_encode($inscripciones[0]['evento_descripcion']);
                 $title_face = strtoupper($info_usuario[0]['nombre']) . ' ' . strtoupper($info_usuario[0]['apellido']) . utf8_encode(' concurrirá al evento ') . utf8_encode($inscripciones[0]['evento_nombre']) . ' el dia ' . utf8_encode($inscripciones[0]['evento_fecha']) . '.';
                 $usuario_face = strtoupper($info_usuario[0]['nombre']) . ' ' . strtoupper($info_usuario[0]['apellido']);
                 ?>
                 <br>
                 <span style="float:right;">Compart&iacute; tus &uacute;ltimos eventos: 
-                <a href="http://www.inscribiteonline.com.ar/" title="<?php echo $title; ?>"  class="tweet" target="_blank"><img src="http://www.inscribiteonline.com.ar/newsite2014/imagenes/twitter_icon.png" width="25" height="25"></a>
+                <a href="<?PHP echo $general_path;?>" title="<?php echo $title; ?>"  class="tweet" target="_blank"><img src="<?PHP echo $general_path;?>newsite2014/imagenes/twitter_icon.png" width="25" height="25"></a>
 
                 <script>
                     $('a.tweet').click(function(e) {
@@ -110,8 +110,8 @@ if ($inscripciones):
                                     {
                                         method: 'feed',
                                         name: '<?php echo $usuario_face. ' se anot&oacute; a un Evento en Inscribite Online. ';?>',
-                                        link: ' http://www.inscribiteonline.com.ar/',
-                                        picture: 'http://www.inscribiteonline.com.ar/newsite2014/images/logo.png',
+                                        link: '<?PHP echo $general_path;?>',
+                                        picture: '<?PHP echo $general_path;?>newsite2014/images/logo.png',
                                         caption: '<?php echo $title_face;?>',
                                         description: 'Desde el 2006 somos la mejor forma de iniciar tu evento.  M&aacute;s de 200 empresas y productoras conf&iacute;an la inscripci&oacute;n de sus eventos en nuestro sistema',
                                         message: ''
@@ -120,7 +120,7 @@ if ($inscripciones):
                     });
                 </script>
                 
-                <img src = "http://www.inscribiteonline.com.ar/newsite2014/imagenes/face_icon.png" id = "share_button" width="26" height="26" style="cursor: pointer;">
+                <img src = "<?PHP echo $general_path;?>newsite2014/imagenes/face_icon.png" id = "share_button" width="26" height="26" style="cursor: pointer;">
                 </span>
                 <br>
             </p>
@@ -169,10 +169,10 @@ if ($inscripciones):
 
                                             <a href = "/../miCuenta.php" class = "icon status-<?= ($inscripcion['evento_pagado']) ? 'green' : 'red' ?> pull-right" style = "display: none"><img src = "../images/icon-status-<?= ($inscripcion['evento_pagado']) ? 'green' : 'red' ?>-big.png" alt = "" /></a>
                                             <?php if ($inscripcion['evento_pagado'] != 1) { ?>
-                                                <a href="<?= $general_path . '' . $inscripcion['id'] . '/' . $user_info['dni'] ?>" title='cancelar inscripcion' class="btCancel icon pull-right delete"><img src = "../images/icon-delete.png" alt = "" /></a>
+                                                <a href="<? echo $general_path . '' . $inscripcion['id'] . '/' . $user_info['dni'] ?>" title='cancelar inscripcion' class="btCancel icon pull-right delete"><img src = "../images/icon-delete.png" alt = "" /></a>
                                             <?php } ?>
                                             <?php if ($inscripcion['inscripcion_pmc'] != 1 && $inscripcion['evento_pagado'] != 1) { ?>
-                                                <a target="_blank" href="../imprimircupon.php?evento=<?= $inscripcion['evento_codigo'] . '&mes=' . $inscripcion['inscripcion_mes'] . '&cod=' . $inscripcion['cat_codigo'] . '&cat=' . $inscripcion['inscripcion_categoria'] . '&opcion=' . $inscripcion['inscripcion_opcion'] . '&respuesta1=' . $inscripcion['inscripcion_respuesta1'] . '&respuesta2=' . $inscripcion['inscripcion_respuesta2'] . '&respuesta3=' . $inscripcion['inscripcion_respuesta3'] ?>" class = "icon pull-right tag" title='imprimir cupon' ><img src = "../images/icon-tag.png" alt = "" /></a>
+                                                <a target="_blank" href="<? echo $general_path."imprimircupon.php?evento=". $inscripcion['evento_codigo'] . '&mes=' . $inscripcion['inscripcion_mes'] . '&cod=' . $inscripcion['cat_codigo'] . '&cat=' . $inscripcion['inscripcion_categoria'] . '&opcion=' . $inscripcion['inscripcion_opcion'] . '&respuesta1=' . $inscripcion['inscripcion_respuesta1'] . '&respuesta2=' . $inscripcion['inscripcion_respuesta2'] . '&respuesta3=' . $inscripcion['inscripcion_respuesta3'] ?>" class = "icon pull-right tag" title='imprimir cupon' ><img src = "../images/icon-tag.png" alt = "" /></a>
                                             <?php } ?>
                                             <a data-toggle = "collapse" data-parent = "#accordion" href = "#evento-<?= $cont ?>" class = "icon control collapsed"></a>
 

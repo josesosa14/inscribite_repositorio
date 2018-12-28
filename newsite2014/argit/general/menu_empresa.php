@@ -11,28 +11,28 @@ if($_SERVER['REQUEST_URI'] == "/empresas/mensualidades.php"){
     <!-- Main navigation -->
     <ul class="nav navbar-nav menu"> 
         <li>
-            <a href="http://www.inscribiteonline.com.ar/empresas/empresa.php" class="<?php echo $inicio ?>">Inicio</a>
+            <a href="<?PHP echo $general_path;?>empresas/empresa.php" class="<?php echo $inicio ?>">Inicio</a>
         </li>
 		
 		
 		
 		<li>
-            <a href="http://www.inscribiteonline.com.ar/empresas/mensualidades.php" class="<?php echo $mensualidades ?>">Mensualidades</a>
+            <a href="<?PHP echo $general_path;?>empresas/mensualidades.php" class="<?php echo $mensualidades ?>">Mensualidades</a>
         </li>
 		<?php //if($_SESSION["empresa"]=="4"):?>
 		<li>
-            <a href="http://www.inscribiteonline.com.ar/empresas/transferencias.php" class="<?php echo $transferencia ?>">Liquidaciones</a>
+            <a href="<?PHP echo $general_path;?>empresas/transferencias.php" class="<?php echo $transferencia ?>">Liquidaciones</a>
         </li>
 		<?php //endif;?>
 		<li>
-            <a href="http://www.inscribiteonline.com.ar/empresas/descuentos.php" class="<?php echo $descuentos ?>">Descuentos</a>
+            <a href="<?PHP echo $general_path;?>empresas/descuentos.php" class="<?php echo $descuentos ?>">Descuentos</a>
         </li>
 		<li>
-            <a href="http://www.inscribiteonline.com.ar/empresas/altaEvento.php" class="<?php echo $alta_evento ?>">Evento</a>
+            <a href="<?PHP echo $general_path;?>empresas/altaEvento.php" class="<?php echo $alta_evento ?>">Evento</a>
         </li>
 		
 		<li >
-            <a href="http://www.inscribiteonline.com.ar/empresas/logout.php" class="">Salir</a>
+            <a href="<?PHP echo $general_path;?>empresas/logout.php" class="">Salir</a>
         </li>
     </ul>
     <!-- End main navigation -->

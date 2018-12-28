@@ -119,7 +119,7 @@ endif;
 	$("#empresas").change(function() {
 		var empresa_id = $(this).val();
 		$('#eventos').find('option').remove().end();
-		$('#eventos').load('http://www.inscribiteonline.com.ar/altas/getEventos.php?emp_id=' + empresa_id);
+		$('#eventos').load('<?PHP echo $general_path;?>altas/getEventos.php?emp_id=' + empresa_id);
 	});	
 </script>
 

@@ -465,7 +465,7 @@ $inscripciones = getArrayQuery($query, $mysqli);
         var datosArray = datos.split('/');
         dniUsuario = datosArray[4];
         idEvento = datosArray[3];
-        var urlCancelar = "http://www.inscribiteonline.com.ar/newsite2014/cancelarinscri.php?id=" + idEvento + "&dni=" + dniUsuario;
+        var urlCancelar = "<?PHP echo $general_path;?>newsite2014/cancelarinscri.php?id=" + idEvento + "&dni=" + dniUsuario;
         $('#btCancelar').attr('href', urlCancelar);
         $('.modalMessage').modal();
     });
@@ -483,7 +483,7 @@ $inscripciones = getArrayQuery($query, $mysqli);
                     <h2><span id="mensaje1">Está seguro que desea cancelar?</span></h2>
                     <h3><span id="mensaje2">Confirme su elección</span></h3>
                     <a href="#" id="btCancelar"><span style="background-color:red" class="badge">Cancelar mi Inscripción</span></a>
-                    <a href="http://www.inscribiteonline.com.ar/miCuenta.php" id="btSalir"><span class="badge" style="background-color:green">Salir</span></a>					
+                    <a href="<?PHP echo $general_path;?>miCuenta.php" id="btSalir"><span class="badge" style="background-color:green">Salir</span></a>					
                 </div>
                 <center><p>Si surge algún problema, comunicate al (11) 4641-4423</p></center>
             </div>

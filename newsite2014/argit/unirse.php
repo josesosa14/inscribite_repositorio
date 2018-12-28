@@ -16,7 +16,7 @@ $localidades = getArrayQuery("SELECT * FROM localidades", $mysqli);
 
 <div class="columns-container row" >
     <div class="col-sm-9">
-        <form class="contact-form" method="POST" action="/altas/usuario.php" id="formis">
+        <form class="contact-form" method="POST" action="<?PHP echo $general_path;?>/altas/usuario.php" id="formis">
             <div class="row">
                 <label class="col-sm-4">Nombre *</label>
                 <div class="col-sm-8 col-wrap">
@@ -367,7 +367,7 @@ array_walk_recursive($localidades_utf8, 'encode_items');
             if (cantidadNumeros >= 7 && cantidadNumeros <= 8 && $.isNumeric(dniUsuario)) {
                 respuesta = $.ajax({
                     type: "POST",
-                    url: 'http://www.inscribiteonline.com.ar/general/buscar_dni.php',
+                    url: '<?PHP echo $general_path;?>general/buscar_dni.php',
                     data: {'action': 'checkDni', 'dni': dniUsuario},
                     async: false,
                 })

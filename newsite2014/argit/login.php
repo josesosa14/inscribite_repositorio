@@ -23,7 +23,7 @@ include_once 'general/header.php';
                             dato = 0;
                             respuesta = $.ajax({
                                 type: "POST",
-                                url: 'http://www.inscribiteonline.com.ar/general/reenviar_password.php',
+                                url: '<?PHP echo $general_path;?>general/reenviar_password.php',
                                 data: {'action': 'checkEmail', 'dni': dniUsuario},
                                 async: false,
                             })

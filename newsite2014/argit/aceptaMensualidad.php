@@ -123,7 +123,7 @@ if($cuota && !$cuota['fac_id']):
 	
 	<?php
 	elseif ($cuota['fac_id']):
-		echo '<label style="color:black">Tiene una cuota impaga asociada, pueda ver la misma en <a href="http://www.inscribiteonline.com.ar/miCuenta.php#toShow">Micuenta</a>.</label>';
+		echo '<label style="color:black">Tiene una cuota impaga asociada, pueda ver la misma en <a href="'.$general_path.'miCuenta.php#toShow">Micuenta</a>.</label>';
 	else:
 		echo '<label>No tiene cuotas a pagar de esta mensualidad, recuerde que para pagar una nueva cuota, debe tener paga la anterior</label>';
 	endif;

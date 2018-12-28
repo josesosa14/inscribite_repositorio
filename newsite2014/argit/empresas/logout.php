@@ -1,6 +1,6 @@
 <?php 
 
-$general_path = "http://www.inscribiteonline.com.ar/";
+$general_path = "http:/127.0.0.1/";
 
 session_start();
 session_unset();

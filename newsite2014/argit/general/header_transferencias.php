@@ -14,7 +14,7 @@
 
         <title>Inscribite</title>
         <!--css -->
-        <base href="http://www.inscribiteonline.com.ar/newsite2014/argit/">
+        <base href="<?PHP echo $general_path;?>newsite2014/argit/">
         <link rel="stylesheet" href="../css/bootstrap.min.css" />
         <link rel="stylesheet" type="text/css" href="../css/style.css" />
         <link rel="shortcut icon" href="../images/favicon.ico">
@@ -61,7 +61,7 @@
                         <!-- Main navigation -->
                         <ul class="nav navbar-nav menu">
                             <li >
-                                <a href="http://www.inscribiteonline.com.ar/newsite2014/admin" class="<?php echo $inicio ?>">Volver al admin</a>
+                                <a href="<?PHP echo $general_path;?>newsite2014/admin" class="<?php echo $inicio ?>">Volver al admin</a>
                             </li>
                         </ul>
                     </div>

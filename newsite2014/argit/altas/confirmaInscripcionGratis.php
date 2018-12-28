@@ -2,7 +2,7 @@
 $pagar = "blue";
 require_once dirname(__FILE__) . '/../general/db.php';
 if(!isset($_SESSION["usuario"]) || strlen($_SESSION["usuario"])<6){
-	header("Location:http://www.inscribiteonline.com.ar/logout.php");
+	header("Location:".$general_path."logout.php");
 }
 
 

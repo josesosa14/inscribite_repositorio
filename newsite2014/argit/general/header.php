@@ -13,9 +13,9 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
         <meta property="og:title" content="Eventos Inscribite Online"/>
         <meta property="og:site_name" content="Inscribite Online"/>
-        <meta property="og:url" content="http://www.inscribiteonline.com.ar/miCuenta.php"/>
+        <meta property="og:url" content="<?PHP echo $general_path;?>miCuenta.php"/>
         <meta property="og:type" content="sport"/>
-        <meta property="og:image" content="http://www.inscribiteonline.com.ar/newsite2014/imagenes/face_logo.jpg"/>
+        <meta property="og:image" content="<?PHP echo $general_path;?>newsite2014/imagenes/face_logo.jpg"/>
         <meta property="og:description" content="M&aacute;s de 200 empresas y productoras conf&iacute;an la inscripci&oacute;n de sus eventos en nuestro sistema."/>
         <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
 
@@ -38,7 +38,7 @@
     </head>
 	
 	<noscript>
-		 <meta http-equiv="refresh" content="0;URL=http://www.inscribiteonline.com.ar/newsite2014/argit/general/ie8_problem.php" />
+		 <meta http-equiv="refresh" content="0;URL=<?PHP echo $general_path;?>newsite2014/argit/general/ie8_problem.php" />
 	</noscript>
     <body>
         <?php if (isset($miCuenta)) { ?>
@@ -85,7 +85,7 @@
                     };
                     $(function () {
                         if (msieversion()) {
-                            var url = "http://www.inscribiteonline.com.ar/newsite2014/argit/general/ie8_problem.php";
+                            var url = "<?PHP echo $general_path;?>newsite2014/argit/general/ie8_problem.php";
                             $(location).attr('href', url);
                         }
 

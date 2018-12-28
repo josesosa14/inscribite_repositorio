@@ -265,7 +265,7 @@ require_once dirname(__FILE__) . '/general/footer.php';
    <script>
    $("#enviar_form").click(function (e) {
 	   e.preventDefault();
-            $.post("http://www.inscribiteonline.com.ar/new_admin/renglonePagosLiquidacion/", {liq_id:"<?=$liquidacion["liq_id"]?>",data: $("#cuentas_liquidaciones").serializeArray()})
+            $.post("<?PHP echo $general_path;?>new_admin/renglonePagosLiquidacion/", {liq_id:"<?=$liquidacion["liq_id"]?>",data: $("#cuentas_liquidaciones").serializeArray()})
                     .success(function (data) {
                         if (data == 1) {
                             alert('datos guardados');

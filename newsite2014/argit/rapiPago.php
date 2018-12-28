@@ -164,7 +164,7 @@ endif;
 <?php
 
 }else{
-echo 'No se encuentra logeado, <a href="http://www.inscribiteonline.com.ar/newsite2014/admin/">iniciar sesion</a>';
+echo 'No se encuentra logeado, <a href="'.$general_path.'newsite2014/admin/">iniciar sesion</a>';
 }
 
 require_once dirname(__FILE__) . '/general/footer.php';

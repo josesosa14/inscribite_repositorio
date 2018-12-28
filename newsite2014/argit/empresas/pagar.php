@@ -15,7 +15,7 @@ if (!isset($_SESSION['empresa'])) {
 		insertRow('mensualidad_cuota_usuario',$parameters,$mysqli);
 	}
 	
-	echo 'cuota paga <a href="http://www.inscribiteonline.com.ar/empresas/mensualidades.php" >Volver</a>';
+	echo 'cuota paga <a href="'.$general_path;?>empresas/mensualidades.php" >Volver</a>';
 }
 
 

@@ -16,7 +16,7 @@ $facturas = getArrayQuery($query, $mysqli);
 <?php if ($facturas): ?>
 <h3>Inscripciones pedidas, no necesariamente enviadas a PMC</h3>
     <div class="row">
-        <form method="post" action="http://www.inscribiteonline.com.ar/newsite2014/argit/pagoMisCuentas/resetearInscripciones.php" id="formx">
+        <form method="post" action="<?PHP echo $general_path;?>newsite2014/argit/pagoMisCuentas/resetearInscripciones.php" id="formx">
             <table border="1" style="width:100%;text-align:center">
                 <tr>
                     <th style="text-align:center">Seleccionar</th>
@@ -87,7 +87,7 @@ endif;
 <?php
 
 }else{
-echo 'No se encuentra logeado, <a href="http://www.inscribiteonline.com.ar/newsite2014/admin/">iniciar sesion</a>';
+echo 'No se encuentra logeado, <a href="' .$general_path.'newsite2014/admin/">iniciar sesion</a>';
 }
 
 require_once dirname(__FILE__) . '/general/footer.php';

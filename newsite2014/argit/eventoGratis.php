@@ -219,7 +219,7 @@ color: red;
                         $('.modalMessage').modal();
                         $("#confirmar").prop('disabled', true);
                         $('.modalMessage').on('hidden.bs.modal', function(e) {
-                            location.href = 'http://www.inscribiteonline.com.ar/miCuenta.php#toShow';
+                            location.href = '<?PHP echo $general_path;?>miCuenta.php#toShow';
                         });
                     });
 					 }

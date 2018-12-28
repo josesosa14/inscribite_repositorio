@@ -111,11 +111,11 @@ $mensualidades = getArrayQuery($query, $mysqli);
 				<td>'.$pago['emp_nombre'].'</td>
 				<td>'.$pago['men_cuotas'].'</td>
 				<td>
-					<a href="http://www.inscribiteonline.com.ar/mensualidades/modifica.php?id='.$pago['men_id'].'" >Ver</a>  |  ';
+					<a href="'.$general_path.'mensualidades/modifica.php?id='.$pago['men_id'].'" >Ver</a>  |  ';
 					if($pago['men_activo'] == 1){
-					echo '<a href="http://www.inscribiteonline.com.ar/mensualidades/borrar.php?id='.$pago['men_id'].'" >Desactivar</a>';		
+					echo '<a href="'.$general_path.'mensualidades/borrar.php?id='.$pago['men_id'].'" >Desactivar</a>';		
 					}else{
-					echo '<a href="http://www.inscribiteonline.com.ar/mensualidades/borrar.php?id='.$pago['men_id'].'" >Activar</a>';	
+					echo '<a href="'.$general_path.'mensualidades/borrar.php?id='.$pago['men_id'].'" >Activar</a>';	
 					}
 					
 					echo '
@@ -262,7 +262,7 @@ var button = '<button type="button" class="test btn-primary btn-sm">borrar</butt
 <?php
 
 }else{
-echo 'No se encuentra logeado, <a href="http://www.inscribiteonline.com.ar/newsite2014/admin/">iniciar sesion</a>';
+echo 'No se encuentra logeado, <a href="'.$general_path.'newsite2014/admin/">iniciar sesion</a>';
 }
 
 require_once dirname(__FILE__) . '/general/footer.php';

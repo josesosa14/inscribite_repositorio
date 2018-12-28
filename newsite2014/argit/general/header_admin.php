@@ -13,16 +13,16 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
         <meta property="og:title" content="Eventos Inscribite Online"/>
         <meta property="og:site_name" content="Inscribite Online"/>
-        <meta property="og:url" content="http://www.inscribiteonline.com.ar/miCuenta.php"/>
+        <meta property="og:url" content="<?PHP echo $general_path;?>miCuenta.php"/>
         <meta property="og:type" content="sport"/>
-        <meta property="og:image" content="http://www.inscribiteonline.com.ar/newsite2014/imagenes/face_logo.jpg"/>
+        <meta property="og:image" content="<?PHP echo $general_path;?>newsite2014/imagenes/face_logo.jpg"/>
         <meta property="og:description" content="Más de 200 empresas y productoras conf&iacute;an la inscripci&oacute;n de sus eventos en nuestro sistema."/>
         <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
 
         <title>Inscribite</title>
 
         <!--css -->
-        <base href="http://www.inscribiteonline.com.ar/newsite2014/argit/">
+        <base href="<?PHP echo $general_path;?>newsite2014/argit/">
         <link rel="stylesheet" href="../css/bootstrap.min.css" />
 		<link rel="stylesheet" type="text/css" href="../css/style.css" />
         <link rel="shortcut icon" href="../images/favicon.ico">
@@ -42,7 +42,7 @@
     </head>
 	
 	<noscript>
-		 <meta http-equiv="refresh" content="0;URL='http://www.inscribiteonline.com.ar/newsite2014/argit/general/ie8_problem.php'" />
+		 <meta http-equiv="refresh" content="0;URL='<?PHP echo $general_path;?>newsite2014/argit/general/ie8_problem.php'" />
 	</noscript>
     <body>
         <div class="container">			

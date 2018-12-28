@@ -14,7 +14,7 @@ require_once dirname(__FILE__) . '/db.php'; ?>
 
         <title>Inscribite</title>
         <!--css -->
-		<base href="http://www.inscribiteonline.com.ar/newsite2014/argit/">
+		<base href="<?PHP echo $general_path;?>newsite2014/argit/">
         <link rel="stylesheet" href="../css/bootstrap.min.css" />
         <link rel="stylesheet" type="text/css" href="../css/style.css" />
 

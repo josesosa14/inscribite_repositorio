@@ -12,7 +12,7 @@
 
         <title>Inscribite</title>     
         <!--css -->
-        <base href="http://www.inscribiteonline.com.ar/newsite2014/argit/">
+        <base href="<?PHP echo $general_path;?>newsite2014/argit/">
         <link rel="stylesheet" href="../css/bootstrap.min.css" />
         <link rel="stylesheet" type="text/css" href="../css/style.css" />
 
@@ -33,7 +33,7 @@
                         <input type="text" name="empresa" placeholder="Ingresar empresa" class="form-control">
 
                         <div class="left">
-                            <a href="http://www.inscribiteonline.com.ar/empresa.php">No tengo cuenta. Registrarme</a>
+                            <a href="<?PHP echo $general_path;?>empresa.php">No tengo cuenta. Registrarme</a>
                         </div>
                         <div class="right">
                             <input type="submit" value="recuperar" class="btn green">

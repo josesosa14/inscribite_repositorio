@@ -24,7 +24,7 @@ require_once dirname(__FILE__) . '/general/header.php';
                             dato = 0;
                             respuesta = $.ajax({
                                 type: "POST",
-                                url: 'http://www.inscribiteonline.com.ar/general/reenviar_password.php',
+                                url: '<?PHP echo $general_path;?>general/reenviar_password.php',
                                 data: {'action': 'checkEmail', 'dni': dniUsuario},
                                 async: false,
                             })
@@ -142,7 +142,7 @@ require_once dirname(__FILE__) . '/general/header.php';
                                     $("#mensaje2").empty();
                                     $("#mensaje2").append("Verifique sus datos y si no está registrado haga click en Unirse");
                                     $("#mensaje3").empty();
-                                    $("#mensaje3").append('<span style="color:black">Para registrarse haga click <a class="blue" href="http://www.inscribiteonline.com.ar/unirse.php?dni=' + dniUsuario + '">aquí<a/></span>');
+                                    $("#mensaje3").append('<span style="color:black">Para registrarse haga click <a class="blue" href="<?PHP echo $general_path;?>unirse.php?dni=' + dniUsuario + '">aquí<a/></span>');
                                     $('.modalMessage').modal();
                                 }
                             });

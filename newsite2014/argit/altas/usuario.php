@@ -1,8 +1,7 @@
 <?php
 
 require_once dirname(__FILE__) . '/../general/db.php';
-$general_path = "http://www.inscribiteonline.com.ar/";
-$general_path2 = "http://www.inscribiteonline.com.ar/";
+
 if ($_POST && !usuarioRegistrado($_POST,$mysqli)) {
 	
 	

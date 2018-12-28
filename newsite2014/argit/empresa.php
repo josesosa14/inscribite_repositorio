@@ -13,7 +13,7 @@ $localidades = getArrayQuery("SELECT * FROM localidades", $mysqli);
     </div>
     <div class="col-sm-3">
         <?php
-        echo '<a href="http://www.inscribiteonline.com.ar/empresas/index.php"><span class="btn">Login de empresa</span></a>';
+        echo '<a href="'.$general_path.'empresas/index.php"><span class="btn">Login de empresa</span></a>';
         ?> 
     </div>
 

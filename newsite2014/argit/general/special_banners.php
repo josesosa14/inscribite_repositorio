@@ -7,7 +7,7 @@ $banners = getArrayQuery($query,$mysqli);
 if($banners){
 echo '<div class="row">';
 	foreach($banners as $banner){
-		echo '<div class="col-sm-6"><a href="'.$banner['link'].'"><img src="http://www.inscribiteonline.com.ar/newsite2014/imagenes/image_'.$banner['imagen1'].'" class="img-responsive"/></a></div>';
+		echo '<div class="col-sm-6"><a href="'.$banner['link'].'"><img src="'.$general_path.'newsite2014/imagenes/image_'.$banner['imagen1'].'" class="img-responsive"/></a></div>';
 	}
 echo '</div>';
 }
